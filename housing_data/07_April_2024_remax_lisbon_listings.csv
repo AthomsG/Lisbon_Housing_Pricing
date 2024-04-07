@@ -1,0 +1,2001 @@
+,Price,Square Meters,Address,Bedrooms,Bathrooms
+0,460 000 €,--,"Cascais, Alcabideche",--,--
+1,490 000 €,--,"Cascais, Alcabideche",--,--
+2,247 000 €,72,"Odivelas, Odivelas",3,2
+3,540 000 €,72,"Cascais, Cascais e Estoril",2,2
+4,350 000 €,130,"Lisboa, Arroios",9,2
+5,1 000 000 €,--,"Cascais, Cascais e Estoril",--,--
+6,228 000 €,99,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+7,1 500 000 €,408,"Cascais, Cascais e Estoril",8,6
+8,179 900 €,65,"Amadora, Águas Livres",2,1
+9,24 990 €,15920,"Azambuja, Aveiras de Baixo",--,--
+10,215 000 €,90,"Sintra, Massamá e Monte Abraão",2,2
+11,110 000 €,110,"Lisboa, Areeiro",--,0
+12,880 000 €,144,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,2
+13,323 500 €,80,"Lisboa, Benfica",2,1
+14,295 000 €,49,"Cascais, Carcavelos e Parede",1,0
+15,290 000 €,138,"Mafra, Encarnação",3,2
+16,169 900 €,67,"Amadora, Águas Livres",2,1
+17,250 000 €,113,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1
+18,625 000 €,219,"Lisboa, São Domingos de Benfica",4,3
+19,480 000 €,275,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,--
+20,110 000 €,87,"Lisboa, Arroios",--,0
+21,25 000 €,50,"Lisboa, Benfica",--,2
+22,155 000 €,70,"Sintra, Queluz e Belas",1,1
+23,165 000 €,79,"Cadaval, Cadaval e Pêro Moniz",--,0
+24,1 000 000 €,373,"Cascais, Cascais e Estoril",4,4
+25,185 000 €,69,"Sintra, Cacém e São Marcos",2,1
+26,340 000 €,79,"Lisboa, Benfica",3,2
+27,184 500 €,74,"Mafra, Malveira e São Miguel de Alcainça",2,2
+28,470 000 €,127,"Odivelas, Odivelas",3,2
+29,460 000 €,90,"Lisboa, Lumiar",1,2
+30,239 000 €,99,"Sintra, Algueirão-Mem Martins",3,2
+31,70 000 €,--,"Sintra, Casal de Cambra",--,0
+32,75 000 €,--,"Sintra, Casal de Cambra",--,0
+33,160 000 €,75,"Sintra, Agualva e Mira-Sintra",2,1
+34,270 000 €,78,"Sintra, Colares",2,2
+35,590 000 €,98,"Lisboa, Estrela",2,3
+36,300 000 €,48,"Lisboa, Campo de Ourique",1,1
+37,267 500 €,122,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+38,399 000 €,115,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+39,85 000 €,41,"Loures, Sacavém e Prior Velho",--,1
+40,189 000 €,46,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1,1
+41,280 000 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+42,262 500 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+43,127 000 €,151,"Alenquer, Abrigada e Cabanas de Torres",--,2
+44,277 500 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+45,257 500 €,122,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+46,275 000 €,220,"Loures, Camarate, Unhos e Apelação",--,0
+47,275 000 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+48,525 000 €,329,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",4,4
+49,260 000 €,72,"Cascais, Carcavelos e Parede",2,1
+50,240 000 €,108,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,0
+51,210 000 €,88,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,0
+52,300 000 €,60,"Lisboa, Arroios",2,1
+53,775 000 €,134,"Lisboa, Alvalade",4,2
+54,747 500 €,163,"Sintra, São João das Lampas e Terrugem",4,3
+55,560 000 €,76,"Cascais, Cascais e Estoril",2,2
+56,800 000 €,--,"Cascais, Alcabideche",--,0
+57,192 000 €,72,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1
+58,215 000 €,115,"Lourinhã, Lourinhã e Atalaia",2,0
+59,435 000 €,84,"Lisboa, Areeiro",3,2
+60,50 000 €,--,"Torres Vedras, Maxial e Monte Redondo",--,0
+61,188 000 €,86,"Sintra, Massamá e Monte Abraão",2,1
+62,550 000 €,234,"Sintra, Algueirão-Mem Martins",4,3
+63,125 000 €,60,"Vila Franca de Xira, Vila Franca de Xira",2,1
+64,320 000 €,95,"Loures, Sacavém e Prior Velho",2,1
+65,1 300 000 €,180,"Lisboa, Misericórdia",2,3
+66,430 000 €,213,"Torres Vedras, Campelos e Outeiro da Cabeça",4,4
+67,675 000 €,170,"Lisboa, Lumiar",4,3
+68,165 000 €,52,"Odivelas, Odivelas",2,1
+69,285 000 €,188,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0
+70,2 640 000 €,2400,"Lisboa, Ajuda",--,0
+71,235 000 €,45,"Lisboa, São Vicente",0,0
+72,2 340 000 €,264,"Cascais, Cascais e Estoril",5,4
+73,140 000 €,--,"Sintra, Casal de Cambra",--,0
+74,265 000 €,60,"Lisboa, São Vicente",4,1
+75,685 000 €,230,"Odivelas, Ramada e Caneças",3,3
+76,300 000 €,89,"Mafra, Ericeira",--,1
+77,728 000 €,143,"Lisboa, Avenidas Novas",3,2
+78,1 080 000 €,213,"Cascais, Alcabideche",5,4
+79,239 000 €,73,"Odivelas, Odivelas",2,1
+80,338 000 €,79,"Cascais, Carcavelos e Parede",3,2
+81,199 000 €,80,"Odivelas, Póvoa de Santo Adrião e Olival Basto",3,4
+82,290 000 €,90,"Lisboa, São Domingos de Benfica",--,1
+83,320 000 €,80,"Lisboa, São Domingos de Benfica",--,2
+84,590 000 €,170,"Lisboa, São Domingos de Benfica",--,3
+85,450 000 €,115,"Lisboa, São Vicente",3,1
+86,395 000 €,76,"Lisboa, Areeiro",2,1
+87,299 000 €,258,"Cascais, Carcavelos e Parede",--,0
+88,885 000 €,155,"Loures, Moscavide e Portela",4,3
+89,170 000 €,123,"Azambuja, Azambuja",2,0
+90,198 000 €,38,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1,1
+91,225 000 €,68,"Loures, Loures",3,1
+92,57 000 €,300,"Oeiras, Porto Salvo",--,0
+93,1 100 000 €,225,"Lisboa, Areeiro",4,3
+94,35 000 €,--,"Torres Vedras, Dois Portos e Runa",--,0
+95,200 000 €,47,"Lisboa, Misericórdia",2,1
+96,270 000 €,115,"Sintra, Algueirão-Mem Martins",2,1
+97,267 500 €,82,"Lisboa, Arroios",2,1
+98,141 900 €,52,"Sintra, Agualva e Mira-Sintra",1,1
+99,485 000 €,160,"Lisboa, Arroios",3,2
+100,1 650 000 €,693,"Lisboa, Campolide",--,0
+101,425 000 €,130,"Lisboa, Arroios",5,2
+102,180 000 €,65,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+103,168 000 €,75,"Sintra, Queluz e Belas",3,1
+104,480 000 €,133,"Odivelas, Odivelas",2,2
+105,265 500 €,47,"Lisboa, Santo António",2,1
+106,249 500 €,80,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+107,1 250 000 €,180,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3
+108,920 000 €,180,"Lisboa, Estrela",4,--
+109,315 000 €,126,"Sintra, Queluz e Belas",3,2
+110,134 000 €,73,"Vila Franca de Xira, Vialonga",--,2
+111,232 000 €,65,"Lisboa, Arroios",2,1
+112,560 000 €,36267,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0
+113,330 000 €,108,"Oeiras, Porto Salvo",3,2
+114,57 500 €,47,"Odivelas, Odivelas",--,1
+115,310 000 €,70,"Lisboa, Avenidas Novas",2,1
+116,290 000 €,77,"Lisboa, Arroios",1,2
+117,509 000 €,147,"Amadora, Alfragide",3,3
+118,775 000 €,192,"Lisboa, Olivais",5,2
+119,1 550 000 €,240,"Lisboa, Santa Maria Maior",3,3
+120,340 000 €,274,"Sintra, São João das Lampas e Terrugem",4,1
+121,340 000 €,274,"Sintra, São João das Lampas e Terrugem",4,0
+122,340 000 €,274,"Sintra, São João das Lampas e Terrugem",4,0
+123,250 000 €,93,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2
+124,140 000 €,27,"Lisboa, Misericórdia",1,0
+125,780 000 €,153,"Cascais, Cascais e Estoril",3,2
+126,248 500 €,73,"Lisboa, Arroios",2,1
+127,1 998 000 €,502,"Cascais, Carcavelos e Parede",13,5
+128,225 000 €,102,"Sintra, Queluz e Belas",3,2
+129,130 000 €,66,"Vila Franca de Xira, Vila Franca de Xira",2,1
+130,299 500 €,62,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+131,2 780 000 €,246,"Cascais, Cascais e Estoril",4,6
+132,645 000 €,186,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2
+133,55 000 €,3810,"Lourinhã, Lourinhã e Atalaia",0,0
+134,336 000 €,216,"Loures, Camarate, Unhos e Apelação",3,3
+135,399 500 €,87,"Odivelas, Odivelas",3,2
+136,300 000 €,168,"Loures, Camarate, Unhos e Apelação",3,2
+137,265 000 €,140,"Loures, Camarate, Unhos e Apelação",2,2
+138,100 000 €,78,"Azambuja, Azambuja",2,1
+139,250 000 €,71,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,2
+140,250 000 €,77,"Odivelas, Odivelas",3,2
+141,247 000 €,74,"Cascais, Carcavelos e Parede",1,1
+142,120 000 €,216,"Odivelas, Póvoa de Santo Adrião e Olival Basto",4,3
+143,199 500 €,108,"Sintra, Queluz e Belas",2,2
+144,329 000 €,114,"Vila Franca de Xira, Vialonga",3,2
+145,737 000 €,217,"Mafra, Ericeira",3,4
+146,230 000 €,91,"Sintra, Algueirão-Mem Martins",2,1
+147,549 000 €,135,"Lisboa, Estrela",2,2
+148,390 000 €,113,"Oeiras, Carnaxide e Queijas",2,2
+149,319 000 €,192,"Alenquer, Ventosa",3,2
+150,319 800 €,48,"Lisboa, Avenidas Novas",1,1
+151,280 000 €,93,"Lisboa, Belém",3,2
+152,270 000 €,55,"Lisboa, Santo António",1,1
+153,1 295 000 €,171,"Cascais, Carcavelos e Parede",3,3
+154,229 000 €,84,"Sintra, Cacém e São Marcos",2,2
+155,32 000 €,33,"Sintra, Massamá e Monte Abraão",--,0
+156,375 000 €,105,"Lisboa, Santa Clara",3,2
+157,202 000 €,30,"Lisboa, Ajuda",0,1
+158,1 150 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0
+159,780 000 €,85,"Lisboa, Marvila",2,2
+160,960 000 €,357,"Odivelas, Ramada e Caneças",--,0
+161,2 500 000 €,185,"Cascais, Cascais e Estoril",3,3
+162,750 000 €,140,"Cascais, Cascais e Estoril",4,2
+163,92 000 €,35,"Azambuja, Azambuja",--,0
+164,287 500 €,120,"Lisboa, Campo de Ourique",--,1
+165,130 000 €,--,"Amadora, Encosta do Sol",--,0
+166,325 000 €,470,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,4
+167,550 000 €,128,"Cascais, Cascais e Estoril",3,2
+168,220 000 €,135,"Odivelas, Pontinha e Famões",4,2
+169,690 000 €,8612,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",--,0
+170,260 000 €,120,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2
+171,395 000 €,69,"Cascais, Cascais e Estoril",3,1
+172,249 900 €,92,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+173,530 000 €,139,"Amadora, Alfragide",4,3
+174,630 000 €,79,"Lisboa, Parque das Nações",2,1
+175,750 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0
+176,158 500 €,240,"Sintra, Rio de Mouro",--,--
+177,565 000 €,82,"Lisboa, Arroios",2,1
+178,274 000 €,80,"Odivelas, Pontinha e Famões",2,0
+179,80 000 €,58,"Torres Vedras, Dois Portos e Runa",1,1
+180,285 000 €,120,"Vila Franca de Xira, Vila Franca de Xira",3,2
+181,275 000 €,178,"Lisboa, Santa Maria Maior",--,1
+182,715 000 €,105,"Cascais, Cascais e Estoril",2,2
+183,432 500 €,116,"Odivelas, Ramada e Caneças",3,2
+184,450 000 €,319,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",4,8
+185,700 000 €,155,"Cascais, Carcavelos e Parede",4,3
+186,170 000 €,79,"Amadora, Venteira",1,1
+187,149 900 €,79,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,1
+188,275 000 €,96,"Mafra, Malveira e São Miguel de Alcainça",2,1
+189,195 000 €,82,"Amadora, Mina de Água",2,1
+190,470 000 €,106,"Lisboa, Benfica",3,2
+191,448 250 €,77,"Lisboa, Alcântara",2,1
+192,649 750 €,131,"Lisboa, Alcântara",3,3
+193,320 000 €,103,"Amadora, Mina de Água",3,2
+194,259 900 €,242,"Alenquer, Abrigada e Cabanas de Torres",3,4
+195,109 500 €,97,"Vila Franca de Xira, Vialonga",2,1
+196,410 000 €,86,"Lisboa, Campolide",2,1
+197,215 000 €,102,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2
+198,207 000 €,98,"Sintra, Cacém e São Marcos",2,1
+199,235 000 €,98,"Lisboa, Lumiar",--,1
+200,140 000 €,71,"Sintra, Agualva e Mira-Sintra",2,1
+201,190 000 €,43,"Lisboa, Alcântara",2,1
+202,320 000 €,96,"Lisboa, Beato",4,2
+203,340 000 €,140,"Sintra, Algueirão-Mem Martins",4,3
+204,185 000 €,61,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1,--
+205,179 000 €,134,"Arruda dos Vinhos, Arruda dos Vinhos",2,2
+206,209 600 €,100,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,2
+207,360 000 €,72,"Lisboa, São Domingos de Benfica",2,1
+208,345 000 €,60,"Lisboa, Campo de Ourique",--,--
+209,151 500 €,69,"Sintra, Queluz e Belas",2,1
+210,440 000 €,76,"Lisboa, Campo de Ourique",2,2
+211,350 000 €,172,"Oeiras, Porto Salvo",5,2
+212,775 000 €,94,"Lisboa, Santo António",2,2
+213,448 000 €,58,"Lisboa, Carnide",2,1
+214,649 000 €,126,"Lisboa, Parque das Nações",2,2
+215,177 500 €,38,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1,1
+216,277 500 €,84,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+217,1 500 000 €,230,"Lisboa, Santo António",6,3
+218,117 500 €,46,"Sintra, Rio de Mouro",1,1
+219,2 150 000 €,241,"Sintra, Rio de Mouro",3,5
+220,1 980 000 €,241,"Sintra, Rio de Mouro",3,5
+221,1 980 000 €,241,"Sintra, Rio de Mouro",3,5
+222,2 000 000 €,241,"Sintra, Rio de Mouro",3,5
+223,52 500 €,28,"Lisboa, Belém",--,0
+224,475 000 €,124,"Cascais, Carcavelos e Parede",3,3
+225,2 450 000 €,357,"Sintra, Rio de Mouro",4,6
+226,2 550 000 €,396,"Sintra, Rio de Mouro",4,6
+227,2 500 000 €,396,"Sintra, Rio de Mouro",4,6
+228,2 500 000 €,396,"Sintra, Rio de Mouro",4,6
+229,2 450 000 €,396,"Sintra, Rio de Mouro",4,6
+230,345 000 €,123,"Loures, Camarate, Unhos e Apelação",3,2
+231,330 000 €,72,"Lisboa, Penha de França",2,1
+232,895 000 €,140,"Cascais, Cascais e Estoril",3,2
+233,2 100 000 €,351,"Lisboa, Santo António",4,4
+234,110 000 €,45,"Amadora, Mina de Água",0,1
+235,240 000 €,--,"Mafra, Santo Isidoro",--,--
+236,895 000 €,245,"Cascais, São Domingos de Rana",3,3
+237,249 900 €,75,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+238,535 000 €,78,"Lisboa, Estrela",2,2
+239,165 000 €,65,"Sintra, Queluz e Belas",2,1
+240,385 000 €,116,"Mafra, Ericeira",2,--
+241,1 450 000 €,256,"Lisboa, Misericórdia",7,2
+242,100 000 €,57,"Amadora, Venteira",2,1
+243,1 900 000 €,266,"Lisboa, Campo de Ourique",5,3
+244,350 000 €,367,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0
+245,5 000 000 €,--,"Loures, Lousa",--,0
+246,148 000 €,47,"Sintra, Massamá e Monte Abraão",1,1
+247,175 000 €,99,"Vila Franca de Xira, Vialonga",3,2
+248,234 900 €,125,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1
+249,243 000 €,93,"Amadora, Águas Livres",3,2
+250,255 000 €,124,"Sintra, Algueirão-Mem Martins",3,2
+251,680 000 €,137,"Lisboa, Olivais",3,2
+252,450 000 €,96,"Sintra, São João das Lampas e Terrugem",2,--
+253,725 000 €,195,"Cascais, São Domingos de Rana",4,0
+254,1 150 000 €,224,"Lisboa, Areeiro",4,5
+255,159 500 €,96,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",3,2
+256,195 000 €,44,"Cascais, Cascais e Estoril",1,1
+257,210 000 €,69,"Sintra, Rio de Mouro",2,1
+258,2 400 000 €,239,"Cascais, Cascais e Estoril",4,5
+259,420 000 €,62,"Cascais, Carcavelos e Parede",3,2
+260,690 000 €,189,"Lisboa, Carnide",0,0
+261,270 000 €,184,"Lourinhã, Lourinhã e Atalaia",4,3
+262,730 000 €,188,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3
+263,185 000 €,41,"Oeiras, Barcarena",1,1
+264,110 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0
+265,263 000 €,72,"Oeiras, Porto Salvo",2,1
+266,120 000 €,--,"Alenquer, Carnota",--,--
+267,129 000 €,36,"Odivelas, Pontinha e Famões",2,1
+268,2 500 000 €,680,"Alenquer, Carnota",6,--
+269,310 000 €,37,"Lisboa, São Vicente",2,1
+270,750 000 €,300,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,4
+271,299 000 €,88,"Cascais, Carcavelos e Parede",2,2
+272,67 500 €,--,"Vila Franca de Xira, Vialonga",--,--
+273,1 980 000 €,330,"Lisboa, Santo António",11,2
+274,700 000 €,122,"Lisboa, Penha de França",3,0
+275,409 000 €,70,"Lisboa, Arroios",2,2
+276,213 000 €,98,"Amadora, Falagueira - Venda Nova",2,1
+277,650 000 €,280,"Cascais, São Domingos de Rana",3,5
+278,800 000 €,158,"Lourinhã, Lourinhã e Atalaia",3,2
+279,130 000 €,55,"Vila Franca de Xira, Vila Franca de Xira",1,1
+280,470 000 €,76,"Lisboa, Penha de França",2,1
+281,185 000 €,106,"Sintra, Algueirão-Mem Martins",2,1
+282,279 000 €,150,"Sintra, Agualva e Mira-Sintra",5,2
+283,260 000 €,60,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,--
+284,175 000 €,35,"Lisboa, Penha de França",2,1
+285,314 500 €,77,"Lisboa, São Domingos de Benfica",2,1
+286,175 000 €,70,"Sintra, Algueirão-Mem Martins",2,1
+287,125 000 €,--,"Torres Vedras, A dos Cunhados e Maceira",--,0
+288,235 000 €,94,"Sintra, Agualva e Mira-Sintra",3,2
+289,200 000 €,94,"Sintra, Agualva e Mira-Sintra",3,2
+290,425 000 €,153,"Lisboa, Penha de França",6,2
+291,260 000 €,99,"Loures, Loures",2,2
+292,100 000 €,38,"Sintra, Massamá e Monte Abraão",--,1
+293,200 000 €,75,"Sintra, Massamá e Monte Abraão",3,2
+294,450 000 €,166,"Mafra, Ericeira",3,3
+295,950 000 €,1825,"Loures, Sacavém e Prior Velho",--,0
+296,798 000 €,183,"Lisboa, Lumiar",4,3
+297,550 000 €,800,"Cadaval, Cadaval e Pêro Moniz",--,0
+298,183 000 €,74,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1
+299,205 000 €,117,"Sintra, Algueirão-Mem Martins",3,2
+300,385 000 €,98,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",4,4
+301,70 000 €,205,"Torres Vedras, Dois Portos e Runa",--,--
+302,349 000 €,189,"Alenquer, Abrigada e Cabanas de Torres",4,3
+303,269 000 €,92,"Odivelas, Ramada e Caneças",2,2
+304,159 000 €,70,"Sintra, Massamá e Monte Abraão",2,1
+305,199 900 €,116,"Amadora, Mina de Água",3,2
+306,46 000 €,90,"Sintra, Algueirão-Mem Martins",--,2
+307,220 000 €,97,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+308,950 000 €,201,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,5
+309,149 000 €,74,"Sintra, Massamá e Monte Abraão",2,1
+310,220 000 €,73,"Lisboa, Benfica",3,1
+311,1 000 000 €,230,"Cascais, Alcabideche",3,4
+312,325 000 €,141,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,2
+313,1 200 000 €,178,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,3
+314,265 000 €,179,"Sobral de Monte Agraço, São Quintino",4,2
+315,25 000 €,--,"Azambuja, Manique do Intendente, Vila Nova de São Pedro e Maçussa",--,0
+316,1 390 000 €,261,"Lisboa, Santa Clara",5,6
+317,645 000 €,--,"Lourinhã, São Bartolomeu dos Galegos e Moledo",--,0
+318,980 000 €,306,"Azambuja, Azambuja",6,3
+319,950 000 €,120,"Lisboa, Santa Maria Maior",--,0
+320,52 000 €,97,"Lourinhã, Lourinhã e Atalaia",--,0
+321,410 000 €,147,"Lisboa, Olivais",6,2
+322,48 000 €,54,"Azambuja, Manique do Intendente, Vila Nova de São Pedro e Maçussa",3,--
+323,234 000 €,115,"Vila Franca de Xira, Vialonga",3,2
+324,250 000 €,95,"Sintra, Cacém e São Marcos",3,2
+325,590 000 €,340,"Mafra, Malveira e São Miguel de Alcainça",5,4
+326,335 000 €,77,"Cascais, São Domingos de Rana",2,1
+327,749 000 €,322,"Torres Vedras, Dois Portos e Runa",3,0
+328,419 000 €,123,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+329,699 000 €,175,"Cascais, São Domingos de Rana",3,3
+330,690 000 €,70,"Lisboa, Arroios",2,2
+331,196 000 €,66,"Vila Franca de Xira, Vialonga",1,1
+332,298 000 €,69,"Lisboa, São Vicente",3,1
+333,199 000 €,74,"Amadora, Águas Livres",2,1
+334,249 000 €,95,"Sintra, Massamá e Monte Abraão",3,2
+335,35 000 €,28,"Torres Vedras, Dois Portos e Runa",--,--
+336,175 000 €,0,"Cascais, Alcabideche",0,0
+337,118 000 €,58,"Sintra, Agualva e Mira-Sintra",2,1
+338,497 500 €,250,"Sintra, Rio de Mouro",5,4
+339,630 000 €,102,"Lisboa, Areeiro",3,3
+340,150 000 €,130,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,1
+341,130 000 €,99,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,0
+342,83 000 €,50,"Azambuja, Aveiras de Baixo",2,0
+343,235 000 €,85,"Lisboa, São Domingos de Benfica",3,1
+344,255 000 €,98,"Lisboa, São Domingos de Benfica",4,1
+345,485 000 €,130,"Cascais, Carcavelos e Parede",3,3
+346,210 000 €,93,"Lisboa, Santa Clara",2,1
+347,550 000 €,--,"Amadora, Mina de Água",--,0
+348,260 000 €,--,"Mafra, Santo Isidoro",--,--
+349,650 000 €,137,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",5,2
+350,375 000 €,6391,"Mafra, Ericeira",--,0
+351,998 000 €,290,"Amadora, Alfragide",4,4
+352,343 000 €,170,"Sintra, Rio de Mouro",3,2
+353,890 000 €,195,"Mafra, Ericeira",3,5
+354,182 000 €,82,"Amadora, Venteira",2,1
+355,875 000 €,195,"Mafra, Ericeira",3,5
+356,425 000 €,175,"Lourinhã, Lourinhã e Atalaia",3,2
+357,350 000 €,83,"Lisboa, Alvalade",3,2
+358,875 000 €,195,"Mafra, Ericeira",3,5
+359,325 000 €,79,"Cascais, Alcabideche",2,1
+360,860 000 €,195,"Mafra, Ericeira",3,5
+361,19 900 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0
+362,275 000 €,28,"Cascais, Carcavelos e Parede",2,--
+363,275 000 €,56,"Cascais, Carcavelos e Parede",2,2
+364,230 000 €,102,"Azambuja, Azambuja",3,3
+365,277 000 €,75,"Sintra, Algueirão-Mem Martins",2,2
+366,228 000 €,85,"Sintra, Massamá e Monte Abraão",2,1
+367,189 000 €,117,"Alenquer, Carregado e Cadafais",3,2
+368,220 000 €,73,"Vila Franca de Xira, Vialonga",2,1
+369,235 000 €,85,"Lisboa, São Domingos de Benfica",3,1
+370,325 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--
+371,775 000 €,128,"Lisboa, Campolide",3,3
+372,265 000 €,65,"Amadora, Falagueira - Venda Nova",3,1
+373,2 850 000 €,1193,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",0,4
+374,210 000 €,111,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2
+375,275 000 €,--,"Mafra, Azueira e Sobral da Abelheira",--,--
+376,265 000 €,87,"Cascais, São Domingos de Rana",--,2
+377,153 000 €,98,"Alenquer, Ota",3,2
+378,450 000 €,77,"Lisboa, Campo de Ourique",2,1
+379,145 000 €,75,"Vila Franca de Xira, Vialonga",3,1
+380,105 000 €,--,"Mafra, Santo Isidoro",--,--
+381,209 000 €,89,"Odivelas, Odivelas",2,2
+382,375 000 €,80,"Lisboa, Estrela",2,1
+383,285 000 €,113,"Mafra, Milharado",2,2
+384,85 000 €,--,"Sintra, São João das Lampas e Terrugem",--,--
+385,599 000 €,210,"Cascais, São Domingos de Rana",3,0
+386,26 000 €,760,"Loures, Lousa",--,0
+387,499 000 €,285,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,4
+388,150 000 €,188,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",4,4
+389,350 000 €,90,"Lisboa, Arroios",--,1
+390,485 000 €,154,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",5,3
+391,150 000 €,201,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1
+392,420 000 €,150,"Azambuja, Aveiras de Baixo",3,2
+393,265 000 €,130,"Vila Franca de Xira, Vila Franca de Xira",2,3
+394,120 000 €,36,"Amadora, Mina de Água",1,1
+395,180 000 €,69,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1
+396,95 000 €,77,"Vila Franca de Xira, Vila Franca de Xira",1,1
+397,210 000 €,87,"Sintra, Cacém e São Marcos",2,2
+398,162 000 €,72,"Loures, Bucelas",2,--
+399,162 000 €,73,"Loures, Bucelas",--,--
+400,60 000 €,100,"Cascais, Carcavelos e Parede",--,1
+401,225 000 €,75,"Loures, Santo António dos Cavaleiros e Frielas",4,1
+402,179 500 €,77,"Amadora, Águas Livres",2,2
+403,770 000 €,256,"Odivelas, Ramada e Caneças",4,4
+404,699 900 €,410,"Sintra, Cacém e São Marcos",--,0
+405,170 000 €,272,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",4,4
+406,175 000 €,96,"Sobral de Monte Agraço, São Quintino",4,2
+407,790 000 €,131,"Lisboa, Alvalade",5,3
+408,26 000 €,--,"Mafra, Enxara do Bispo, Gradil e Vila Franca do Rosário",--,--
+409,325 000 €,79,"Sintra, Queluz e Belas",3,2
+410,98 000 €,335,"Cascais, São Domingos de Rana",--,--
+411,147 000 €,92,"Sintra, Rio de Mouro",2,1
+412,300 000 €,90,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2
+413,315 000 €,78,"Cascais, Cascais e Estoril",2,2
+414,209 990 €,65,"Loures, Sacavém e Prior Velho",2,1
+415,325 000 €,92,"Cascais, São Domingos de Rana",2,2
+416,399 000 €,82,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,--
+417,479 000 €,441,"Loures, Bucelas",8,7
+418,765 000 €,320,"Cascais, São Domingos de Rana",3,3
+419,479 000 €,441,"Loures, Bucelas",8,7
+420,425 000 €,126,"Oeiras, Porto Salvo",3,2
+421,276 000 €,100,"Sintra, Rio de Mouro",2,1
+422,432 000 €,165,"Cascais, São Domingos de Rana",3,2
+423,175 000 €,65,"Odivelas, Odivelas",3,1
+424,139 900 €,78,"Alenquer, Carregado e Cadafais",2,1
+425,210 000 €,66,"Lisboa, Alcântara",2,1
+426,210 000 €,78,"Odivelas, Odivelas",2,1
+427,425 000 €,158,"Lourinhã, Lourinhã e Atalaia",3,2
+428,1 990 000 €,530,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",9,11
+429,429 000 €,74,"Lisboa, Campo de Ourique",2,1
+430,875 000 €,217,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3
+431,179 000 €,68,"Lisboa, Marvila",2,1
+432,597 000 €,107,"Cascais, Cascais e Estoril",3,3
+433,398 000 €,120,"Amadora, Mina de Água",3,2
+434,460 000 €,336,"Odivelas, Odivelas",4,2
+435,380 000 €,70,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,3
+436,232 600 €,110,"Sintra, Massamá e Monte Abraão",3,2
+437,320 000 €,69,"Cascais, Carcavelos e Parede",2,1
+438,35 000 €,79,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1
+439,89 000 €,170,"Cascais, Alcabideche",--,--
+440,20 000 €,109,"Arruda dos Vinhos, Arruda dos Vinhos",--,--
+441,99 000 €,123,"Arruda dos Vinhos, Arruda dos Vinhos",--,2
+442,170 000 €,63,"Amadora, Mina de Água",1,1
+443,98 000 €,126,"Arruda dos Vinhos, Arruda dos Vinhos",--,2
+444,395 000 €,146,"Odivelas, Pontinha e Famões",3,2
+445,370 000 €,107,"Cascais, São Domingos de Rana",3,2
+446,350 000 €,157,"Torres Vedras, Ponte do Rol",2,3
+447,255 000 €,95,"Lisboa, São Domingos de Benfica",4,1
+448,145 000 €,53,"Arruda dos Vinhos, Arruda dos Vinhos",2,1
+449,187 000 €,85,"Cascais, Carcavelos e Parede",--,--
+450,1 200 000 €,--,"Cascais, Alcabideche",--,0
+451,355 000 €,68,"Cascais, Carcavelos e Parede",2,1
+452,66 500 €,48,"Sintra, Rio de Mouro",--,0
+453,349 000 €,134,"Odivelas, Ramada e Caneças",3,2
+454,695 000 €,166150,"Lisboa, Lumiar",3,3
+455,169 000 €,63,"Vila Franca de Xira, Vialonga",1,1
+456,2 950 000 €,1052,"Sintra, São João das Lampas e Terrugem",9,9
+457,1 150 000 €,--,"Oeiras, Carnaxide e Queijas",--,--
+458,215 000 €,59,"Lisboa, Campo de Ourique",2,1
+459,695 000 €,94,"Lisboa, Alvalade",2,2
+460,292 900 €,76,"Lisboa, Olivais",3,2
+461,265 000 €,81,"Odivelas, Odivelas",3,2
+462,255 000 €,91,"Odivelas, Pontinha e Famões",3,1
+463,130 000 €,200,"Amadora, Falagueira - Venda Nova",--,1
+464,140 000 €,25,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",0,1
+465,415 000 €,85,"Lisboa, Avenidas Novas",2,1
+466,1 290 000 €,147,"Lisboa, Campolide",3,3
+467,250 000 €,70,"Cascais, São Domingos de Rana",2,2
+468,184 000 €,81,"Sintra, Algueirão-Mem Martins",2,1
+469,199 000 €,79,"Sintra, Algueirão-Mem Martins",3,1
+470,4 800 000 €,562,"Cascais, Cascais e Estoril",5,6
+471,1 375 000 €,380,"Loures, Moscavide e Portela",4,5
+472,268 000 €,81,"Odivelas, Odivelas",2,1
+473,1 250 000 €,215,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3
+474,265 000 €,65,"Lisboa, Olivais",3,1
+475,44 900 €,15,"Loures, Santo António dos Cavaleiros e Frielas",--,0
+476,255 000 €,42,"Lisboa, Campo de Ourique",0,1
+477,1 600 000 €,228,"Cascais, Cascais e Estoril",3,3
+478,120 000 €,56,"Loures, Sacavém e Prior Velho",1,1
+479,230 000 €,88,"Oeiras, Porto Salvo",--,2
+480,160 000 €,88,"Sintra, Massamá e Monte Abraão",2,1
+481,760 000 €,320,"Odivelas, Pontinha e Famões",4,0
+482,499 000 €,100,"Lisboa, São Vicente",3,2
+483,259 500 €,105,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2
+484,185 000 €,101,"Sintra, Algueirão-Mem Martins",2,1
+485,299 000 €,185,"Lisboa, Lumiar",--,--
+486,980 000 €,440,"Lisboa, Ajuda",--,0
+487,375 000 €,111,"Oeiras, Carnaxide e Queijas",3,2
+488,129 900 €,40,"Sintra, Agualva e Mira-Sintra",1,1
+489,1 780 000 €,334,"Mafra, Venda do Pinheiro e Santo Estêvão das Galés",3,5
+490,195 000 €,67,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+491,209 500 €,98,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2
+492,140 000 €,80,"Amadora, Venteira",--,2
+493,160 000 €,82,"Vila Franca de Xira, Vialonga",4,1
+494,699 500 €,160,"Cascais, Cascais e Estoril",3,3
+495,390 000 €,106,"Lisboa, Arroios",3,1
+496,969 000 €,252,"Sintra, Rio de Mouro",8,4
+497,58 000 €,69,"Mafra, Igreja Nova e Cheleiros",2,0
+498,220 000 €,101,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",3,2
+499,259 000 €,107,"Sintra, Massamá e Monte Abraão",2,2
+500,600 000 €,138,"Lisboa, Lumiar",3,3
+501,255 000 €,100,"Lourinhã, Lourinhã e Atalaia",2,2
+502,255 000 €,45,"Lisboa, Alcântara",1,1
+503,665 000 €,95,"Lisboa, Belém",3,2
+504,210 000 €,74,"Lisboa, Olivais",2,1
+505,160 000 €,55,"Lisboa, Olivais",2,1
+506,360 000 €,240,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",4,3
+507,4 750 000 €,600,"Lisboa, Santa Maria Maior",--,11
+508,110 000 €,120,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",--,0
+509,370 000 €,0,"Cascais, São Domingos de Rana",0,0
+510,289 500 €,113,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+511,80 000 €,21,"Lisboa, Alvalade",0,1
+512,239 900 €,63,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",2,1
+513,305 000 €,87,"Cascais, São Domingos de Rana",2,2
+514,199 000 €,72,"Sintra, Agualva e Mira-Sintra",2,1
+515,179 000 €,42,"Lisboa, Alcântara",2,1
+516,400 000 €,106,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,1
+517,400 000 €,470,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,3
+518,180 000 €,90,"Lourinhã, Lourinhã e Atalaia",2,1
+519,95 000 €,434,"Odivelas, Ramada e Caneças",--,0
+520,975 000 €,303,"Odivelas, Ramada e Caneças",5,3
+521,580 000 €,43,"Cascais, Cascais e Estoril",0,1
+522,220 000 €,90,"Sintra, Algueirão-Mem Martins",3,2
+523,260 000 €,88,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,2
+524,237 500 €,125,"Amadora, Mina de Água",3,2
+525,310 000 €,59,"Lisboa, Alcântara",5,--
+526,350 000 €,73,"Mafra, Ericeira",2,2
+527,90 000 €,109,"Lisboa, Misericórdia",--,2
+528,365 000 €,48,"Lisboa, Marvila",0,0
+529,375 000 €,4480,"Lourinhã, Miragaia e Marteleira",--,0
+530,695 000 €,84,"Lisboa, Marvila",2,0
+531,795 000 €,116,"Lisboa, Marvila",2,0
+532,185 000 €,89,"Loures, Loures",2,1
+533,190 000 €,89,"Sintra, Cacém e São Marcos",2,1
+534,155 000 €,62,"Sintra, Agualva e Mira-Sintra",2,1
+535,1 100 000 €,387,"Lisboa, Arroios",4,2
+536,640 000 €,64,"Lisboa, Misericórdia",2,1
+537,635 000 €,65,"Lisboa, Misericórdia",2,1
+538,630 000 €,63,"Lisboa, Misericórdia",2,1
+539,595 000 €,64,"Lisboa, Misericórdia",1,0
+540,149 000 €,61,"Vila Franca de Xira, Vila Franca de Xira",1,1
+541,1 200 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,--
+542,990 000 €,303,"Cascais, Cascais e Estoril",5,5
+543,70 000 €,33,"Odivelas, Pontinha e Famões",--,1
+544,598 000 €,65,"Lisboa, Belém",3,1
+545,550 000 €,152,"Lisboa, Arroios",5,3
+546,189 000 €,103,"Vila Franca de Xira, Vialonga",3,1
+547,2 850 000 €,374,"Lisboa, Avenidas Novas",6,6
+548,155 000 €,48,"Sintra, Algueirão-Mem Martins",1,1
+549,995 000 €,197,"Oeiras, Porto Salvo",5,4
+550,225 000 €,58,"Loures, Moscavide e Portela",2,1
+551,480 000 €,154,"Sintra, Algueirão-Mem Martins",5,3
+552,49 900 €,52,"Alenquer, Carregado e Cadafais",1,--
+553,70 000 €,170,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,4
+554,290 000 €,60,"Lisboa, Penha de França",3,2
+555,215 000 €,90,"Loures, Santo António dos Cavaleiros e Frielas",4,1
+556,220 000 €,58,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1
+557,125 000 €,641,"Torres Vedras, Ponte do Rol",--,0
+558,6 000 000 €,638,"Cascais, Cascais e Estoril",6,9
+559,217 000 €,41,"Torres Vedras, Silveira",1,1
+560,698 000 €,134,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,3
+561,243 000 €,82,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1
+562,950 000 €,136,"Cascais, Cascais e Estoril",4,3
+563,885 000 €,231,"Vila Franca de Xira, Vila Franca de Xira",5,3
+564,1 850 000 €,240,"Cascais, Cascais e Estoril",4,5
+565,279 000 €,104,"Amadora, Encosta do Sol",4,2
+566,140 000 €,79,"Amadora, Venteira",2,1
+567,450 000 €,259,"Vila Franca de Xira, Vila Franca de Xira",4,4
+568,189 000 €,81,"Sintra, Massamá e Monte Abraão",2,1
+569,292 500 €,86,"Amadora, Alfragide",4,2
+570,235 000 €,117,"Azambuja, Alcoentre",4,2
+571,300 000 €,115,"Sintra, Rio de Mouro",3,2
+572,219 000 €,85,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2
+573,1 200 000 €,240,"Cascais, Alcabideche",3,5
+574,190 000 €,124,"Sintra, Agualva e Mira-Sintra",4,2
+575,895 000 €,155,"Lisboa, Avenidas Novas",3,3
+576,185 000 €,81,"Sintra, Cacém e São Marcos",2,2
+577,189 750 €,90,"Sintra, Casal de Cambra",3,2
+578,625 000 €,70,"Cascais, Cascais e Estoril",1,1
+579,890 000 €,200,"Cascais, Alcabideche",4,4
+580,89 900 €,--,"Sintra, Cacém e São Marcos",--,--
+581,207 000 €,90,"Sintra, Algueirão-Mem Martins",2,1
+582,1 200 000 €,100,"Cascais, Cascais e Estoril",--,2
+583,175 000 €,59,"Sintra, Massamá e Monte Abraão",2,1
+584,999 000 €,145,"Lisboa, Estrela",3,2
+585,1 390 000 €,216,"Cascais, Alcabideche",3,4
+586,270 000 €,120,"Vila Franca de Xira, Vila Franca de Xira",3,2
+587,750 000 €,74,"Cascais, Cascais e Estoril",2,1
+588,580 000 €,95,"Lisboa, Estrela",2,2
+589,270 000 €,74,"Cascais, Cascais e Estoril",1,1
+590,5 500 000 €,668,"Lisboa, Santo António",--,0
+591,310 000 €,291,"Cadaval, Vilar",--,0
+592,120 000 €,84,"Cadaval, Vilar",5,1
+593,242 500 €,72,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+594,575 000 €,100,"Lisboa, Parque das Nações",2,1
+595,199 900 €,74,"Sintra, Massamá e Monte Abraão",2,1
+596,530 000 €,427,"Sintra, Queluz e Belas",--,0
+597,790 000 €,129,"Loures, Moscavide e Portela",3,2
+598,2 850 000 €,200,"Cascais, Cascais e Estoril",4,5
+599,238 000 €,85,"Sintra, Algueirão-Mem Martins",3,2
+600,319 570 €,109,"Cascais, São Domingos de Rana",3,2
+601,280 000 €,60,"Lisboa, Avenidas Novas",1,1
+602,390 000 €,133,"Sintra, Algueirão-Mem Martins",5,2
+603,140 000 €,62,"Vila Franca de Xira, Vialonga",2,0
+604,4 500 000 €,468,"Lisboa, São Domingos de Benfica",--,0
+605,290 000 €,124,"Sintra, Massamá e Monte Abraão",3,2
+606,199 000 €,67,"Amadora, Venteira",3,1
+607,235 000 €,71,"Odivelas, Odivelas",2,1
+608,195 000 €,94,"Sintra, Cacém e São Marcos",3,1
+609,540 000 €,198,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",--,2
+610,755 000 €,223,"Amadora, Mina de Água",4,5
+611,310 000 €,122,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2
+612,1 190 000 €,174,"Lisboa, Parque das Nações",4,4
+613,500 000 €,210,"Oeiras, Porto Salvo",6,3
+614,280 000 €,70,"Sintra, Algueirão-Mem Martins",2,2
+615,110 000 €,35,"Lisboa, Penha de França",1,1
+616,545 000 €,132,"Lisboa, São Domingos de Benfica",3,2
+617,490 000 €,97,"Lisboa, Parque das Nações",2,2
+618,135 000 €,55,"Sintra, Agualva e Mira-Sintra",1,1
+619,850 000 €,300,"Torres Vedras, Turcifal",7,5
+620,1 590 000 €,200,"Cascais, Alcabideche",4,--
+621,1 370 000 €,192,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,3
+622,450 000 €,80,"Lisboa, Benfica",3,2
+623,2 000 000 €,148,"Lisboa, Campolide",3,4
+624,205 000 €,79,"Sintra, Massamá e Monte Abraão",2,1
+625,170 000 €,62,"Loures, Camarate, Unhos e Apelação",2,1
+626,675 000 €,130,"Cascais, Carcavelos e Parede",3,2
+627,760 000 €,148,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,3
+628,79 000 €,65,"Sintra, Rio de Mouro",--,0
+629,600 000 €,218,"Odivelas, Pontinha e Famões",4,3
+630,499 000 €,119,"Cascais, Cascais e Estoril",2,2
+631,187 000 €,68,"Sintra, Agualva e Mira-Sintra",2,1
+632,166 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1
+633,165 000 €,55,"Amadora, Águas Livres",1,1
+634,650 000 €,250,"Lisboa, Estrela",--,0
+635,60 000 €,--,"Sintra, Colares",--,0
+636,150 000 €,2417,"Torres Vedras, Ventosa",--,0
+637,300 000 €,108,"Odivelas, Odivelas",3,2
+638,429 000 €,105,"Cascais, Carcavelos e Parede",2,2
+639,350 000 €,85,"Lisboa, Lumiar",--,0
+640,155 000 €,90,"Sintra, Queluz e Belas",2,0
+641,125 000 €,43,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1,1
+642,1 200 000 €,2142,"Loures, Sacavém e Prior Velho",--,0
+643,450 000 €,117,"Loures, Sacavém e Prior Velho",2,2
+644,320 000 €,193,"Mafra, Milharado",4,0
+645,162 500 €,--,"Cascais, São Domingos de Rana",--,0
+646,175 000 €,92,"Torres Vedras, A dos Cunhados e Maceira",3,2
+647,360 000 €,55,"Lisboa, Santa Maria Maior",1,1
+648,140 000 €,--,"Loures, Loures",--,0
+649,370 000 €,204,"Torres Vedras, Silveira",3,3
+650,235 000 €,72,"Oeiras, Barcarena",2,1
+651,336 000 €,160,"Loures, Camarate, Unhos e Apelação",3,2
+652,320 000 €,96,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+653,298 000 €,76,"Lisboa, Carnide",1,1
+654,234 900 €,125,"Odivelas, Pontinha e Famões",3,2
+655,420 000 €,145,"Cascais, Carcavelos e Parede",3,2
+656,179 000 €,118,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,1
+657,425 000 €,179,"Sobral de Monte Agraço, São Quintino",4,3
+658,350 000 €,187,"Loures, Camarate, Unhos e Apelação",3,2
+659,197 000 €,72,"Amadora, Águas Livres",2,1
+660,180 000 €,35,"Sintra, Cacém e São Marcos",--,1
+661,328 500 €,56,"Lisboa, Alvalade",1,2
+662,540 000 €,129,"Lisboa, Campolide",3,2
+663,157 500 €,68,"Sintra, Massamá e Monte Abraão",1,1
+664,152 000 €,93,"Vila Franca de Xira, Vila Franca de Xira",3,2
+665,1 300 000 €,212,"Lisboa, Parque das Nações",4,3
+666,549 000 €,94,"Lisboa, Parque das Nações",2,1
+667,199 500 €,80,"Sintra, Agualva e Mira-Sintra",2,2
+668,680 000 €,220,"Lisboa, Lumiar",2,2
+669,150 000 €,800,"Loures, Fanhões",--,--
+670,255 000 €,102,"Sintra, Algueirão-Mem Martins",1,1
+671,315 000 €,48,"Lisboa, São Vicente",2,1
+672,180 000 €,29,"Cascais, Cascais e Estoril",0,1
+673,178 000 €,133,"Loures, Bucelas",4,3
+674,170 000 €,38,"Lisboa, São Vicente",1,1
+675,143 955 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--
+676,2 200 000 €,191,"Cascais, Cascais e Estoril",4,4
+677,155 000 €,89,"Sintra, Queluz e Belas",3,2
+678,735 000 €,255,"Loures, Loures",5,4
+679,240 000 €,80,"Lourinhã, Lourinhã e Atalaia",2,2
+680,290 000 €,55,"Cascais, Cascais e Estoril",1,1
+681,650 000 €,150,"Lisboa, Estrela",--,0
+682,2 290 000 €,535,"Cascais, Cascais e Estoril",5,6
+683,220 000 €,105,"Sintra, Cacém e São Marcos",3,2
+684,640 000 €,137,"Lisboa, Lumiar",3,2
+685,499 000 €,176,"Vila Franca de Xira, Vila Franca de Xira",4,4
+686,860 000 €,157,"Lisboa, Alvalade",3,3
+687,35 000 €,--,"Loures, Lousa",--,--
+688,203 000 €,125,"Sintra, Algueirão-Mem Martins",2,1
+689,410 000 €,89,"Lisboa, Alvalade",2,1
+690,244 000 €,103,"Sintra, Massamá e Monte Abraão",3,2
+691,175 000 €,52,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1,1
+692,50 000 €,1200,"Sintra, São João das Lampas e Terrugem",--,0
+693,360 000 €,156,"Lisboa, Campolide",--,0
+694,210 000 €,73,"Amadora, Encosta do Sol",2,1
+695,205 000 €,92,"Lourinhã, Lourinhã e Atalaia",3,2
+696,220 000 €,100,"Sintra, Algueirão-Mem Martins",3,2
+697,380 000 €,95,"Cascais, São Domingos de Rana",3,2
+698,325 500 €,192,"Loures, Camarate, Unhos e Apelação",3,2
+699,175 000 €,79,"Sintra, Queluz e Belas",3,2
+700,175 000 €,77,"Amadora, Mina de Água",2,1
+701,170 000 €,78,"Alenquer, Carregado e Cadafais",2,1
+702,295 000 €,92,"Amadora, Águas Livres",1,1
+703,80 000 €,127,"Lisboa, Lumiar",--,2
+704,194 900 €,591,"Odivelas, Pontinha e Famões",--,0
+705,330 000 €,70,"Lisboa, Lumiar",1,1
+706,232 500 €,57,"Odivelas, Pontinha e Famões",2,1
+707,500 000 €,290,"Odivelas, Pontinha e Famões",4,3
+708,290 000 €,80,"Lisboa, Penha de França",3,1
+709,110 000 €,147,"Amadora, Falagueira - Venda Nova",--,2
+710,350 000 €,--,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",--,--
+711,70 000 €,305,"Vila Franca de Xira, Vila Franca de Xira",--,0
+712,650 000 €,181,"Sintra, São João das Lampas e Terrugem",3,3
+713,500 000 €,112,"Lisboa, Alvalade",4,2
+714,525 000 €,116,"Oeiras, Barcarena",3,2
+715,17 000 €,16,"Sintra, Queluz e Belas",--,0
+716,280 000 €,65,"Cascais, Carcavelos e Parede",1,1
+717,149 000 €,190,"Torres Vedras, Ventosa",2,--
+718,2 200 000 €,203,"Lisboa, Arroios",4,4
+719,85 000 €,27,"Lisboa, Penha de França",--,--
+720,790 000 €,7040,"Cascais, Cascais e Estoril",--,0
+721,1 280 000 €,121,"Lisboa, Avenidas Novas",3,5
+722,1 250 000 €,200,"Lisboa, Avenidas Novas",--,0
+723,940 000 €,121,"Lisboa, Avenidas Novas",3,5
+724,199 500 €,119,"Alenquer, Carregado e Cadafais",3,2
+725,955 000 €,121,"Lisboa, Avenidas Novas",3,5
+726,1 000 000 €,121,"Lisboa, Avenidas Novas",3,5
+727,340 000 €,97,"Cascais, Alcabideche",2,2
+728,185 000 €,217,"Amadora, Venteira",--,--
+729,140 500 €,5918,"Mafra, Carvoeira",--,0
+730,450 000 €,110,"Lisboa, Estrela",2,2
+731,295 000 €,170,"Loures, Camarate, Unhos e Apelação",3,2
+732,450 000 €,183,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,2
+733,219 000 €,110,"Arruda dos Vinhos, Arruda dos Vinhos",3,2
+734,79 000 €,--,"Odivelas, Pontinha e Famões",--,0
+735,990 000 €,187,"Lisboa, Olivais",6,8
+736,470 000 €,80,"Lisboa, Estrela",2,2
+737,315 000 €,100,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+738,150 000 €,124,"Vila Franca de Xira, Vila Franca de Xira",--,1
+739,496 545 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--
+740,270 000 €,120,"Vila Franca de Xira, Vila Franca de Xira",3,2
+741,379 000 €,72,"Lisboa, Penha de França",2,2
+742,140 000 €,63,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,2
+743,640 000 €,198,"Mafra, Mafra",5,4
+744,430 000 €,151,"Amadora, Águas Livres",3,3
+745,1 150 000 €,690,"Lisboa, São Vicente",--,--
+746,6 500 000 €,20000,"Sintra, Rio de Mouro",--,0
+747,950 000 €,171,"Lisboa, Estrela",4,3
+748,4 000 000 €,210,"Lisboa, Misericórdia",3,3
+749,250 000 €,103,"Sintra, Massamá e Monte Abraão",2,1
+750,220 000 €,96,"Odivelas, Pontinha e Famões",3,1
+751,360 000 €,182,"Oeiras, Barcarena",6,3
+752,259 500 €,92,"Arruda dos Vinhos, Arruda dos Vinhos",3,1
+753,780 000 €,205,"Cascais, São Domingos de Rana",5,4
+754,640 000 €,694,"Azambuja, Alcoentre",7,4
+755,250 000 €,--,"Sintra, São João das Lampas e Terrugem",--,0
+756,460 000 €,80,"Lisboa, Estrela",2,2
+757,250 000 €,68,"Loures, Bucelas",3,2
+758,185 000 €,--,"Cascais, São Domingos de Rana",--,0
+759,895 000 €,293,"Sintra, São João das Lampas e Terrugem",4,6
+760,150 000 €,244,"Odivelas, Ramada e Caneças",--,--
+761,75 000 €,240,"Lisboa, Campolide",--,2
+762,550 000 €,265,"Cascais, São Domingos de Rana",4,4
+763,156 750 €,90,"Lourinhã, Miragaia e Marteleira",2,1
+764,399 000 €,170,"Amadora, Encosta do Sol",--,0
+765,279 000 €,52,"Lisboa, Penha de França",2,2
+766,225 000 €,121,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2
+767,593 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,4
+768,27 000 €,16,"Sintra, Rio de Mouro",--,0
+769,292 500 €,80,"Oeiras, Barcarena",2,1
+770,87 500 €,40,"Odivelas, Póvoa de Santo Adrião e Olival Basto",1,2
+771,360 000 €,81,"Lisboa, São Vicente",3,2
+772,468 000 €,159,"Sintra, Algueirão-Mem Martins",3,3
+773,468 000 €,159,"Sintra, Algueirão-Mem Martins",3,3
+774,468 000 €,159,"Sintra, Algueirão-Mem Martins",3,3
+775,175 000 €,74,"Sintra, Algueirão-Mem Martins",2,1
+776,325 000 €,79,"Lisboa, Penha de França",2,1
+777,350 000 €,86,"Lisboa, Lumiar",2,1
+778,770 000 €,231,"Odivelas, Odivelas",4,3
+779,99 900 €,0,"Alenquer, Alenquer (Santo Estêvão e Triana)",0,0
+780,235 000 €,102,"Loures, Loures",0,1
+781,315 000 €,136,"Mafra, Mafra",3,2
+782,310 000 €,110,"Azambuja, Alcoentre",1,1
+783,224 500 €,71,"Oeiras, Carnaxide e Queijas",2,1
+784,249 900 €,112,"Sintra, Rio de Mouro",2,1
+785,255 000 €,102,"Loures, Camarate, Unhos e Apelação",2,2
+786,267 000 €,130,"Sintra, Rio de Mouro",3,2
+787,80 000 €,219,"Odivelas, Ramada e Caneças",--,0
+788,698 000 €,184,"Torres Vedras, Turcifal",3,2
+789,145 000 €,35,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,1
+790,150 000 €,73,"Sintra, Massamá e Monte Abraão",2,1
+791,390 000 €,153,"Sintra, Queluz e Belas",4,3
+792,255 000 €,80,"Odivelas, Odivelas",3,2
+793,295 000 €,48,"Loures, Santo Antão e São Julião do Tojal",2,2
+794,350 000 €,112,"Cascais, Alcabideche",3,2
+795,880 000 €,174,"Mafra, Encarnação",3,4
+796,770 000 €,231,"Odivelas, Odivelas",4,3
+797,295 000 €,75,"Cascais, São Domingos de Rana",2,2
+798,224 800 €,90,"Sintra, Queluz e Belas",3,2
+799,290 000 €,93,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+800,325 000 €,56,"Lisboa, Alvalade",2,1
+801,450 000 €,98,"Lisboa, Avenidas Novas",2,2
+802,350 000 €,78,"Lisboa, Penha de França",2,1
+803,495 000 €,119,"Lisboa, Alcântara",4,2
+804,295 000 €,83,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+805,285 000 €,137,"Loures, Camarate, Unhos e Apelação",3,2
+806,635 000 €,166,"Oeiras, Porto Salvo",4,4
+807,525 000 €,258,"Odivelas, Pontinha e Famões",3,3
+808,185 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1
+809,115 000 €,233,"Cascais, São Domingos de Rana",--,0
+810,185 000 €,--,"Sintra, Rio de Mouro",--,0
+811,324 000 €,100,"Amadora, Mina de Água",3,2
+812,160 000 €,75,"Sintra, Cacém e São Marcos",1,1
+813,198 000 €,87,"Amadora, Águas Livres",3,2
+814,70 000 €,68,"Sintra, Cacém e São Marcos",--,2
+815,150 000 €,66,"Amadora, Falagueira - Venda Nova",2,1
+816,369 000 €,53,"Lisboa, Areeiro",1,1
+817,450 000 €,611,"Cascais, São Domingos de Rana",--,0
+818,580 000 €,105,"Lisboa, Alvalade",2,2
+819,585 000 €,129,"Loures, Loures",4,3
+820,280 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0
+821,430 000 €,75,"Lisboa, Alvalade",2,1
+822,5 500 000 €,1482,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,0
+823,685 000 €,113,"Lisboa, Santo António",2,1
+824,890 000 €,214,"Loures, Santo António dos Cavaleiros e Frielas",4,4
+825,599 000 €,80,"Lisboa, São Vicente",2,2
+826,75 000 €,97,"Vila Franca de Xira, Vila Franca de Xira",--,1
+827,220 000 €,71,"Odivelas, Odivelas",2,1
+828,275 000 €,102,"Sintra, Cacém e São Marcos",3,2
+829,89 000 €,250,"Lisboa, Benfica",--,1
+830,815 000 €,201,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,3
+831,160 000 €,70,"Sintra, Agualva e Mira-Sintra",3,1
+832,399 000 €,119,"Lisboa, Santa Clara",3,2
+833,92 000 €,460,"Torres Vedras, Silveira",--,0
+834,1 900 000 €,431,"Cascais, Alcabideche",5,6
+835,485 000 €,179,"Lourinhã, Lourinhã e Atalaia",5,5
+836,800 000 €,194,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0
+837,109 800 €,64,"Sintra, Queluz e Belas",3,1
+838,100 000 €,29,"Lisboa, Areeiro",--,0
+839,199 000 €,90,"Sintra, Algueirão-Mem Martins",2,1
+840,199 000 €,107,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0
+841,775 000 €,154,"Cascais, Carcavelos e Parede",4,3
+842,1 490 000 €,450,"Lisboa, Arroios",--,0
+843,215 000 €,102,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2
+844,397 000 €,109,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+845,309 500 €,110,"Amadora, Mina de Água",3,2
+846,200 000 €,5080,"Torres Vedras, Ponte do Rol",--,0
+847,430 000 €,187,"Amadora, Mina de Água",3,3
+848,999 000 €,1060,"Cascais, Cascais e Estoril",--,0
+849,195 000 €,75,"Amadora, Mina de Água",2,1
+850,270 000 €,85,"Lisboa, Carnide",3,2
+851,196 000 €,115,"Lisboa, Santa Clara",3,1
+852,340 000 €,120,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+853,154 000 €,60,"Sintra, Agualva e Mira-Sintra",2,1
+854,1 150 000 €,166,"Cascais, Cascais e Estoril",3,3
+855,1 680 000 €,227,"Lisboa, Benfica",4,5
+856,450 000 €,115,"Lisboa, Olivais",4,2
+857,550 000 €,275,"Sintra, Algueirão-Mem Martins",5,3
+858,299 000 €,165,"Lourinhã, Lourinhã e Atalaia",3,3
+859,580 000 €,140,"Lisboa, Lumiar",3,2
+860,345 000 €,105,"Lisboa, Penha de França",2,1
+861,235 000 €,48,"Lisboa, Santa Maria Maior",1,1
+862,169 000 €,40,"Lisboa, Marvila",1,1
+863,2 500 000 €,996,"Lisboa, Ajuda",--,0
+864,698 000 €,216,"Loures, Santo António dos Cavaleiros e Frielas",3,4
+865,635 000 €,219,"Mafra, Mafra",5,3
+866,178 000 €,64,"Sintra, Agualva e Mira-Sintra",2,1
+867,680 000 €,3233,"Oeiras, Carnaxide e Queijas",4,2
+868,450 000 €,72,"Lisboa, Alvalade",3,2
+869,634 000 €,342,"Lisboa, Arroios",--,--
+870,164 000 €,20,"Lisboa, Misericórdia",1,1
+871,359 000 €,62,"Lisboa, Penha de França",2,1
+872,315 000 €,50,"Lisboa, Avenidas Novas",1,1
+873,375 000 €,108,"Cascais, São Domingos de Rana",3,2
+874,1 750 000 €,269,"Lisboa, Alcântara",4,4
+875,335 000 €,188,"Odivelas, Ramada e Caneças",3,2
+876,80 000 €,--,"Cadaval, Vermelha",--,--
+877,550 000 €,281,"Odivelas, Pontinha e Famões",4,3
+878,550 000 €,190,"Odivelas, Pontinha e Famões",4,3
+879,2 780 000 €,193,"Lisboa, Ajuda",4,4
+880,1 280 000 €,124,"Lisboa, Ajuda",2,3
+881,246 000 €,117,"Torres Vedras, A dos Cunhados e Maceira",3,2
+882,600 000 €,1512,"Oeiras, Barcarena",--,0
+883,285 000 €,52,"Lisboa, Alcântara",3,1
+884,175 000 €,62,"Sintra, Agualva e Mira-Sintra",2,1
+885,141 000 €,62,"Azambuja, Azambuja",2,0
+886,325 000 €,96,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+887,315 000 €,96,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+888,235 000 €,120,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2
+889,285 000 €,50,"Lisboa, Alcântara",2,1
+890,750 000 €,98,"Cascais, Cascais e Estoril",2,1
+891,220 000 €,73,"Lisboa, Beato",2,1
+892,398 000 €,97,"Lisboa, Benfica",3,1
+893,580 000 €,128,"Lisboa, Alvalade",3,4
+894,490 000 €,85,"Lisboa, Avenidas Novas",2,1
+895,549 000 €,151,"Lisboa, Lumiar",2,2
+896,140 000 €,42,"Alenquer, Carnota",2,1
+897,750 000 €,115,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,0
+898,217 500 €,103,"Sintra, Massamá e Monte Abraão",3,2
+899,278 000 €,80,"Mafra, Azueira e Sobral da Abelheira",3,2
+900,500 000 €,147,"Odivelas, Odivelas",3,2
+901,750 000 €,162,"Cascais, São Domingos de Rana",3,3
+902,367 500 €,52,"Lisboa, Misericórdia",2,1
+903,1 300 000 €,380,"Sintra, Queluz e Belas",3,4
+904,1 300 000 €,380,"Sintra, Queluz e Belas",3,4
+905,493 500 €,68,"Lisboa, Misericórdia",2,1
+906,375 000 €,110,"Cascais, Alcabideche",2,2
+907,360 000 €,65,"Lisboa, Belém",0,1
+908,240 000 €,120,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,2
+909,525 000 €,72,"Lisboa, Misericórdia",2,1
+910,750 000 €,162,"Cascais, São Domingos de Rana",3,3
+911,525 000 €,66,"Lisboa, Misericórdia",2,1
+912,682 500 €,70,"Lisboa, Misericórdia",--,0
+913,149 500 €,43,"Amadora, Falagueira - Venda Nova",1,1
+914,335 000 €,113,"Lisboa, Benfica",4,2
+915,65 000 €,220,"Alenquer, Ventosa",1,0
+916,159 000 €,67,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1
+917,235 000 €,68,"Sintra, Agualva e Mira-Sintra",2,1
+918,160 000 €,48,"Cascais, Cascais e Estoril",1,1
+919,280 000 €,73,"Lisboa, Penha de França",2,1
+920,2 488 500 €,329,"Lisboa, Misericórdia",--,0
+921,225 000 €,62,"Cascais, Cascais e Estoril",2,1
+922,187 500 €,80,"Sintra, Queluz e Belas",2,1
+923,820 000 €,205,"Lisboa, São Domingos de Benfica",5,3
+924,599 000 €,263,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,--
+925,285 000 €,52,"Lisboa, Campo de Ourique",1,1
+926,3 700 000 €,349,"Cascais, Cascais e Estoril",6,5
+927,1 200 000 €,172,"Mafra, Ericeira",0,3
+928,210 000 €,149,"Sobral de Monte Agraço, Sobral de Monte Agraço",3,2
+929,250 000 €,60,"Cascais, Alcabideche",1,1
+930,230 000 €,100,"Mafra, Santo Isidoro",2,1
+931,95 000 €,127,"Vila Franca de Xira, Vila Franca de Xira",0,1
+932,699 000 €,104,"Lisboa, Estrela",2,3
+933,1 800 000 €,294,"Cascais, Cascais e Estoril",5,4
+934,1 300 000 €,265,"Lisboa, Avenidas Novas",5,3
+935,150 000 €,301,"Odivelas, Pontinha e Famões",--,0
+936,144 000 €,289,"Odivelas, Pontinha e Famões",--,0
+937,345 000 €,84,"Odivelas, Ramada e Caneças",2,1
+938,155 000 €,75,"Loures, Santo António dos Cavaleiros e Frielas",2,1
+939,259 500 €,107,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2
+940,225 000 €,87,"Amadora, Venteira",2,1
+941,695 000 €,154,"Lisboa, Parque das Nações",4,2
+942,2 350 000 €,312,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,5
+943,135 000 €,40,"Sintra, Queluz e Belas",1,1
+944,550 000 €,96,"Cascais, Carcavelos e Parede",2,2
+945,485 000 €,99,"Lisboa, Areeiro",2,1
+946,423 750 €,107,"Lisboa, São Vicente",5,1
+947,230 000 €,117,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1
+948,229 500 €,109,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+949,65 000 €,29,"Lisboa, Beato",--,0
+950,915 000 €,342,"Odivelas, Pontinha e Famões",5,5
+951,525 000 €,104,"Lisboa, Estrela",3,2
+952,745 000 €,159,"Lisboa, Estrela",1,2
+953,70 000 €,--,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,--
+954,370 000 €,85,"Lisboa, Estrela",3,1
+955,350 000 €,50,"Lisboa, Estrela",1,1
+956,240 000 €,79,"Lisboa, Beato",2,1
+957,400 000 €,104,"Cascais, Cascais e Estoril",3,1
+958,176 000 €,75,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,1
+959,350 000 €,3840,"Mafra, Encarnação",--,--
+960,120 000 €,34,"Amadora, Águas Livres",1,1
+961,200 000 €,72,"Loures, Santo António dos Cavaleiros e Frielas",2,1
+962,450 000 €,145,"Coimbra, Santa Clara e Castelo Viegas",4,3
+963,275 000 €,23,"Lisboa, Arroios",--,0
+964,399 750 €,145,"Cascais, Carcavelos e Parede",4,3
+965,2 250 000 €,577,"Cascais, Carcavelos e Parede",11,0
+966,225 000 €,165,"Torres Vedras, Carvoeira e Carmões",3,3
+967,849 000 €,90,"Lisboa, Misericórdia",2,2
+968,220 000 €,253,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",8,4
+969,295 000 €,89,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2
+970,445 000 €,99,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+971,430 000 €,220,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",5,5
+972,259 500 €,100,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",2,2
+973,530 000 €,184,"Sintra, Algueirão-Mem Martins",5,3
+974,999 000 €,187,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3
+975,285 000 €,118,"Sintra, Casal de Cambra",3,2
+976,759 000 €,177,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,5
+977,156 000 €,94,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",3,0
+978,89 000 €,82,"Sintra, Algueirão-Mem Martins",0,2
+979,495 000 €,67,"Lisboa, São Vicente",2,1
+980,88 000 €,--,"Alenquer, Alenquer (Santo Estêvão e Triana)",--,--
+981,165 000 €,78,"Sintra, Agualva e Mira-Sintra",3,1
+982,240 000 €,97,"Sintra, Algueirão-Mem Martins",2,1
+983,429 900 €,133,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,--
+984,200 000 €,91,"Sintra, Casal de Cambra",2,--
+985,649 500 €,122,"Lisboa, Parque das Nações",3,2
+986,650 000 €,113,"Lisboa, Alvalade",3,2
+987,599 000 €,162,"Lisboa, Estrela",4,2
+988,340 000 €,155,"Sintra, Massamá e Monte Abraão",3,2
+989,440 000 €,117,"Cascais, Cascais e Estoril",3,2
+990,3 125 000 €,215,"Cascais, Cascais e Estoril",6,5
+991,1 350 000 €,--,"Sintra, Colares",--,0
+992,66 000 €,82,"Oeiras, Carnaxide e Queijas",--,1
+993,58 000 €,56,"Amadora, Águas Livres",--,0
+994,225 000 €,45,"Lisboa, Misericórdia",1,1
+995,155 000 €,99,"Alenquer, Carregado e Cadafais",3,2
+996,90 000 €,--,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+997,395 000 €,70,"Cascais, Cascais e Estoril",1,1
+998,299 500 €,37,"Cascais, Cascais e Estoril",1,1
+999,225 000 €,140,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,1
+1000,149 900 €,421,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",--,--
+1001,158 000 €,645,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+1002,175 000 €,71,"Sintra, Agualva e Mira-Sintra",2,1
+1003,2 300 000 €,186,"Cascais, Cascais e Estoril",3,3
+1004,450 000 €,129,"Lisboa, Areeiro",3,2
+1005,240 000 €,113,"Amadora, Águas Livres",3,2
+1006,245 000 €,142,"Sintra, Massamá e Monte Abraão",5,4
+1007,235 000 €,104,"Sintra, Massamá e Monte Abraão",3,2
+1008,355 000 €,60,"Lisboa, Alcântara",2,2
+1009,800 000 €,240,"Lisboa, Areeiro",5,4
+1010,325 000 €,151,"Azambuja, Azambuja",4,3
+1011,450 000 €,100,"Lisboa, Benfica",2,2
+1012,85 000 €,--,"Sintra, Rio de Mouro",--,0
+1013,205 000 €,68,"Sintra, Casal de Cambra",1,1
+1014,399 000 €,82,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,1
+1015,500 000 €,95,"Lisboa, Misericórdia",2,1
+1016,382 000 €,166,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1017,130 000 €,56,"Sintra, Massamá e Monte Abraão",1,1
+1018,165 000 €,66,"Sintra, Massamá e Monte Abraão",2,1
+1019,325 000 €,126,"Azambuja, Azambuja",4,3
+1020,180 000 €,80,"Sintra, Agualva e Mira-Sintra",2,0
+1021,450 000 €,327,"Amadora, Venteira",--,6
+1022,505 000 €,153,"Lisboa, São Domingos de Benfica",3,2
+1023,147 500 €,187,"Lisboa, São Domingos de Benfica",--,3
+1024,1 299 000 €,146,"Lisboa, Areeiro",3,3
+1025,195 000 €,78,"Odivelas, Odivelas",2,1
+1026,499 525 €,95,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+1027,205 000 €,115,"Alenquer, Alenquer (Santo Estêvão e Triana)",4,2
+1028,255 000 €,91,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1
+1029,1 700 000 €,267,"Lisboa, Santo António",9,3
+1030,990 000 €,185,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3
+1031,289 000 €,89,"Amadora, Encosta do Sol",3,2
+1032,92 500 €,621,"Sintra, Queluz e Belas",--,0
+1033,55 000 €,--,"Alenquer, Ventosa",--,--
+1034,255 000 €,114,"Sintra, Massamá e Monte Abraão",3,2
+1035,355 000 €,86,"Odivelas, Odivelas",2,1
+1036,199 900 €,40,"Loures, Sacavém e Prior Velho",1,--
+1037,270 000 €,150,"Mafra, Malveira e São Miguel de Alcainça",3,3
+1038,290 000 €,82,"Loures, Moscavide e Portela",4,2
+1039,795 000 €,153,"Lisboa, Arroios",4,2
+1040,84 900 €,566,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",--,0
+1041,950 000 €,112,"Mafra, Santo Isidoro",3,0
+1042,820 000 €,112,"Mafra, Santo Isidoro",3,0
+1043,109 900 €,--,"Amadora, Mina de Água",--,0
+1044,950 000 €,227,"Lisboa, São Domingos de Benfica",4,3
+1045,269 000 €,64,"Lisboa, Misericórdia",1,1
+1046,169 000 €,77,"Sintra, Cacém e São Marcos",2,1
+1047,590 000 €,122,"Sintra, Queluz e Belas",5,3
+1048,106 000 €,190,"Odivelas, Pontinha e Famões",--,0
+1049,340 000 €,107,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1050,435 000 €,137,"Loures, Loures",3,2
+1051,175 000 €,77,"Amadora, Mina de Água",2,1
+1052,245 000 €,101,"Sintra, Queluz e Belas",2,2
+1053,485 000 €,130,"Cascais, Alcabideche",3,4
+1054,450 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,0
+1055,999 000 €,381,"Cascais, São Domingos de Rana",5,3
+1056,260 000 €,90,"Cascais, Cascais e Estoril",2,1
+1057,150 000 €,58,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1058,299 970 €,61,"Sintra, Queluz e Belas",6,3
+1059,220 000 €,70,"Lisboa, Marvila",2,1
+1060,800 000 €,300,"Mafra, Mafra",4,4
+1061,470 000 €,245,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,0
+1062,324 000 €,129,"Sintra, Queluz e Belas",2,1
+1063,99 000 €,400,"Odivelas, Ramada e Caneças",4,0
+1064,1 150 000 €,200,"Cascais, Cascais e Estoril",5,4
+1065,375 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--
+1066,450 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--
+1067,79 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,0
+1068,375 000 €,47,"Lisboa, Santo António",1,1
+1069,375 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--
+1070,249 900 €,83,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,2
+1071,136 000 €,60,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",1,1
+1072,340 000 €,150,"Torres Vedras, Silveira",4,2
+1073,640 000 €,209,"Oeiras, Barcarena",3,3
+1074,202 000 €,99,"Cadaval, Lamas e Cercal",3,1
+1075,70 000 €,41,"Sintra, Massamá e Monte Abraão",--,2
+1076,640 000 €,209,"Oeiras, Barcarena",3,3
+1077,94 000 €,56,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",2,1
+1078,195 000 €,55,"Amadora, Águas Livres",2,1
+1079,323 800 €,120,"Odivelas, Odivelas",4,--
+1080,559 000 €,130,"Lisboa, Areeiro",3,2
+1081,750 000 €,1143,"Oeiras, Barcarena",--,0
+1082,105 000 €,--,"Torres Vedras, A dos Cunhados e Maceira",--,0
+1083,105 000 €,--,"Torres Vedras, A dos Cunhados e Maceira",--,0
+1084,188 000 €,60,"Sintra, Algueirão-Mem Martins",2,1
+1085,640 000 €,209,"Oeiras, Barcarena",3,3
+1086,665 000 €,183,"Oeiras, Porto Salvo",5,4
+1087,260 000 €,70,"Lisboa, Penha de França",2,1
+1088,183 000 €,68,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1089,198 000 €,178,"Vila Franca de Xira, Vila Franca de Xira",4,4
+1090,260 000 €,95,"Lisboa, Carnide",0,1
+1091,153 000 €,75,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,1
+1092,125 000 €,37,"Sintra, Queluz e Belas",1,1
+1093,294 000 €,76,"Lisboa, Olivais",3,1
+1094,180 000 €,74,"Loures, Sacavém e Prior Velho",2,1
+1095,760 000 €,177,"Cascais, São Domingos de Rana",5,4
+1096,142 500 €,99,"Alenquer, Carregado e Cadafais",2,1
+1097,290 000 €,114,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+1098,218 000 €,79,"Sintra, Algueirão-Mem Martins",2,1
+1099,530 000 €,178,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,3
+1100,1 175 000 €,162,"Cascais, Cascais e Estoril",4,3
+1101,69 000 €,40,"Sintra, Massamá e Monte Abraão",--,0
+1102,650 000 €,116,"Cascais, Alcabideche",3,3
+1103,175 000 €,105,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2
+1104,775 000 €,149,"Lisboa, Olivais",6,4
+1105,237 700 €,65,"Loures, Moscavide e Portela",1,1
+1106,225 000 €,84,"Azambuja, Alcoentre",3,2
+1107,86 000 €,118,"Sintra, Agualva e Mira-Sintra",--,0
+1108,218 000 €,37,"Lisboa, Penha de França",1,1
+1109,200 000 €,81,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2
+1110,750 000 €,90,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+1111,420 000 €,165,"Cascais, São Domingos de Rana",3,2
+1112,130 000 €,110,"Lisboa, Alvalade",0,0
+1113,255 000 €,106,"Sintra, Queluz e Belas",2,2
+1114,490 000 €,260,"Torres Vedras, Ponte do Rol",4,4
+1115,300 000 €,71,"Lisboa, São Domingos de Benfica",3,1
+1116,115 000 €,--,"Sintra, Rio de Mouro",--,0
+1117,160 000 €,95,"Loures, Loures",--,2
+1118,375 000 €,61,"Lisboa, São Domingos de Benfica",2,1
+1119,120 000 €,--,"Sintra, Casal de Cambra",--,0
+1120,195 000 €,66,"Lisboa, Santa Maria Maior",--,1
+1121,98 000 €,330,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,1
+1122,110 000 €,67,"Vila Franca de Xira, Vila Franca de Xira",2,--
+1123,preço sob consulta,883,"Lisboa, Belém",5,4
+1124,190 000 €,89,"Sintra, Agualva e Mira-Sintra",3,2
+1125,1 155 000 €,--,"Cascais, São Domingos de Rana",--,0
+1126,265 000 €,79,"Cascais, São Domingos de Rana",2,1
+1127,279 000 €,55,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+1128,345 000 €,118,"Cascais, São Domingos de Rana",3,2
+1129,319 000 €,60,"Cascais, Cascais e Estoril",3,1
+1130,51 200 €,68,"Azambuja, Aveiras de Cima",1,1
+1131,1 075 000 €,140,"Lisboa, Estrela",3,3
+1132,485 000 €,160,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3
+1133,378 000 €,64,"Lisboa, Lumiar",1,1
+1134,199 000 €,85,"Sintra, Cacém e São Marcos",3,2
+1135,1 190 000 €,540,"Odivelas, Pontinha e Famões",3,5
+1136,400 000 €,55,"Lisboa, Belém",2,1
+1137,315 000 €,100,"Sintra, Massamá e Monte Abraão",2,2
+1138,60 000 €,94,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1
+1139,160 000 €,--,"Lourinhã, Santa Bárbara",--,0
+1140,98 000 €,139,"Vila Franca de Xira, Vila Franca de Xira",0,1
+1141,415 000 €,65,"Lisboa, Avenidas Novas",1,1
+1142,99 000 €,60,"Mafra, Encarnação",2,0
+1143,140 000 €,--,"Vila Franca de Xira, Vialonga",--,--
+1144,1 390 000 €,302,"Sintra, Rio de Mouro",5,4
+1145,220 000 €,156,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+1146,310 000 €,103,"Sintra, Queluz e Belas",2,1
+1147,260 000 €,80,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1
+1148,219 500 €,78,"Sintra, Rio de Mouro",2,0
+1149,800 000 €,150,"Lisboa, Parque das Nações",--,0
+1150,376 000 €,115,"Cascais, Cascais e Estoril",2,3
+1151,158 000 €,85,"Azambuja, Azambuja",2,1
+1152,1 390 000 €,287,"Lisboa, Belém",4,8
+1153,402 500 €,100,"Lisboa, Lumiar",3,2
+1154,155 000 €,85,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,1
+1155,130 000 €,62,"Azambuja, Azambuja",2,0
+1156,250 000 €,73,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1
+1157,230 000 €,67,"Cascais, Cascais e Estoril",3,1
+1158,380 000 €,23800,"Sintra, São João das Lampas e Terrugem",--,0
+1159,149 750 €,79,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,1
+1160,1 699 000 €,168,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3
+1161,3 300 000 €,810,"Lisboa, Estrela",--,--
+1162,750 000 €,550,"Lisboa, Ajuda",--,2
+1163,215 000 €,224,"Odivelas, Pontinha e Famões",--,1
+1164,1 400 000 €,182,"Lisboa, Arroios",8,6
+1165,1 490 000 €,915,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",--,0
+1166,350 000 €,113,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,0
+1167,350 000 €,62,"Lisboa, Lumiar",0,1
+1168,145 000 €,94,"Torres Vedras, Ventosa",2,1
+1169,288 000 €,41,"Cascais, Cascais e Estoril",1,1
+1170,250 000 €,79,"Loures, Santo António dos Cavaleiros e Frielas",2,1
+1171,176 000 €,97,"Sintra, Algueirão-Mem Martins",3,2
+1172,2 190 000 €,181,"Cascais, Cascais e Estoril",4,0
+1173,329 990 €,100,"Lisboa, Benfica",3,4
+1174,1 300 000 €,166,"Cascais, Cascais e Estoril",3,3
+1175,310 000 €,58,"Lisboa, Ajuda",2,1
+1176,225 000 €,87,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1177,162 000 €,95,"Loures, Sacavém e Prior Velho",--,--
+1178,1 800 000 €,247,"Cascais, Cascais e Estoril",3,3
+1179,47 000 €,1205,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+1180,2 190 000 €,244,"Cascais, Cascais e Estoril",4,4
+1181,238 500 €,60,"Lisboa, Arroios",1,1
+1182,140 000 €,33,"Sintra, Queluz e Belas",1,1
+1183,280 000 €,111,"Odivelas, Ramada e Caneças",3,2
+1184,119 900 €,48,"Setúbal, Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",0,1
+1185,380 000 €,59,"Oeiras, Carnaxide e Queijas",1,1
+1186,747 000 €,204,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",5,4
+1187,365 000 €,72,"Lisboa, Arroios",2,1
+1188,179 900 €,--,"Sintra, São João das Lampas e Terrugem",--,--
+1189,250 000 €,84,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1190,895 000 €,163,"Lisboa, Misericórdia",3,4
+1191,155 000 €,49,"Amadora, Águas Livres",1,1
+1192,200 000 €,108,"Mafra, Enxara do Bispo, Gradil e Vila Franca do Rosário",2,2
+1193,350 000 €,110,"Lisboa, Santa Maria Maior",2,1
+1194,1 200 000 €,163,"Cascais, Cascais e Estoril",3,3
+1195,49 500 €,--,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",--,0
+1196,80 000 €,69,"Sintra, Agualva e Mira-Sintra",--,0
+1197,145 000 €,74,"Torres Vedras, São Pedro da Cadeira",3,1
+1198,280 000 €,78,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+1199,980 000 €,163,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,3
+1200,360 000 €,125,"Sintra, Agualva e Mira-Sintra",3,2
+1201,375 000 €,144,"Sintra, Agualva e Mira-Sintra",3,2
+1202,1 080 000 €,220,"Mafra, Ericeira",4,--
+1203,465 000 €,85,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+1204,950 000 €,131,"Lisboa, Lumiar",3,3
+1205,1 475 000 €,2010,"Odivelas, Pontinha e Famões",--,2
+1206,220 000 €,90,"Sintra, Algueirão-Mem Martins",2,1
+1207,1 490 000 €,418,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",9,8
+1208,259 000 €,68,"Lisboa, Marvila",2,1
+1209,1 100 000 €,355,"Odivelas, Pontinha e Famões",5,4
+1210,168 000 €,40,"Sintra, Massamá e Monte Abraão",1,1
+1211,155 000 €,78,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",2,1
+1212,360 000 €,62,"Lisboa, Santo António",1,2
+1213,1 390 000 €,302,"Cascais, Cascais e Estoril",4,6
+1214,299 000 €,110,"Sintra, Colares",2,2
+1215,67 000 €,99,"Sintra, Casal de Cambra",--,--
+1216,170 000 €,88,"Sintra, Agualva e Mira-Sintra",2,--
+1217,470 000 €,206,"Cascais, Cascais e Estoril",--,--
+1218,699 000 €,112,"Lisboa, Santa Maria Maior",1,1
+1219,450 000 €,84,"Cascais, Cascais e Estoril",3,1
+1220,85 000 €,--,"Amadora, Mina de Água",--,0
+1221,520 000 €,197,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",5,6
+1222,159 800 €,80,"Sintra, Rio de Mouro",2,1
+1223,25 500 €,8,"Lisboa, Areeiro",--,--
+1224,403 000 €,82,"Lisboa, Areeiro",2,1
+1225,248 000 €,127,"Alenquer, Alenquer (Santo Estêvão e Triana)",0,--
+1226,49 000 €,100,"Odivelas, Odivelas",--,0
+1227,314 500 €,144,"Sintra, Massamá e Monte Abraão",3,2
+1228,5 260 000 €,1387,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",14,14
+1229,1 190 000 €,308,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,4
+1230,550 000 €,106,"Cascais, Cascais e Estoril",3,2
+1231,370 000 €,86,"Lisboa, São Vicente",1,1
+1232,249 000 €,254,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",5,2
+1233,359 000 €,183,"Torres Vedras, Ramalhal",4,3
+1234,315 000 €,46,"Lisboa, Arroios",1,1
+1235,349 000 €,108,"Lisboa, Belém",3,4
+1236,445 000 €,103,"Lisboa, Lumiar",3,2
+1237,378 000 €,129,"Loures, Santo Antão e São Julião do Tojal",2,2
+1238,2 790 000 €,450,"Cascais, Cascais e Estoril",4,6
+1239,178 000 €,70,"Lisboa, Penha de França",2,1
+1240,179 000 €,35,"Lisboa, Marvila",1,0
+1241,850 000 €,141,"Oeiras, Porto Salvo",6,4
+1242,549 000 €,126,"Lisboa, Arroios",3,2
+1243,185 000 €,86,"Sintra, Rio de Mouro",2,1
+1244,1 080 000 €,290,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3
+1245,235 000 €,89,"Sintra, Rio de Mouro",2,1
+1246,1 650 000 €,197,"Cascais, Alcabideche",5,6
+1247,645 000 €,63,"Cascais, Cascais e Estoril",1,1
+1248,650 000 €,77,"Lisboa, Santa Maria Maior",1,2
+1249,125 000 €,136,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,2
+1250,418 000 €,161,"Mafra, Santo Isidoro",3,3
+1251,70 000 €,45,"Sintra, Queluz e Belas",--,1
+1252,785 000 €,244,"Lisboa, Santa Maria Maior",--,--
+1253,429 900 €,100,"Lisboa, São Domingos de Benfica",3,2
+1254,369 900 €,85,"Lisboa, São Domingos de Benfica",2,2
+1255,375 000 €,72,"Lisboa, Alcântara",1,2
+1256,52 000 €,16,"Amadora, Mina de Água",--,1
+1257,360 000 €,118,"Lisboa, Santa Clara",2,1
+1258,280 000 €,61,"Amadora, Encosta do Sol",2,1
+1259,329 000 €,150,"Sintra, Casal de Cambra",3,2
+1260,2 650 000 €,296,"Lisboa, Marvila",4,5
+1261,395 000 €,120,"Lisboa, Alvalade",3,0
+1262,220 000 €,78,"Amadora, Mina de Água",2,1
+1263,199 500 €,62,"Sintra, Queluz e Belas",2,1
+1264,120 000 €,75,"Amadora, Mina de Água",--,0
+1265,280 000 €,66,"Cascais, São Domingos de Rana",2,1
+1266,550 000 €,163,"Lisboa, Santa Clara",2,2
+1267,190 000 €,76,"Sintra, Cacém e São Marcos",2,1
+1268,800 000 €,193,"Odivelas, Pontinha e Famões",4,3
+1269,239 500 €,95,"Mafra, Malveira e São Miguel de Alcainça",2,1
+1270,770 000 €,200,"Lisboa, São Domingos de Benfica",4,3
+1271,599 000 €,118,"Oeiras, Carnaxide e Queijas",3,3
+1272,270 000 €,58,"Lisboa, Campo de Ourique",1,1
+1273,580 000 €,130,"Lisboa, Avenidas Novas",3,3
+1274,359 900 €,130,"Cascais, São Domingos de Rana",3,2
+1275,307 000 €,140,"Sintra, Massamá e Monte Abraão",3,2
+1276,135 000 €,76,"Vila Franca de Xira, Vialonga",3,1
+1277,146 500 €,64,"Sintra, Cacém e São Marcos",2,1
+1278,32 000 €,9000,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+1279,870 000 €,227,"Lisboa, Olivais",3,3
+1280,198 000 €,60,"Loures, Loures",2,1
+1281,199 000 €,72,"Torres Vedras, A dos Cunhados e Maceira",2,2
+1282,290 000 €,110,"Sintra, Agualva e Mira-Sintra",3,0
+1283,225 000 €,282,"Sintra, Queluz e Belas",--,0
+1284,950 000 €,103,"Lisboa, Olivais",4,4
+1285,25 000 €,6,"Sintra, Massamá e Monte Abraão",--,0
+1286,295 000 €,97,"Sintra, Massamá e Monte Abraão",4,2
+1287,590 000 €,186,"Mafra, Mafra",3,3
+1288,599 000 €,127,"Lisboa, Avenidas Novas",4,2
+1289,205 000 €,60,"Loures, Loures",2,1
+1290,420 000 €,187,"Cascais, Carcavelos e Parede",4,4
+1291,59 900 €,36,"Lisboa, Alcântara",--,2
+1292,480 000 €,112,"Sintra, Rio de Mouro",3,3
+1293,187 000 €,77,"Sintra, Algueirão-Mem Martins",2,1
+1294,770 000 €,225,"Cascais, Alcabideche",4,5
+1295,102 100 €,55,"Odivelas, Pontinha e Famões",1,1
+1296,200 000 €,40,"Cascais, Cascais e Estoril",1,1
+1297,300 000 €,107,"Cascais, Cascais e Estoril",3,1
+1298,1 200 000 €,231,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",6,6
+1299,264 000 €,135,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",3,2
+1300,175 000 €,59,"Loures, Santo António dos Cavaleiros e Frielas",3,1
+1301,1 220 000 €,538,"Sintra, Rio de Mouro",4,4
+1302,295 000 €,83,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+1303,430 000 €,100,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,1
+1304,410 000 €,118,"Cascais, Cascais e Estoril",3,2
+1305,300 000 €,102,"Sintra, Cacém e São Marcos",3,2
+1306,875 000 €,161,"Loures, Santo Antão e São Julião do Tojal",3,4
+1307,435 000 €,160,"Odivelas, Ramada e Caneças",3,2
+1308,156 000 €,61,"Amadora, Mina de Água",1,1
+1309,296 000 €,32,"Lisboa, Santa Maria Maior",0,1
+1310,327 000 €,37,"Lisboa, Santa Maria Maior",0,1
+1311,260 000 €,101,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1312,168 500 €,68,"Sintra, Cacém e São Marcos",2,1
+1313,730 200 €,77,"Lisboa, Misericórdia",2,1
+1314,700 500 €,72,"Lisboa, Misericórdia",2,1
+1315,530 000 €,136,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,0
+1316,990 000 €,155,"Cascais, Cascais e Estoril",3,3
+1317,170 000 €,76,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1318,288 000 €,110,"Loures, Moscavide e Portela",2,1
+1319,989 000 €,211,"Cascais, Alcabideche",4,3
+1320,365 000 €,85,"Lisboa, São Domingos de Benfica",4,2
+1321,308 000 €,102,"Odivelas, Pontinha e Famões",3,2
+1322,590 000 €,114,"Cascais, Cascais e Estoril",2,2
+1323,130 000 €,76,"Lisboa, Misericórdia",--,2
+1324,35 000 €,80,"Arruda dos Vinhos, Arranhó",--,0
+1325,82 000 €,99,"Odivelas, Pontinha e Famões",--,1
+1326,250 000 €,140,"Lisboa, Marvila",--,1
+1327,135 000 €,198,"Amadora, Mina de Água",--,0
+1328,450 000 €,123,"Lisboa, Penha de França",5,2
+1329,379 500 €,90,"Sintra, Cacém e São Marcos",3,2
+1330,218 000 €,100,"Torres Vedras, São Pedro da Cadeira",2,1
+1331,159 000 €,74,"Sintra, Casal de Cambra",3,2
+1332,695 000 €,138,"Lisboa, Santo António",3,2
+1333,469 000 €,103,"Cascais, Carcavelos e Parede",2,2
+1334,320 000 €,--,"Mafra, Santo Isidoro",--,0
+1335,310 000 €,84,"Cascais, São Domingos de Rana",2,1
+1336,57 500 €,163,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",--,0
+1337,168 500 €,80,"Sintra, Agualva e Mira-Sintra",3,1
+1338,390 000 €,130,"Sintra, Rio de Mouro",4,2
+1339,720 000 €,145,"Lisboa, Belém",2,2
+1340,315 000 €,114,"Loures, Loures",5,3
+1341,100 000 €,127,"Mafra, Enxara do Bispo, Gradil e Vila Franca do Rosário",4,1
+1342,225 000 €,93,"Sintra, Queluz e Belas",2,2
+1343,590 000 €,121,"Lisboa, Avenidas Novas",--,1
+1344,249 900 €,60,"Lisboa, Penha de França",1,1
+1345,138 000 €,69,"Azambuja, Azambuja",3,2
+1346,415 000 €,124,"Oeiras, Porto Salvo",3,2
+1347,1 235 000 €,170,"Lisboa, Belém",4,3
+1348,65 000 €,--,"Sobral de Monte Agraço, São Quintino",--,0
+1349,95 000 €,60,"Alenquer, Alenquer (Santo Estêvão e Triana)",1,1
+1350,310 000 €,107,"Loures, Santo António dos Cavaleiros e Frielas",3,2
+1351,225 000 €,52,"Cascais, Carcavelos e Parede",1,1
+1352,300 000 €,156,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,0
+1353,347 000 €,136,"Loures, Santo António dos Cavaleiros e Frielas",5,0
+1354,227 000 €,52,"Lisboa, Arroios",0,1
+1355,224 000 €,70,"Sintra, Cacém e São Marcos",2,1
+1356,385 000 €,100,"Lisboa, Campolide",3,2
+1357,60 000 €,--,"Sobral de Monte Agraço, São Quintino",--,0
+1358,190 000 €,84,"Sintra, Cacém e São Marcos",2,1
+1359,119 000 €,54,"Amadora, Águas Livres",1,1
+1360,80 000 €,--,"Vila Franca de Xira, Vialonga",--,0
+1361,190 500 €,87,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1
+1362,205 000 €,84,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1363,185 000 €,70,"Sintra, Algueirão-Mem Martins",2,1
+1364,399 000 €,191,"Lourinhã, Lourinhã e Atalaia",4,3
+1365,1 440 000 €,355,"Lisboa, Arroios",--,0
+1366,145 000 €,59,"Amadora, Mina de Água",2,1
+1367,262 500 €,78,"Lisboa, Santo António",2,1
+1368,155 000 €,39,"Lisboa, Santo António",2,1
+1369,310 000 €,47,"Lisboa, Avenidas Novas",0,--
+1370,129 000 €,79,"Alenquer, Carregado e Cadafais",2,1
+1371,162 000 €,170,"Alenquer, Alenquer (Santo Estêvão e Triana)",4,--
+1372,1 590 000 €,155,"Cascais, Alcabideche",3,5
+1373,1 670 000 €,170,"Cascais, Alcabideche",3,5
+1374,417 000 €,86,"Lisboa, Lumiar",2,2
+1375,270 000 €,96,"Mafra, Santo Isidoro",2,2
+1376,205 000 €,57,"Lisboa, Lumiar",2,0
+1377,120 000 €,40,"Lisboa, Ajuda",--,1
+1378,1 670 000 €,258,"Lisboa, Marvila",5,3
+1379,192 000 €,65,"Odivelas, Ramada e Caneças",2,1
+1380,160 000 €,81,"Sintra, Algueirão-Mem Martins",2,1
+1381,420 000 €,95,"Lisboa, Lumiar",3,2
+1382,798 500 €,160,"Lisboa, Belém",5,3
+1383,195 000 €,96,"Sintra, Agualva e Mira-Sintra",3,1
+1384,335 000 €,213,"Mafra, Malveira e São Miguel de Alcainça",3,2
+1385,550 000 €,129,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+1386,179 900 €,53,"Odivelas, Pontinha e Famões",2,1
+1387,595 000 €,110,"Lisboa, Campolide",3,2
+1388,142 000 €,134,"Arruda dos Vinhos, Santiago dos Velhos",2,1
+1389,349 500 €,188,"Cascais, Alcabideche",--,1
+1390,110 000 €,48,"Lisboa, Penha de França",--,1
+1391,175 000 €,79,"Odivelas, Odivelas",2,1
+1392,45 000 €,--,"Azambuja, Azambuja",--,0
+1393,380 000 €,97,"Cascais, São Domingos de Rana",2,2
+1394,279 000 €,135,"Vila Franca de Xira, Vialonga",3,2
+1395,320 000 €,122,"Cascais, São Domingos de Rana",1,1
+1396,1 190 000 €,311,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,4
+1397,347 000 €,96,"Loures, Santo António dos Cavaleiros e Frielas",3,2
+1398,995 000 €,227,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,3
+1399,471 000 €,174,"Lisboa, Arroios",--,1
+1400,435 000 €,90,"Lisboa, Carnide",4,4
+1401,110 000 €,93,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,1
+1402,395 000 €,90,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+1403,298 000 €,92,"Cascais, São Domingos de Rana",3,2
+1404,230 000 €,86,"Amadora, Mina de Água",2,1
+1405,1 440 000 €,331,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3
+1406,257 000 €,80,"Lisboa, Estrela",--,--
+1407,1 395 000 €,162,"Lisboa, Parque das Nações",4,3
+1408,730 000 €,276,"Lisboa, São Vicente",0,1
+1409,1 050 000 €,135,"Lisboa, Avenidas Novas",2,2
+1410,100 000 €,515,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+1411,529 000 €,181,"Mafra, Venda do Pinheiro e Santo Estêvão das Galés",4,3
+1412,250 000 €,60,"Lisboa, Penha de França",1,1
+1413,76 000 €,2400,"Torres Vedras, Carvoeira e Carmões",--,0
+1414,900 000 €,34,"Mafra, Encarnação",2,1
+1415,270 000 €,80,"Odivelas, Odivelas",3,2
+1416,1 299 000 €,138,"Cascais, Cascais e Estoril",2,3
+1417,395 000 €,110,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,2
+1418,1 285 000 €,219,"Cascais, Cascais e Estoril",5,4
+1419,270 000 €,50,"Lisboa, Campolide",1,1
+1420,170 000 €,56,"Odivelas, Pontinha e Famões",2,1
+1421,1 250 000 €,140,"Lisboa, Campolide",2,3
+1422,125 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0
+1423,1 300 000 €,202,"Lisboa, Santa Maria Maior",3,2
+1424,314 500 €,145,"Sintra, Massamá e Monte Abraão",4,2
+1425,199 000 €,59,"Amadora, Venteira",2,1
+1426,233 000 €,64,"Amadora, Águas Livres",2,1
+1427,72 000 €,56,"Alenquer, Olhalvo",2,1
+1428,195 000 €,46,"Lisboa, São Domingos de Benfica",1,0
+1429,176 000 €,71,"Loures, Santo António dos Cavaleiros e Frielas",2,1
+1430,52 000 €,--,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",--,0
+1431,775 000 €,185,"Lisboa, São Domingos de Benfica",4,3
+1432,615 000 €,164,"Sintra, Queluz e Belas",3,3
+1433,135 000 €,79,"Alenquer, Ota",2,0
+1434,25 000 €,1120,"Sintra, São João das Lampas e Terrugem",--,0
+1435,42 500 €,--,"Azambuja, Aveiras de Cima",--,0
+1436,186 000 €,100,"Sintra, Massamá e Monte Abraão",2,1
+1437,145 000 €,54,"Sintra, Cacém e São Marcos",1,--
+1438,260 000 €,160,"Torres Vedras, Campelos e Outeiro da Cabeça",3,2
+1439,90 000 €,360,"Cadaval, Lamas e Cercal",--,0
+1440,137 500 €,96,"Mafra, Igreja Nova e Cheleiros",3,4
+1441,26 500 €,80,"Sintra, Rio de Mouro",--,0
+1442,239 000 €,88,"Odivelas, Póvoa de Santo Adrião e Olival Basto",3,1
+1443,217 500 €,89,"Sintra, Massamá e Monte Abraão",3,2
+1444,163 000 €,90,"Azambuja, Alcoentre",2,2
+1445,495 000 €,166,"Mafra, Mafra",3,3
+1446,165 000 €,65,"Sintra, Queluz e Belas",2,2
+1447,700 000 €,507,"Odivelas, Ramada e Caneças",5,5
+1448,225 000 €,83,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1
+1449,1 425 000 €,156,"Lisboa, Santo António",3,3
+1450,60 000 €,86,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,1
+1451,210 000 €,73,"Lisboa, Olivais",2,1
+1452,3 380 000 €,1100,"Cascais, Cascais e Estoril",15,20
+1453,170 000 €,116,"Alenquer, Carregado e Cadafais",3,2
+1454,230 000 €,90,"Loures, Loures",2,1
+1455,115 000 €,66,"Sintra, Cacém e São Marcos",2,1
+1456,60 000 €,4400,"Sintra, São João das Lampas e Terrugem",--,0
+1457,900 000 €,365,"Lisboa, Misericórdia",10,5
+1458,480 000 €,790,"Loures, Camarate, Unhos e Apelação",5,0
+1459,387 500 €,82,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+1460,339 000 €,119,"Loures, Santo António dos Cavaleiros e Frielas",3,2
+1461,420 000 €,92,"Lisboa, Alcântara",2,2
+1462,998 000 €,88,"Cascais, Cascais e Estoril",2,3
+1463,220 000 €,36883,"Cadaval, Vilar",--,0
+1464,1 190 000 €,120,"Lisboa, Avenidas Novas",3,3
+1465,240 000 €,95,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2
+1466,445 000 €,89,"Mafra, Ericeira",2,1
+1467,169 000 €,85,"Sintra, Algueirão-Mem Martins",2,1
+1468,270 000 €,119,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2
+1469,139 900 €,66,"Sintra, Rio de Mouro",1,1
+1470,329 000 €,120,"Loures, Sacavém e Prior Velho",3,2
+1471,595 000 €,116,"Lisboa, Alcântara",3,2
+1472,340 000 €,113,"Amadora, Águas Livres",3,2
+1473,260 000 €,78,"Amadora, Encosta do Sol",2,1
+1474,260 000 €,72,"Lisboa, Carnide",--,1
+1475,160 000 €,69,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,1
+1476,590 000 €,136,"Mafra, Ericeira",2,3
+1477,355 000 €,111,"Cascais, São Domingos de Rana",2,2
+1478,269 000 €,92,"Amadora, Encosta do Sol",3,2
+1479,160 000 €,55,"Cascais, São Domingos de Rana",1,1
+1480,250 000 €,79,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,2
+1481,385 000 €,74,"Cascais, Cascais e Estoril",1,2
+1482,920 000 €,278,"Cascais, Carcavelos e Parede",4,4
+1483,210 000 €,91,"Sintra, Rio de Mouro",2,1
+1484,59 000 €,30,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1
+1485,95 000 €,26,"Lisboa, Carnide",--,0
+1486,260 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1
+1487,420 000 €,70,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+1488,495 000 €,136,"Lisboa, Parque das Nações",--,1
+1489,208 000 €,148,"Sintra, Agualva e Mira-Sintra",4,2
+1490,1 400 000 €,153,"Cascais, Cascais e Estoril",3,4
+1491,686 808 €,117,"Cascais, Carcavelos e Parede",2,3
+1492,686 808 €,117,"Cascais, Carcavelos e Parede",2,3
+1493,686 808 €,117,"Cascais, Carcavelos e Parede",2,3
+1494,738 736 €,121,"Cascais, Carcavelos e Parede",2,3
+1495,464 673 €,76,"Cascais, Carcavelos e Parede",1,2
+1496,551 922 €,89,"Cascais, Carcavelos e Parede",1,2
+1497,495 000 €,150,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,0
+1498,649 000 €,586,"Lisboa, Benfica",--,2
+1499,449 500 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",6,8
+1500,449 000 €,128,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1501,115 000 €,94,"Alenquer, Ventosa",2,2
+1502,459 000 €,77,"Lisboa, Parque das Nações",2,1
+1503,950 000 €,--,"Azambuja, Azambuja",--,0
+1504,495 000 €,68,"Cascais, São Domingos de Rana",2,2
+1505,171 000 €,79,"Sintra, Algueirão-Mem Martins",2,1
+1506,157 500 €,54,"Cascais, Carcavelos e Parede",--,2
+1507,650 000 €,183,"Cascais, São Domingos de Rana",4,4
+1508,115 000 €,--,"Cascais, São Domingos de Rana",--,0
+1509,365 000 €,47,"Lisboa, Avenidas Novas",1,1
+1510,450 000 €,--,"Sintra, Cacém e São Marcos",--,0
+1511,210 000 €,132,"Sintra, Algueirão-Mem Martins",3,2
+1512,595 000 €,150,"Lisboa, Arroios",5,2
+1513,139 000 €,64,"Amadora, Encosta do Sol",2,1
+1514,265 000 €,46,"Lisboa, São Vicente",1,1
+1515,179 500 €,87,"Sintra, Agualva e Mira-Sintra",2,1
+1516,660 000 €,122,"Lisboa, Alvalade",3,2
+1517,245 000 €,91,"Sintra, Algueirão-Mem Martins",2,1
+1518,395 000 €,73,"Lisboa, São Domingos de Benfica",1,1
+1519,52 500 €,--,"Mafra, Santo Isidoro",--,0
+1520,615 000 €,130,"Lisboa, Penha de França",3,2
+1521,172 500 €,42,"Amadora, Águas Livres",1,1
+1522,347 500 €,82,"Oeiras, Barcarena",4,2
+1523,155 000 €,59,"Sintra, Cacém e São Marcos",1,1
+1524,85 000 €,121,"Torres Vedras, Carvoeira e Carmões",3,1
+1525,160 000 €,76,"Amadora, Falagueira - Venda Nova",2,1
+1526,899 000 €,165,"Cascais, Carcavelos e Parede",4,4
+1527,325 000 €,94,"Cascais, Cascais e Estoril",3,2
+1528,400 000 €,123,"Mafra, Ericeira",2,2
+1529,155 000 €,67,"Mafra, Milharado",2,1
+1530,170 000 €,67,"Sintra, Rio de Mouro",2,1
+1531,640 000 €,506,"Oeiras, Carnaxide e Queijas",5,3
+1532,398 000 €,237,"Vila Franca de Xira, Vila Franca de Xira",3,3
+1533,259 000 €,112,"Mafra, Venda do Pinheiro e Santo Estêvão das Galés",2,2
+1534,790 000 €,147,"Lisboa, Parque das Nações",3,3
+1535,185 000 €,77,"Sintra, Queluz e Belas",2,1
+1536,80 000 €,80,"Cadaval, Vilar",3,2
+1537,289 900 €,158,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2
+1538,140 000 €,116,"Azambuja, Azambuja",3,2
+1539,3 980 000 €,465,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",6,5
+1540,340 000 €,75,"Cascais, São Domingos de Rana",2,1
+1541,350 000 €,155,"Sintra, Queluz e Belas",3,3
+1542,750 000 €,273,"Loures, Loures",4,3
+1543,390 000 €,105,"Lisboa, Lumiar",4,2
+1544,815 000 €,136,"Lisboa, Santa Maria Maior",2,2
+1545,80 000 €,--,"Loures, Loures",--,0
+1546,285 000 €,142,"Sintra, Rio de Mouro",3,3
+1547,450 000 €,329,"Odivelas, Pontinha e Famões",--,0
+1548,216 000 €,112,"Vila Franca de Xira, Vila Franca de Xira",3,2
+1549,348 000 €,148,"Cascais, São Domingos de Rana",2,1
+1550,340 000 €,508,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,--
+1551,380 000 €,88,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2
+1552,450 000 €,93,"Cascais, Carcavelos e Parede",2,2
+1553,420 000 €,140,"Lisboa, Santa Clara",3,3
+1554,620 000 €,181,"Sintra, Casal de Cambra",4,3
+1555,399 000 €,158,"Lisboa, Santa Maria Maior",6,4
+1556,229 000 €,133,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",3,2
+1557,225 000 €,106,"Sintra, Agualva e Mira-Sintra",3,2
+1558,215 000 €,67,"Odivelas, Odivelas",2,2
+1559,1 440 000 €,330,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3
+1560,367 000 €,79,"Lisboa, Campo de Ourique",3,1
+1561,219 500 €,340,"Torres Vedras, Turcifal",6,1
+1562,1 750 000 €,260,"Cascais, Cascais e Estoril",4,5
+1563,550 000 €,135,"Lisboa, Olivais",4,2
+1564,3 100 000 €,1928,"Lisboa, Beato",--,0
+1565,465 000 €,116,"Lisboa, Avenidas Novas",3,2
+1566,650 000 €,217,"Sintra, São João das Lampas e Terrugem",4,4
+1567,419 000 €,154,"Oeiras, Carnaxide e Queijas",5,3
+1568,1 700 000 €,332,"Cascais, Cascais e Estoril",6,6
+1569,530 000 €,163,"Odivelas, Odivelas",3,2
+1570,595 000 €,185,"Odivelas, Ramada e Caneças",3,3
+1571,115 000 €,41,"Amadora, Venteira",1,1
+1572,545 000 €,180,"Lisboa, Alvalade",--,2
+1573,300 000 €,--,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+1574,60 000 €,297,"Vila Franca de Xira, Vialonga",0,0
+1575,1 800 000 €,215,"Lisboa, Santa Maria Maior",3,0
+1576,499 900 €,157,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,2
+1577,187 500 €,66,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1
+1578,49 500 €,45,"Sintra, Queluz e Belas",--,1
+1579,87 000 €,--,"Mafra, Igreja Nova e Cheleiros",--,0
+1580,570 000 €,107,"Cascais, Alcabideche",2,2
+1581,277 000 €,63,"Lisboa, Arroios",2,1
+1582,150 000 €,212,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1
+1583,150 000 €,202,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1
+1584,275 000 €,132,"Torres Vedras, Campelos e Outeiro da Cabeça",3,2
+1585,850 000 €,295,"Odivelas, Odivelas",--,1
+1586,270 000 €,99,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,4
+1587,795 000 €,173,"Mafra, Mafra",4,4
+1588,2 400 000 €,684,"Lisboa, Arroios",12,10
+1589,430 000 €,128,"Cascais, São Domingos de Rana",3,2
+1590,3 200 000 €,2495,"Cascais, Alcabideche",--,--
+1591,135 000 €,46,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",1,--
+1592,545 000 €,211,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",5,4
+1593,205 000 €,95,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1594,298 000 €,97,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+1595,149 900 €,55,"Odivelas, Póvoa de Santo Adrião e Olival Basto",1,2
+1596,396 000 €,180,"Loures, Camarate, Unhos e Apelação",8,6
+1597,229 500 €,77,"Sintra, Massamá e Monte Abraão",2,1
+1598,1 390 000 €,298,"Sintra, Queluz e Belas",5,5
+1599,232 500 €,76,"Odivelas, Odivelas",2,1
+1600,350 000 €,105,"Lisboa, Olivais",4,1
+1601,2 300 000 €,406,"Cascais, Cascais e Estoril",5,7
+1602,850 000 €,200,"Cascais, São Domingos de Rana",4,4
+1603,198 000 €,68,"Sintra, Massamá e Monte Abraão",1,1
+1604,42 000 €,--,"Sintra, São João das Lampas e Terrugem",--,--
+1605,279 000 €,66,"Cascais, Cascais e Estoril",2,1
+1606,289 000 €,94,"Amadora, Encosta do Sol",3,2
+1607,449 500 €,127,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1608,308 000 €,157,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",3,2
+1609,693 000 €,143,"Cascais, São Domingos de Rana",3,3
+1610,1 350 000 €,299,"Cascais, Cascais e Estoril",2,3
+1611,305 000 €,65,"Lisboa, Ajuda",1,1
+1612,450 000 €,79,"Lisboa, Santa Maria Maior",--,0
+1613,1 290 000 €,255,"Lisboa, Avenidas Novas",4,4
+1614,276 000 €,90,"Lisboa, Estrela",--,--
+1615,260 000 €,72,"Cascais, São Domingos de Rana",2,1
+1616,220 000 €,86,"Odivelas, Odivelas",3,2
+1617,555 000 €,139,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,3
+1618,58 000 €,64,"Azambuja, Alcoentre",1,1
+1619,190 000 €,55,"Amadora, Águas Livres",2,1
+1620,75 000 €,--,"Cascais, Alcabideche",--,0
+1621,75 000 €,--,"Cascais, Alcabideche",--,0
+1622,60 000 €,36,"Lisboa, Parque das Nações",--,--
+1623,185 000 €,85,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",3,1
+1624,499 000 €,354,"Alenquer, Alenquer (Santo Estêvão e Triana)",4,4
+1625,390 000 €,75,"Lisboa, Alcântara",3,2
+1626,565 000 €,103,"Mafra, Mafra",3,2
+1627,337 000 €,58,"Lisboa, Campo de Ourique",2,1
+1628,250 000 €,111,"Lisboa, Benfica",--,0
+1629,147 200 €,72,"Azambuja, Azambuja",2,1
+1630,277 400 €,65,"Cascais, São Domingos de Rana",2,1
+1631,67 000 €,256,"Sobral de Monte Agraço, Sapataria",0,--
+1632,180 000 €,65,"Lisboa, Misericórdia",2,1
+1633,174 900 €,78,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,2
+1634,260 000 €,103,"Arruda dos Vinhos, Santiago dos Velhos",2,--
+1635,79 500 €,80,"Alenquer, Olhalvo",0,0
+1636,1 390 000 €,254,"Cascais, Cascais e Estoril",3,4
+1637,195 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1
+1638,219 000 €,90,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1639,167 000 €,78,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,2
+1640,475 000 €,166,"Loures, Santo António dos Cavaleiros e Frielas",4,2
+1641,210 000 €,95,"Torres Vedras, Dois Portos e Runa",2,1
+1642,2 270 000 €,347,"Cascais, Carcavelos e Parede",4,5
+1643,99 900 €,50,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",1,1
+1644,46 000 €,--,"Mafra, Encarnação",--,0
+1645,170 000 €,96,"Cadaval, Peral",3,2
+1646,79 000 €,--,"Mafra, Encarnação",--,0
+1647,340 000 €,157,"Lisboa, Arroios",5,1
+1648,280 000 €,126,"Mafra, Milharado",2,2
+1649,1 350 000 €,127,"Cascais, Carcavelos e Parede",3,4
+1650,695 000 €,166,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3
+1651,395 000 €,96,"Lisboa, Campo de Ourique",2,2
+1652,295 000 €,270,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2
+1653,248 590 €,27,"Lisboa, Santo António",1,1
+1654,54 900 €,18,"Amadora, Falagueira - Venda Nova",--,1
+1655,179 000 €,69,"Sintra, Agualva e Mira-Sintra",2,1
+1656,159 500 €,198,"Alenquer, Carregado e Cadafais",0,1
+1657,2 050 000 €,--,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",--,0
+1658,285 000 €,86,"Oeiras, Carnaxide e Queijas",3,1
+1659,750 000 €,82,"Lisboa, Arroios",2,2
+1660,275 000 €,46,"Lisboa, Campo de Ourique",1,1
+1661,349 000 €,125,"Lisboa, São Vicente",3,2
+1662,75 000 €,75,"Alenquer, Meca",2,1
+1663,15 000 €,5,"Lisboa, Penha de França",--,--
+1664,190 000 €,92,"Amadora, Venteira",3,1
+1665,40 000 €,100,"Alenquer, Ventosa",3,1
+1666,47 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0
+1667,170 000 €,51,"Loures, Moscavide e Portela",--,1
+1668,230 000 €,90,"Sobral de Monte Agraço, Sobral de Monte Agraço",3,2
+1669,437 100 €,142,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2
+1670,215 000 €,43,"Lisboa, Penha de França",1,1
+1671,298 000 €,75,"Lisboa, Olivais",2,2
+1672,151 000 €,101,"Alenquer, Ribafria e Pereiro de Palhacana",1,2
+1673,265 000 €,47,"Lisboa, São Domingos de Benfica",1,1
+1674,249 999 €,103,"Amadora, Mina de Água",3,2
+1675,395 000 €,113,"Lisboa, Penha de França",5,2
+1676,165 000 €,74,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1
+1677,250 000 €,133,"Sintra, Agualva e Mira-Sintra",2,1
+1678,1 090 000 €,150,"Cascais, Cascais e Estoril",5,4
+1679,224 900 €,86,"Vila Franca de Xira, Vialonga",2,1
+1680,39 000 €,40,"Lisboa, Penha de França",--,1
+1681,250 000 €,57,"Lisboa, Santa Maria Maior",1,1
+1682,75 000 €,20,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,1
+1683,800 000 €,78,"Lisboa, Santa Maria Maior",1,1
+1684,159 000 €,75,"Sintra, Rio de Mouro",2,1
+1685,3 200 000 €,483,"Cascais, Cascais e Estoril",7,8
+1686,159 000 €,51,"Loures, Santo António dos Cavaleiros e Frielas",2,1
+1687,37 000 €,43,"Sintra, Queluz e Belas",--,0
+1688,133 000 €,48,"Alenquer, Ribafria e Pereiro de Palhacana",2,2
+1689,390 000 €,111,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1690,1 240 000 €,259,"Sintra, Colares",4,3
+1691,448 000 €,100,"Lisboa, Ajuda",3,2
+1692,472 500 €,59,"Lisboa, Parque das Nações",1,1
+1693,1 149 000 €,310,"Oeiras, Barcarena",4,4
+1694,360 000 €,122,"Odivelas, Odivelas",4,0
+1695,1 890 000 €,315,"Cascais, Cascais e Estoril",4,5
+1696,199 000 €,130,"Torres Vedras, Freiria",3,3
+1697,450 000 €,103,"Cascais, São Domingos de Rana",3,2
+1698,1 190 000 €,144,"Lisboa, Santo António",3,3
+1699,649 000 €,231,"Mafra, Santo Isidoro",4,3
+1700,195 000 €,110,"Torres Vedras, A dos Cunhados e Maceira",3,2
+1701,289 000 €,126,"Odivelas, Odivelas",3,2
+1702,230 000 €,68,"Oeiras, Porto Salvo",2,1
+1703,810 000 €,180,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",5,4
+1704,730 000 €,145,"Oeiras, Carnaxide e Queijas",3,3
+1705,649 000 €,118,"Lisboa, São Domingos de Benfica",2,2
+1706,615 000 €,134,"Oeiras, Carnaxide e Queijas",2,3
+1707,149 200 €,58,"Sintra, Queluz e Belas",1,1
+1708,710 000 €,170,"Oeiras, Carnaxide e Queijas",3,3
+1709,148 000 €,52,"Amadora, Mina de Água",2,1
+1710,405 000 €,126,"Sintra, Massamá e Monte Abraão",3,2
+1711,287 000 €,150,"Torres Vedras, Silveira",2,4
+1712,166 000 €,198,"Alenquer, Carregado e Cadafais",3,2
+1713,185 000 €,78,"Sintra, Massamá e Monte Abraão",1,1
+1714,577 000 €,173,"Sintra, Queluz e Belas",3,2
+1715,585 000 €,141,"Oeiras, Carnaxide e Queijas",2,2
+1716,690 000 €,319,"Cascais, São Domingos de Rana",3,3
+1717,174 700 €,69,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1
+1718,427 000 €,630,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",1,1
+1719,825 000 €,314,"Sintra, São João das Lampas e Terrugem",4,5
+1720,825 000 €,298,"Sintra, São João das Lampas e Terrugem",4,3
+1721,690 000 €,170,"Oeiras, Carnaxide e Queijas",3,3
+1722,750 000 €,366,"Cascais, Alcabideche",5,3
+1723,565 000 €,99,"Lisboa, Alvalade",4,1
+1724,575 000 €,141,"Oeiras, Carnaxide e Queijas",2,2
+1725,550 000 €,141,"Oeiras, Carnaxide e Queijas",2,2
+1726,137 500 €,57,"Sintra, Cacém e São Marcos",1,1
+1727,455 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0
+1728,575 000 €,125,"Oeiras, Carnaxide e Queijas",2,2
+1729,260 000 €,87,"Odivelas, Odivelas",3,2
+1730,365 000 €,129,"Amadora, Venteira",3,2
+1731,880 000 €,734,"Amadora, Falagueira - Venda Nova",--,0
+1732,28 000 €,300,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0
+1733,420 000 €,120,"Lisboa, Santo António",5,1
+1734,399 000 €,110,"Lisboa, Arroios",3,2
+1735,355 000 €,307,"Loures, Moscavide e Portela",--,0
+1736,56 000 €,--,"Azambuja, Alcoentre",--,0
+1737,139 000 €,75,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1
+1738,175 000 €,104,"Vila Franca de Xira, Vila Franca de Xira",3,2
+1739,450 000 €,83,"Cascais, Carcavelos e Parede",2,2
+1740,200 000 €,80,"Sintra, Agualva e Mira-Sintra",3,2
+1741,498 000 €,100,"Cascais, Cascais e Estoril",2,2
+1742,2 650 000 €,265,"Lisboa, Santo António",4,4
+1743,4 900 000 €,420,"Cascais, Cascais e Estoril",6,7
+1744,849 000 €,185,"Lisboa, Santo António",3,2
+1745,1 100 000 €,161,"Loures, Santo Antão e São Julião do Tojal",4,4
+1746,435 000 €,142,"Sintra, Cacém e São Marcos",4,3
+1747,416 000 €,106,"Cascais, Cascais e Estoril",3,2
+1748,180 000 €,726,"Lisboa, Estrela",--,0
+1749,350 000 €,91,"Lisboa, Misericórdia",1,1
+1750,465 000 €,118,"Oeiras, Carnaxide e Queijas",2,2
+1751,449 000 €,66,"Lisboa, Campolide",1,1
+1752,595 000 €,108,"Cascais, São Domingos de Rana",3,3
+1753,229 000 €,90,"Loures, Loures",2,1
+1754,477 000 €,357,"Cascais, Alcabideche",--,3
+1755,270 000 €,68,"Odivelas, Póvoa de Santo Adrião e Olival Basto",3,2
+1756,850 000 €,141,"Lisboa, Lumiar",3,3
+1757,278 000 €,94,"Sintra, Massamá e Monte Abraão",2,2
+1758,145 000 €,76,"Vila Franca de Xira, Vila Franca de Xira",2,1
+1759,595 000 €,98,"Lisboa, Misericórdia",1,2
+1760,55 000 €,300,"Amadora, Mina de Água",--,0
+1761,280 000 €,123,"Amadora, Águas Livres",3,2
+1762,2 960 000 €,--,"Cascais, Alcabideche",--,0
+1763,198 000 €,114,"Cadaval, Vilar",2,2
+1764,895 000 €,145,"Lisboa, Misericórdia",3,2
+1765,650 000 €,118,"Lisboa, Lumiar",3,2
+1766,249 500 €,109,"Sintra, Massamá e Monte Abraão",2,1
+1767,680 000 €,144,"Lisboa, Alvalade",5,2
+1768,980 000 €,190,"Cascais, Carcavelos e Parede",3,3
+1769,799 000 €,195,"Oeiras, Porto Salvo",5,4
+1770,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1771,194 900 €,71,"Odivelas, Odivelas",2,1
+1772,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1773,6 000 000 €,0,"Cascais, Cascais e Estoril",0,0
+1774,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1775,450 000 €,87,"Cascais, Cascais e Estoril",2,1
+1776,380 000 €,99,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1777,635 000 €,153,"Lisboa, Benfica",3,3
+1778,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1779,480 000 €,88,"Lisboa, Olivais",2,2
+1780,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1781,549 000 €,103,"Lisboa, Campolide",3,2
+1782,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1783,1 695 000 €,149,"Cascais, Cascais e Estoril",3,3
+1784,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1785,598 000 €,305,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",6,3
+1786,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1787,155 000 €,71,"Amadora, Águas Livres",1,1
+1788,235 000 €,94,"Lisboa, Santa Clara",2,1
+1789,444 013 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1790,680 000 €,146,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,3
+1791,390 450 €,126,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1792,380 000 €,93,"Lisboa, São Vicente",3,1
+1793,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1794,1 990 000 €,213,"Cascais, Cascais e Estoril",3,4
+1795,395 000 €,54,"Lisboa, Avenidas Novas",1,1
+1796,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1797,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1798,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1799,740 000 €,182,"Lisboa, Lumiar",3,3
+1800,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1801,2 350 000 €,191,"Cascais, Cascais e Estoril",4,4
+1802,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1803,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1804,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1805,390 450 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1806,430 000 €,253,"Lourinhã, Santa Bárbara",3,2
+1807,275 000 €,66,"Lisboa, Santa Maria Maior",2,1
+1808,1 100 000 €,320,"Cascais, Cascais e Estoril",4,3
+1809,305 000 €,116,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,0
+1810,540 000 €,180,"Sintra, Queluz e Belas",4,3
+1811,210 000 €,95,"Sintra, Cacém e São Marcos",3,2
+1812,975 000 €,560,"Cascais, São Domingos de Rana",--,0
+1813,915 000 €,112,"Cascais, Cascais e Estoril",3,3
+1814,45 000 €,400,"Lourinhã, São Bartolomeu dos Galegos e Moledo",--,0
+1815,650 000 €,238,"Cascais, Alcabideche",4,3
+1816,260 000 €,320,"Cadaval, Cadaval e Pêro Moniz",7,5
+1817,390 450 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1818,360 000 €,65,"Lisboa, São Domingos de Benfica",2,1
+1819,684 000 €,130,"Lisboa, Campolide",2,3
+1820,212 000 €,50,"Lisboa, Olivais",2,1
+1821,197 000 €,65,"Amadora, Águas Livres",2,1
+1822,1 050 000 €,215,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",6,4
+1823,320 000 €,80,"Lisboa, Olivais",3,1
+1824,169 900 €,65,"Sintra, Queluz e Belas",2,1
+1825,179 900 €,98,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,1
+1826,165 000 €,71,"Sintra, Massamá e Monte Abraão",2,1
+1827,122 500 €,43,"Torres Vedras, A dos Cunhados e Maceira",1,1
+1828,300 000 €,182,"Amadora, Águas Livres",5,2
+1829,99 800 €,100,"Amadora, Mina de Água",--,1
+1830,255 000 €,64,"Cascais, Cascais e Estoril",1,1
+1831,300 000 €,41,"Lisboa, Arroios",1,1
+1832,1 020 000 €,286,"Lisboa, Parque das Nações",4,3
+1833,375 000 €,275,"Mafra, Santo Isidoro",3,2
+1834,235 000 €,--,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",--,0
+1835,225 000 €,66,"Lisboa, Lumiar",2,1
+1836,120 000 €,35,"Amadora, Venteira",0,1
+1837,380 000 €,76,"Lisboa, Lumiar",1,1
+1838,380 000 €,76,"Lisboa, Lumiar",1,1
+1839,580 000 €,116,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",--,2
+1840,79 950 €,80,"Santarém, Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau)",--,2
+1841,450 000 €,192,"Sintra, Rio de Mouro",4,4
+1842,1 547 000 €,336,"Mafra, Ericeira",6,7
+1843,1 498 000 €,299,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",5,4
+1844,1 570 000 €,336,"Mafra, Ericeira",5,6
+1845,135 000 €,50,"Sintra, Queluz e Belas",1,1
+1846,697 000 €,162,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,5
+1847,150 000 €,--,"Cascais, São Domingos de Rana",--,0
+1848,589 500 €,136,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3
+1849,170 000 €,81,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1850,11 000 €,--,"Azambuja, Manique do Intendente, Vila Nova de São Pedro e Maçussa",--,--
+1851,99 000 €,210,"Lisboa, Avenidas Novas",--,3
+1852,390 000 €,140,"Sintra, Queluz e Belas",3,2
+1853,190 000 €,82,"Sobral de Monte Agraço, Sobral de Monte Agraço",2,1
+1854,295 000 €,--,"Mafra, Santo Isidoro",--,0
+1855,99 000 €,210,"Lisboa, Avenidas Novas",--,3
+1856,110 000 €,80,"Odivelas, Pontinha e Famões",--,2
+1857,450 000 €,79,"Cascais, Alcabideche",2,2
+1858,70 000 €,81,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,1
+1859,659 000 €,192,"Odivelas, Pontinha e Famões",4,0
+1860,164 900 €,65,"Sintra, Cacém e São Marcos",1,1
+1861,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1862,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1863,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1864,199 000 €,55,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2
+1865,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1866,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1867,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1868,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1869,285 000 €,--,"Sintra, Rio de Mouro",--,0
+1870,248 000 €,71,"Lisboa, Marvila",2,1
+1871,169 000 €,48,"Oeiras, Carnaxide e Queijas",1,1
+1872,190 000 €,69,"Odivelas, Odivelas",2,1
+1873,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2
+1874,390 450 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1875,414 640 €,126,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2
+1876,240 000 €,84,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2
+1877,252 000 €,89,"Cascais, Alcabideche",2,3
+1878,215 000 €,182,"Oeiras, Barcarena",--,2
+1879,920 000 €,146,"Lisboa, Avenidas Novas",2,2
+1880,150 000 €,65,"Sintra, Rio de Mouro",2,1
+1881,380 000 €,79,"Oeiras, Porto Salvo",3,2
+1882,65 000 €,310,"Torres Vedras, Campelos e Outeiro da Cabeça",--,0
+1883,380 000 €,80,"Odivelas, Odivelas",2,1
+1884,620 000 €,122,"Lisboa, Arroios",3,2
+1885,495 000 €,128,"Oeiras, Carnaxide e Queijas",3,2
+1886,6 900 000 €,690,"Lisboa, Belém",6,5
+1887,1 075 000 €,189,"Mafra, Ericeira",4,3
+1888,490 000 €,90,"Cascais, Cascais e Estoril",2,1
+1889,178 000 €,79,"Amadora, Falagueira - Venda Nova",2,1
+1890,647 000 €,115,"Lisboa, Areeiro",4,2
+1891,225 000 €,110,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2
+1892,1 850 000 €,362,"Lisboa, Belém",6,7
+1893,575 000 €,143,"Sintra, Algueirão-Mem Martins",5,2
+1894,275 000 €,183,"Lourinhã, Lourinhã e Atalaia",3,3
+1895,189 000 €,320,"Cadaval, Cadaval e Pêro Moniz",3,2
+1896,160 000 €,58,"Amadora, Encosta do Sol",2,1
+1897,199 500 €,83,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,1
+1898,2 500 000 €,492,"Lisboa, São Vicente",--,2
+1899,2 100 000 €,366,"Cascais, Cascais e Estoril",5,6
+1900,189 900 €,75,"Lisboa, Campolide",2,--
+1901,120 000 €,--,"Mafra, Milharado",--,0
+1902,1 800 000 €,894,"Lisboa, Avenidas Novas",--,2
+1903,396 000 €,124,"Odivelas, Odivelas",3,2
+1904,1 250 000 €,1480,"Loures, Lousa",--,2
+1905,355 000 €,182,"Sintra, Massamá e Monte Abraão",4,2
+1906,243 000 €,107,"Odivelas, Pontinha e Famões",3,2
+1907,375 000 €,97,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,2
+1908,173 000 €,100,"Sintra, Agualva e Mira-Sintra",2,1
+1909,775 000 €,123,"Cascais, Cascais e Estoril",3,3
+1910,250 000 €,60,"Lisboa, Benfica",2,1
+1911,228 000 €,29,"Lisboa, Parque das Nações",--,0
+1912,585 000 €,161,"Odivelas, Odivelas",4,2
+1913,280 000 €,75,"Lisboa, Beato",2,1
+1914,229 000 €,110,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2
+1915,19 900 €,40,"Odivelas, Odivelas",--,1
+1916,153 000 €,85,"Sintra, Massamá e Monte Abraão",3,1
+1917,195 000 €,64,"Odivelas, Odivelas",3,1
+1918,199 000 €,75,"Sintra, Algueirão-Mem Martins",3,2
+1919,750 000 €,118,"Cascais, Cascais e Estoril",3,2
+1920,500 000 €,120,"Cascais, Cascais e Estoril",3,2
+1921,29 000 €,20,"Sintra, Queluz e Belas",--,0
+1922,1 200 000 €,247,"Mafra, Santo Isidoro",4,4
+1923,728 000 €,99,"Lisboa, Avenidas Novas",2,2
+1924,269 000 €,69,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+1925,728 000 €,99,"Lisboa, Avenidas Novas",2,2
+1926,187 000 €,50,"Lisboa, Areeiro",2,1
+1927,479 500 €,128,"Lisboa, Parque das Nações",3,2
+1928,89 000 €,187,"Cadaval, Cadaval e Pêro Moniz",4,3
+1929,190 000 €,40,"Lisboa, Santo António",1,1
+1930,330 000 €,90,"Torres Vedras, Silveira",3,1
+1931,120 000 €,358,"Cadaval, Painho e Figueiros",2,1
+1932,158 000 €,72,"Vila Franca de Xira, Vialonga",3,1
+1933,520 000 €,250,"Lisboa, Lumiar",3,2
+1934,375 000 €,90,"Lisboa, Carnide",3,1
+1935,135 000 €,71,"Vila Franca de Xira, Vialonga",3,1
+1936,310 000 €,101,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+1937,195 000 €,38,"Lisboa, Estrela",1,1
+1938,630 000 €,168,"Sintra, Queluz e Belas",3,2
+1939,1 600 000 €,153,"Lisboa, Belém",5,4
+1940,275 000 €,74,"Sintra, Queluz e Belas",2,1
+1941,295 000 €,210,"Arruda dos Vinhos, Arruda dos Vinhos",4,1
+1942,630 000 €,145,"Lisboa, Arroios",5,2
+1943,580 000 €,181,"Lisboa, Santa Maria Maior",--,--
+1944,35 000 €,53,"Arruda dos Vinhos, Arranhó",2,1
+1945,540 000 €,85,"Lisboa, Santo António",2,2
+1946,320 000 €,50,"Lisboa, Santo António",1,1
+1947,410 000 €,114,"Loures, Santo Antão e São Julião do Tojal",3,3
+1948,135 000 €,39,"Loures, Loures",1,1
+1949,550 000 €,178,"Mafra, Ericeira",3,3
+1950,266 000 €,144,"Sobral de Monte Agraço, São Quintino",3,3
+1951,720 000 €,209,"Loures, Camarate, Unhos e Apelação",4,5
+1952,175 000 €,88,"Sintra, Agualva e Mira-Sintra",3,1
+1953,575 000 €,104,"Lisboa, Misericórdia",3,2
+1954,12 000 000 €,1080,"Cascais, Cascais e Estoril",5,6
+1955,400 000 €,90,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1
+1956,300 000 €,400,"Lisboa, Estrela",--,2
+1957,299 999 €,125,"Arruda dos Vinhos, Arruda dos Vinhos",3,2
+1958,260 000 €,106,"Lisboa, Santa Clara",2,1
+1959,650 000 €,140,"Cascais, Cascais e Estoril",2,2
+1960,250 000 €,45,"Cascais, Carcavelos e Parede",1,1
+1961,895 000 €,147,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3
+1962,279 000 €,76,"Lisboa, Benfica",1,1
+1963,2 300 000 €,283,"Cascais, Cascais e Estoril",5,6
+1964,350 000 €,65,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1
+1965,179 000 €,64,"Amadora, Mina de Água",2,1
+1966,205 000 €,81,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,--
+1967,442 000 €,72,"Lisboa, Alvalade",3,1
+1968,925 000 €,180,"Lisboa, Arroios",5,4
+1969,9 500 €,5,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,--
+1970,300 000 €,926,"Alenquer, Alenquer (Santo Estêvão e Triana)",--,--
+1971,180 000 €,52,"Sintra, Massamá e Monte Abraão",1,1
+1972,410 000 €,120,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2
+1973,175 000 €,50,"Lisboa, Penha de França",1,1
+1974,465 000 €,77,"Lisboa, Misericórdia",1,1
+1975,179 900 €,90,"Sintra, Algueirão-Mem Martins",2,1
+1976,255 000 €,95,"Amadora, Águas Livres",3,2
+1977,650 000 €,227,"Sintra, Rio de Mouro",4,4
+1978,1 500 000 €,264,"Lisboa, Santo António",--,0
+1979,85 000 €,254,"Odivelas, Odivelas",--,0
+1980,85 000 €,300,"Odivelas, Odivelas",--,0
+1981,130 000 €,59,"Azambuja, Azambuja",1,1
+1982,155 000 €,82,"Sintra, Algueirão-Mem Martins",2,1
+1983,116 000 €,72,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",1,0
+1984,210 000 €,113,"Torres Vedras, A dos Cunhados e Maceira",2,1
+1985,180 000 €,65,"Lisboa, Misericórdia",2,1
+1986,485 000 €,103,"Odivelas, Pontinha e Famões",2,2
+1987,215 000 €,95,"Loures, Santo António dos Cavaleiros e Frielas",3,2
+1988,520 000 €,112,"Odivelas, Pontinha e Famões",2,2
+1989,295 000 €,105,"Amadora, Encosta do Sol",3,2
+1990,2 700 000 €,261,"Cascais, Cascais e Estoril",4,4
+1991,2 950 000 €,213,"Lisboa, Santa Maria Maior",3,3
+1992,239 000 €,72,"Amadora, Águas Livres",3,1
+1993,215 000 €,65,"Torres Vedras, Dois Portos e Runa",2,1
+1994,210 000 €,35,"Lisboa, Estrela",2,1
+1995,399 000 €,130,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2
+1996,265 000 €,100,"Lisboa, Arroios",--,2
+1997,198 000 €,64,"Sintra, Cacém e São Marcos",2,1
+1998,449 000 €,118,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2
+1999,325 000 €,78,"Lisboa, Olivais",3,2
