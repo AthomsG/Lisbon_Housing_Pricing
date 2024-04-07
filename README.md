@@ -2,27 +2,26 @@
 
 create a python virtual environment with:
 
-'''bash
+```bash
 python3.11 -m venv [environment name]
-'''
+```
 
 activate the virtual environment with:
 
-'''bash
+```bash
 source [environment name]/bin/activate
-'''
+```
 
 you can add the virtual environemnt as a jupyter kernel as follows:
 
-'''bash
+```bash
 pip install --user ipykernel
 
 ipython kernel install --user --name=[environment name]
-'''
+```
 
 which should print the following:
 
-'''bash
+```bash
 Installed kernelspec [environment name] in /home/user/(...)
-'''
-
+```
