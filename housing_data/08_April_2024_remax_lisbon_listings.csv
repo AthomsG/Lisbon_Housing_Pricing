@@ -1,0 +1,2001 @@
+,Price,Square Meters,Address,Bedrooms,Bathrooms,Listing Type
+0,2 100 000 €,326,"Cascais, Cascais e Estoril",5,5,Moradia
+1,59 950 €,48,"Sintra, Rio de Mouro",--,0,Loja
+2,500 000 €,492,"Cascais, São Domingos de Rana",--,--,Quinta
+3,750 000 €,192,"Oeiras, Carnaxide e Queijas",7,5,Moradia
+4,750 000 €,220,"Lisboa, Lumiar",2,2,Apartamento
+5,3 200 000 €,253,"Lisboa, Santa Maria Maior",3,3,Apartamento
+6,560 000 €,107,"Lisboa, Alcântara",2,2,Apartamento
+7,244 500 €,46,"Lisboa, Benfica",1,1,Apartamento
+8,195 000 €,130,"Loures, Sacavém e Prior Velho",4,2,Moradia
+9,190 000 €,51,"Amadora, Venteira",2,--,Apartamento
+10,190 000 €,47,"Lisboa, Misericórdia",2,1,Apartamento
+11,1 390 000 €,196,"Cascais, Alcabideche",5,5,Moradia
+12,680 000 €,113,"Lisboa, Arroios",4,4,Apartamento
+13,580 000 €,113,"Lisboa, Arroios",4,4,Apartamento
+14,85 000 €,165,"Sintra, Queluz e Belas",--,0,Garagem
+15,199 900 €,93,"Lisboa, Santa Clara",2,1,Apartamento
+16,355 000 €,79,"Cascais, Carcavelos e Parede",3,1,Apartamento
+17,247 000 €,72,"Odivelas, Odivelas",3,2,Apartamento
+18,460 000 €,--,"Cascais, Alcabideche",--,--,Terreno
+19,490 000 €,--,"Cascais, Alcabideche",--,--,Terreno
+20,540 000 €,72,"Cascais, Cascais e Estoril",2,2,Moradia
+21,350 000 €,130,"Lisboa, Arroios",9,2,Apartamento
+22,1 000 000 €,--,"Cascais, Cascais e Estoril",--,--,Terreno
+23,228 000 €,99,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+24,1 500 000 €,408,"Cascais, Cascais e Estoril",8,6,Moradia
+25,179 900 €,65,"Amadora, Águas Livres",2,1,Apartamento
+26,24 990 €,15920,"Azambuja, Aveiras de Baixo",--,--,Terreno
+27,215 000 €,90,"Sintra, Massamá e Monte Abraão",2,2,Apartamento
+28,110 000 €,110,"Lisboa, Areeiro",--,0,Trespasse
+29,880 000 €,144,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,2,Apartamento
+30,323 500 €,80,"Lisboa, Benfica",2,1,Apartamento
+31,295 000 €,49,"Cascais, Carcavelos e Parede",1,0,Apartamento
+32,290 000 €,138,"Mafra, Encarnação",3,2,Apartamento
+33,169 900 €,67,"Amadora, Águas Livres",2,1,Apartamento
+34,250 000 €,113,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1,Apartamento
+35,625 000 €,219,"Lisboa, São Domingos de Benfica",6,3,Apartamento
+36,480 000 €,275,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,--,Prédio
+37,110 000 €,87,"Lisboa, Arroios",--,0,Loja
+38,25 000 €,50,"Lisboa, Benfica",--,2,Loja
+39,155 000 €,70,"Sintra, Queluz e Belas",1,1,Apartamento
+40,60 000 €,79,"Cadaval, Cadaval e Pêro Moniz",--,0,Outros - Habitação
+41,1 000 000 €,373,"Cascais, Cascais e Estoril",4,4,Moradia
+42,185 000 €,69,"Sintra, Cacém e São Marcos",2,1,Apartamento
+43,340 000 €,79,"Lisboa, Benfica",3,2,Apartamento
+44,184 500 €,74,"Mafra, Malveira e São Miguel de Alcainça",2,2,Apartamento
+45,470 000 €,127,"Odivelas, Odivelas",3,2,Apartamento
+46,460 000 €,90,"Lisboa, Lumiar",1,2,Apartamento
+47,239 000 €,99,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+48,70 000 €,--,"Sintra, Casal de Cambra",--,0,Terreno
+49,75 000 €,--,"Sintra, Casal de Cambra",--,0,Terreno
+50,160 000 €,75,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+51,270 000 €,78,"Sintra, Colares",2,2,Apartamento
+52,590 000 €,98,"Lisboa, Estrela",2,3,Apartamento
+53,300 000 €,48,"Lisboa, Campo de Ourique",1,1,Apartamento
+54,267 500 €,122,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+55,399 000 €,115,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+56,85 000 €,41,"Loures, Sacavém e Prior Velho",--,1,Loja
+57,189 000 €,46,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1,1,Apartamento
+58,280 000 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+59,262 500 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+60,127 000 €,151,"Alenquer, Abrigada e Cabanas de Torres",--,2,Outros - Comercial
+61,277 500 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+62,257 500 €,122,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+63,275 000 €,220,"Loures, Camarate, Unhos e Apelação",--,0,Prédio
+64,275 000 €,138,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+65,525 000 €,329,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",4,4,Moradia
+66,260 000 €,72,"Cascais, Carcavelos e Parede",2,1,Apartamento
+67,240 000 €,108,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+68,210 000 €,88,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,1,Apartamento
+69,300 000 €,60,"Lisboa, Arroios",2,1,Apartamento
+70,775 000 €,134,"Lisboa, Alvalade",4,2,Apartamento
+71,747 500 €,163,"Sintra, São João das Lampas e Terrugem",4,3,Moradia
+72,560 000 €,76,"Cascais, Cascais e Estoril",2,2,Apartamento
+73,800 000 €,--,"Cascais, Alcabideche",--,0,Terreno
+74,192 000 €,72,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1,Apartamento
+75,215 000 €,115,"Lourinhã, Lourinhã e Atalaia",2,0,Apartamento
+76,435 000 €,84,"Lisboa, Areeiro",3,2,Apartamento
+77,50 000 €,--,"Torres Vedras, Maxial e Monte Redondo",--,0,Terreno
+78,188 000 €,86,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+79,550 000 €,234,"Sintra, Algueirão-Mem Martins",4,3,Moradia
+80,125 000 €,60,"Vila Franca de Xira, Vila Franca de Xira",2,1,Apartamento
+81,320 000 €,95,"Loures, Sacavém e Prior Velho",2,1,Apartamento
+82,1 300 000 €,180,"Lisboa, Misericórdia",2,3,Apartamento
+83,430 000 €,213,"Torres Vedras, Campelos e Outeiro da Cabeça",4,4,Moradia
+84,675 000 €,170,"Lisboa, Lumiar",4,3,Apartamento
+85,165 000 €,52,"Odivelas, Odivelas",2,1,Apartamento
+86,285 000 €,188,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0,Loja
+87,2 640 000 €,2400,"Lisboa, Ajuda",--,0,Escritório
+88,235 000 €,45,"Lisboa, São Vicente",0,1,Apartamento
+89,2 340 000 €,264,"Cascais, Cascais e Estoril",5,4,Apartamento
+90,140 000 €,--,"Sintra, Casal de Cambra",--,0,Terreno
+91,265 000 €,60,"Lisboa, São Vicente",4,1,Apartamento
+92,685 000 €,230,"Odivelas, Ramada e Caneças",4,3,Moradia
+93,300 000 €,89,"Mafra, Ericeira",--,1,Trespasse
+94,728 000 €,143,"Lisboa, Avenidas Novas",3,2,Apartamento
+95,1 080 000 €,213,"Cascais, Alcabideche",5,4,Moradia
+96,239 000 €,73,"Odivelas, Odivelas",2,1,Apartamento
+97,338 000 €,79,"Cascais, Carcavelos e Parede",3,2,Apartamento
+98,199 000 €,80,"Odivelas, Póvoa de Santo Adrião e Olival Basto",3,4,Apartamento
+99,290 000 €,90,"Lisboa, São Domingos de Benfica",--,1,Escritório
+100,320 000 €,80,"Lisboa, São Domingos de Benfica",--,2,Escritório
+101,590 000 €,170,"Lisboa, São Domingos de Benfica",--,3,Escritório
+102,450 000 €,115,"Lisboa, São Vicente",3,1,Apartamento
+103,395 000 €,76,"Lisboa, Areeiro",2,1,Apartamento
+104,258 000 €,258,"Cascais, Carcavelos e Parede",--,0,Armazém
+105,885 000 €,155,"Loures, Moscavide e Portela",4,3,Apartamento
+106,170 000 €,123,"Azambuja, Azambuja",2,0,Apartamento
+107,198 000 €,38,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1,1,Apartamento
+108,225 000 €,68,"Loures, Loures",3,1,Moradia
+109,57 000 €,300,"Oeiras, Porto Salvo",--,0,Terreno
+110,1 100 000 €,225,"Lisboa, Areeiro",4,3,Apartamento
+111,35 000 €,--,"Torres Vedras, Dois Portos e Runa",--,0,Terreno
+112,270 000 €,115,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+113,267 500 €,82,"Lisboa, Arroios",2,1,Apartamento
+114,141 900 €,52,"Sintra, Agualva e Mira-Sintra",1,1,Apartamento
+115,485 000 €,160,"Lisboa, Arroios",3,2,Apartamento
+116,1 650 000 €,693,"Lisboa, Campolide",--,0,Prédio
+117,425 000 €,130,"Lisboa, Arroios",5,2,Apartamento
+118,180 000 €,65,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+119,168 000 €,75,"Sintra, Queluz e Belas",3,1,Apartamento
+120,480 000 €,133,"Odivelas, Odivelas",2,2,Apartamento
+121,265 500 €,47,"Lisboa, Santo António",2,1,Apartamento
+122,249 500 €,80,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+123,1 250 000 €,180,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3,Moradia
+124,920 000 €,180,"Lisboa, Estrela",4,--,Apartamento
+125,315 000 €,126,"Sintra, Queluz e Belas",3,2,Apartamento
+126,134 000 €,73,"Vila Franca de Xira, Vialonga",--,2,Loja
+127,232 000 €,65,"Lisboa, Arroios",2,1,Apartamento
+128,560 000 €,36267,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0,Terreno
+129,360 000 €,108,"Oeiras, Porto Salvo",3,2,Apartamento
+130,57 500 €,47,"Odivelas, Odivelas",--,1,Loja
+131,310 000 €,70,"Lisboa, Avenidas Novas",2,1,Apartamento
+132,290 000 €,77,"Lisboa, Arroios",1,2,Apartamento
+133,509 000 €,147,"Amadora, Alfragide",3,3,Apartamento
+134,775 000 €,192,"Lisboa, Olivais",5,2,Moradia
+135,1 550 000 €,240,"Lisboa, Santa Maria Maior",3,3,Apartamento
+136,340 000 €,274,"Sintra, São João das Lampas e Terrugem",4,1,Moradia
+137,340 000 €,274,"Sintra, São João das Lampas e Terrugem",4,0,Moradia
+138,340 000 €,274,"Sintra, São João das Lampas e Terrugem",4,0,Moradia
+139,250 000 €,93,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2,Apartamento
+140,140 000 €,27,"Lisboa, Misericórdia",1,0,Apartamento
+141,780 000 €,153,"Cascais, Cascais e Estoril",3,2,Moradia
+142,248 500 €,73,"Lisboa, Arroios",2,1,Apartamento
+143,1 998 000 €,502,"Cascais, Carcavelos e Parede",13,5,Moradia
+144,225 000 €,102,"Sintra, Queluz e Belas",3,2,Apartamento
+145,130 000 €,66,"Vila Franca de Xira, Vila Franca de Xira",2,1,Apartamento
+146,299 500 €,62,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+147,2 780 000 €,246,"Cascais, Cascais e Estoril",4,6,Moradia
+148,645 000 €,186,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2,Apartamento
+149,55 000 €,3810,"Lourinhã, Lourinhã e Atalaia",0,0,Terreno
+150,336 000 €,216,"Loures, Camarate, Unhos e Apelação",3,3,Apartamento
+151,399 500 €,87,"Odivelas, Odivelas",3,2,Apartamento
+152,300 000 €,168,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+153,265 000 €,140,"Loures, Camarate, Unhos e Apelação",2,2,Apartamento
+154,100 000 €,78,"Azambuja, Azambuja",2,1,Apartamento
+155,250 000 €,71,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,2,Apartamento
+156,250 000 €,77,"Odivelas, Odivelas",3,2,Apartamento
+157,247 000 €,74,"Cascais, Carcavelos e Parede",1,1,Apartamento
+158,120 000 €,216,"Odivelas, Póvoa de Santo Adrião e Olival Basto",4,3,Moradia
+159,199 500 €,108,"Sintra, Queluz e Belas",2,2,Apartamento
+160,329 000 €,114,"Vila Franca de Xira, Vialonga",3,2,Apartamento
+161,737 000 €,217,"Mafra, Ericeira",3,4,Moradia
+162,230 000 €,91,"Sintra, Algueirão-Mem Martins",2,1,Moradia
+163,549 000 €,135,"Lisboa, Estrela",2,2,Apartamento
+164,390 000 €,113,"Oeiras, Carnaxide e Queijas",2,2,Apartamento
+165,319 000 €,192,"Alenquer, Ventosa",3,2,Moradia
+166,319 800 €,48,"Lisboa, Avenidas Novas",1,1,Apartamento
+167,280 000 €,93,"Lisboa, Belém",3,2,Apartamento
+168,270 000 €,55,"Lisboa, Santo António",1,1,Apartamento
+169,1 295 000 €,171,"Cascais, Carcavelos e Parede",3,3,Apartamento
+170,229 000 €,84,"Sintra, Cacém e São Marcos",2,2,Apartamento
+171,32 000 €,33,"Sintra, Massamá e Monte Abraão",--,0,Loja
+172,375 000 €,105,"Lisboa, Santa Clara",3,2,Apartamento
+173,202 000 €,30,"Lisboa, Ajuda",0,1,Apartamento
+174,1 150 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0,Terreno
+175,780 000 €,85,"Lisboa, Marvila",2,2,Apartamento
+176,960 000 €,357,"Odivelas, Ramada e Caneças",--,0,Loja
+177,2 500 000 €,185,"Cascais, Cascais e Estoril",3,3,Apartamento
+178,750 000 €,140,"Cascais, Cascais e Estoril",4,2,Apartamento
+179,92 000 €,35,"Azambuja, Azambuja",--,0,Terreno
+180,287 500 €,120,"Lisboa, Campo de Ourique",--,1,Prédio
+181,130 000 €,--,"Amadora, Encosta do Sol",--,0,Terreno
+182,325 000 €,470,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,4,Armazém
+183,550 000 €,128,"Cascais, Cascais e Estoril",3,2,Apartamento
+184,220 000 €,135,"Odivelas, Pontinha e Famões",4,2,Terreno
+185,690 000 €,8612,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",--,0,Quinta
+186,260 000 €,120,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+187,395 000 €,69,"Cascais, Cascais e Estoril",3,1,Moradia
+188,249 900 €,92,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+189,530 000 €,139,"Amadora, Alfragide",4,3,Apartamento
+190,630 000 €,79,"Lisboa, Parque das Nações",2,1,Apartamento
+191,750 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0,Terreno
+192,158 500 €,240,"Sintra, Rio de Mouro",--,--,Terreno
+193,365 000 €,65,"Lisboa, Penha de França",3,1,Apartamento
+194,565 000 €,82,"Lisboa, Arroios",2,1,Apartamento
+195,274 000 €,80,"Odivelas, Pontinha e Famões",2,0,Apartamento
+196,80 000 €,58,"Torres Vedras, Dois Portos e Runa",1,1,Moradia
+197,270 000 €,120,"Vila Franca de Xira, Vila Franca de Xira",3,2,Apartamento
+198,275 000 €,178,"Lisboa, Santa Maria Maior",--,1,Armazém
+199,715 000 €,105,"Cascais, Cascais e Estoril",2,2,Apartamento
+200,432 500 €,116,"Odivelas, Ramada e Caneças",3,2,Apartamento
+201,450 000 €,319,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",4,8,Moradia
+202,700 000 €,155,"Cascais, Carcavelos e Parede",4,3,Apartamento
+203,170 000 €,79,"Amadora, Venteira",1,1,Apartamento
+204,149 900 €,79,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,1,Apartamento
+205,275 000 €,96,"Mafra, Malveira e São Miguel de Alcainça",2,1,Apartamento
+206,195 000 €,82,"Amadora, Mina de Água",2,1,Apartamento
+207,470 000 €,106,"Lisboa, Benfica",3,2,Apartamento
+208,448 250 €,77,"Lisboa, Alcântara",2,1,Apartamento
+209,649 750 €,131,"Lisboa, Alcântara",3,3,Apartamento
+210,320 000 €,103,"Amadora, Mina de Água",3,2,Apartamento
+211,259 900 €,242,"Alenquer, Abrigada e Cabanas de Torres",3,4,Moradia
+212,109 500 €,97,"Vila Franca de Xira, Vialonga",2,1,Apartamento
+213,410 000 €,86,"Lisboa, Campolide",2,1,Apartamento
+214,215 000 €,102,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2,Apartamento
+215,207 000 €,98,"Sintra, Cacém e São Marcos",2,1,Apartamento
+216,235 000 €,98,"Lisboa, Lumiar",--,1,Loja
+217,140 000 €,71,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+218,190 000 €,43,"Lisboa, Alcântara",2,1,Apartamento
+219,320 000 €,96,"Lisboa, Beato",4,2,Apartamento
+220,340 000 €,140,"Sintra, Algueirão-Mem Martins",4,3,Moradia
+221,185 000 €,61,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1,--,Apartamento
+222,179 000 €,134,"Arruda dos Vinhos, Arruda dos Vinhos",2,2,Apartamento
+223,209 600 €,100,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,2,Moradia
+224,360 000 €,72,"Lisboa, São Domingos de Benfica",2,1,Apartamento
+225,345 000 €,60,"Lisboa, Campo de Ourique",--,--,Loja
+226,151 500 €,69,"Sintra, Queluz e Belas",2,1,Apartamento
+227,440 000 €,76,"Lisboa, Campo de Ourique",2,2,Apartamento
+228,350 000 €,172,"Oeiras, Porto Salvo",5,2,Moradia
+229,775 000 €,94,"Lisboa, Santo António",2,2,Apartamento
+230,448 000 €,58,"Lisboa, Carnide",2,1,Apartamento
+231,649 000 €,126,"Lisboa, Parque das Nações",2,2,Apartamento
+232,177 500 €,38,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1,1,Apartamento
+233,277 500 €,84,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+234,1 500 000 €,230,"Lisboa, Santo António",6,3,Apartamento
+235,117 500 €,46,"Sintra, Rio de Mouro",1,1,Apartamento
+236,2 150 000 €,241,"Sintra, Rio de Mouro",3,5,Moradia
+237,1 980 000 €,241,"Sintra, Rio de Mouro",3,5,Moradia
+238,1 980 000 €,241,"Sintra, Rio de Mouro",3,5,Moradia
+239,2 000 000 €,241,"Sintra, Rio de Mouro",3,5,Moradia
+240,52 500 €,28,"Lisboa, Belém",--,0,Garagem
+241,475 000 €,124,"Cascais, Carcavelos e Parede",3,3,Apartamento
+242,2 450 000 €,357,"Sintra, Rio de Mouro",4,6,Moradia
+243,2 550 000 €,396,"Sintra, Rio de Mouro",4,6,Moradia
+244,2 500 000 €,396,"Sintra, Rio de Mouro",4,6,Moradia
+245,2 500 000 €,396,"Sintra, Rio de Mouro",4,6,Moradia
+246,2 450 000 €,396,"Sintra, Rio de Mouro",4,6,Moradia
+247,345 000 €,123,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+248,330 000 €,72,"Lisboa, Penha de França",2,1,Apartamento
+249,895 000 €,140,"Cascais, Cascais e Estoril",3,2,Apartamento
+250,2 100 000 €,351,"Lisboa, Santo António",4,4,Duplex
+251,110 000 €,45,"Amadora, Mina de Água",0,1,Apartamento
+252,240 000 €,--,"Mafra, Santo Isidoro",--,--,Terreno
+253,895 000 €,245,"Cascais, São Domingos de Rana",3,3,Moradia
+254,249 900 €,75,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+255,535 000 €,78,"Lisboa, Estrela",2,2,Apartamento
+256,165 000 €,65,"Sintra, Queluz e Belas",2,1,Apartamento
+257,385 000 €,116,"Mafra, Ericeira",2,--,Apartamento
+258,1 450 000 €,256,"Lisboa, Misericórdia",7,2,Apartamento
+259,100 000 €,57,"Amadora, Venteira",2,1,Apartamento
+260,1 900 000 €,266,"Lisboa, Campo de Ourique",5,3,Apartamento
+261,350 000 €,367,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0,Escritório
+262,5 000 000 €,--,"Loures, Lousa",--,0,Terreno
+263,148 000 €,47,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+264,175 000 €,99,"Vila Franca de Xira, Vialonga",3,2,Apartamento
+265,234 900 €,125,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1,Apartamento
+266,243 000 €,93,"Amadora, Águas Livres",3,2,Apartamento
+267,255 000 €,124,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+268,680 000 €,137,"Lisboa, Olivais",3,2,Apartamento
+269,450 000 €,96,"Sintra, São João das Lampas e Terrugem",2,--,Moradia
+270,725 000 €,195,"Cascais, São Domingos de Rana",4,0,Moradia
+271,1 150 000 €,224,"Lisboa, Areeiro",4,5,Apartamento
+272,159 500 €,96,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",3,2,Apartamento
+273,195 000 €,44,"Cascais, Cascais e Estoril",1,1,Apartamento
+274,210 000 €,69,"Sintra, Rio de Mouro",2,1,Apartamento
+275,2 400 000 €,239,"Cascais, Cascais e Estoril",4,5,Moradia
+276,420 000 €,62,"Cascais, Carcavelos e Parede",3,2,Apartamento
+277,690 000 €,189,"Lisboa, Carnide",0,0,Escritório
+278,270 000 €,184,"Lourinhã, Lourinhã e Atalaia",4,3,Moradia
+279,730 000 €,188,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3,Moradia
+280,185 000 €,41,"Oeiras, Barcarena",1,1,Apartamento
+281,110 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0,Terreno
+282,263 000 €,72,"Oeiras, Porto Salvo",2,1,Apartamento
+283,120 000 €,--,"Alenquer, Carnota",--,--,Terreno
+284,129 000 €,36,"Odivelas, Pontinha e Famões",2,1,Apartamento
+285,2 500 000 €,680,"Alenquer, Carnota",6,--,Quinta
+286,310 000 €,37,"Lisboa, São Vicente",2,1,Apartamento
+287,750 000 €,300,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,4,Moradia
+288,299 000 €,88,"Cascais, Carcavelos e Parede",2,2,Apartamento
+289,67 500 €,--,"Vila Franca de Xira, Vialonga",--,--,Terreno
+290,1 980 000 €,330,"Lisboa, Santo António",11,2,Apartamento
+291,700 000 €,122,"Lisboa, Penha de França",3,0,Apartamento
+292,409 000 €,70,"Lisboa, Arroios",2,2,Apartamento
+293,213 000 €,98,"Amadora, Falagueira - Venda Nova",2,1,Apartamento
+294,650 000 €,280,"Cascais, São Domingos de Rana",3,5,Moradia
+295,800 000 €,158,"Lourinhã, Lourinhã e Atalaia",3,2,Moradia
+296,130 000 €,55,"Vila Franca de Xira, Vila Franca de Xira",1,1,Apartamento
+297,470 000 €,76,"Lisboa, Penha de França",2,1,Apartamento
+298,185 000 €,106,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+299,279 000 €,150,"Sintra, Agualva e Mira-Sintra",5,2,Moradia
+300,260 000 €,60,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,--,Apartamento
+301,175 000 €,35,"Lisboa, Penha de França",2,1,Apartamento
+302,314 500 €,77,"Lisboa, São Domingos de Benfica",2,1,Apartamento
+303,175 000 €,70,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+304,125 000 €,--,"Torres Vedras, A dos Cunhados e Maceira",--,0,Terreno
+305,235 000 €,94,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+306,200 000 €,94,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+307,425 000 €,153,"Lisboa, Penha de França",6,2,Apartamento
+308,260 000 €,99,"Loures, Loures",2,2,Apartamento
+309,100 000 €,38,"Sintra, Massamá e Monte Abraão",--,1,Loja
+310,200 000 €,75,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+311,450 000 €,166,"Mafra, Ericeira",3,3,Moradia
+312,950 000 €,1825,"Loures, Sacavém e Prior Velho",--,0,Prédio
+313,798 000 €,183,"Lisboa, Lumiar",4,3,Apartamento
+314,550 000 €,800,"Cadaval, Cadaval e Pêro Moniz",--,0,Industrial
+315,183 000 €,74,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1,Apartamento
+316,205 000 €,117,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+317,385 000 €,98,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",4,4,Moradia
+318,70 000 €,205,"Torres Vedras, Dois Portos e Runa",--,--,Outros - Habitação
+319,349 000 €,189,"Alenquer, Abrigada e Cabanas de Torres",4,3,Moradia
+320,269 000 €,92,"Odivelas, Ramada e Caneças",2,2,Apartamento
+321,159 000 €,70,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+322,199 900 €,116,"Amadora, Mina de Água",3,2,Apartamento
+323,46 000 €,90,"Sintra, Algueirão-Mem Martins",--,2,Trespasse
+324,220 000 €,97,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+325,950 000 €,201,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,5,Apartamento
+326,149 000 €,74,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+327,220 000 €,73,"Lisboa, Benfica",3,1,Apartamento
+328,1 000 000 €,230,"Cascais, Alcabideche",3,4,Moradia
+329,325 000 €,141,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,2,Moradia
+330,1 200 000 €,178,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,3,Apartamento
+331,265 000 €,179,"Sobral de Monte Agraço, São Quintino",4,2,Moradia
+332,25 000 €,--,"Azambuja, Manique do Intendente, Vila Nova de São Pedro e Maçussa",--,0,Terreno
+333,645 000 €,--,"Lourinhã, São Bartolomeu dos Galegos e Moledo",--,0,Terreno
+334,980 000 €,306,"Azambuja, Azambuja",6,3,Quinta
+335,950 000 €,120,"Lisboa, Santa Maria Maior",--,0,Loja
+336,52 000 €,97,"Lourinhã, Lourinhã e Atalaia",--,0,Trespasse
+337,410 000 €,147,"Lisboa, Olivais",6,2,Apartamento
+338,48 000 €,54,"Azambuja, Manique do Intendente, Vila Nova de São Pedro e Maçussa",3,--,Moradia
+339,234 000 €,115,"Vila Franca de Xira, Vialonga",3,2,Apartamento
+340,250 000 €,95,"Sintra, Cacém e São Marcos",3,2,Apartamento
+341,590 000 €,340,"Mafra, Malveira e São Miguel de Alcainça",5,4,Moradia
+342,335 000 €,77,"Cascais, São Domingos de Rana",2,1,Apartamento
+343,749 000 €,322,"Torres Vedras, Dois Portos e Runa",3,0,Moradia
+344,419 000 €,123,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+345,699 000 €,175,"Cascais, São Domingos de Rana",3,3,Moradia
+346,690 000 €,70,"Lisboa, Arroios",2,2,Apartamento
+347,196 000 €,66,"Vila Franca de Xira, Vialonga",1,1,Apartamento
+348,298 000 €,69,"Lisboa, São Vicente",3,1,Apartamento
+349,199 000 €,74,"Amadora, Águas Livres",2,1,Apartamento
+350,249 000 €,95,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+351,35 000 €,28,"Torres Vedras, Dois Portos e Runa",--,--,Outros - Habitação
+352,175 000 €,0,"Cascais, Alcabideche",0,0,Terreno
+353,118 000 €,58,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+354,497 500 €,250,"Sintra, Rio de Mouro",5,4,Moradia
+355,630 000 €,102,"Lisboa, Areeiro",3,3,Apartamento
+356,150 000 €,130,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,1,Quinta
+357,130 000 €,99,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,0,Moradia
+358,83 000 €,50,"Azambuja, Aveiras de Baixo",2,0,Moradia
+359,235 000 €,85,"Lisboa, São Domingos de Benfica",3,1,Apartamento
+360,255 000 €,98,"Lisboa, São Domingos de Benfica",4,1,Apartamento
+361,485 000 €,130,"Cascais, Carcavelos e Parede",3,3,Apartamento
+362,550 000 €,--,"Amadora, Mina de Água",--,0,Terreno
+363,260 000 €,--,"Mafra, Santo Isidoro",--,--,Terreno
+364,650 000 €,137,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",5,2,Apartamento
+365,375 000 €,6391,"Mafra, Ericeira",--,0,Terreno
+366,998 000 €,290,"Amadora, Alfragide",4,4,Moradia
+367,343 000 €,170,"Sintra, Rio de Mouro",3,2,Apartamento
+368,890 000 €,195,"Mafra, Ericeira",3,5,Moradia
+369,182 000 €,82,"Amadora, Venteira",2,1,Apartamento
+370,875 000 €,195,"Mafra, Ericeira",3,5,Moradia
+371,425 000 €,175,"Lourinhã, Lourinhã e Atalaia",3,2,Moradia
+372,350 000 €,83,"Lisboa, Alvalade",3,2,Apartamento
+373,875 000 €,195,"Mafra, Ericeira",3,5,Moradia
+374,325 000 €,79,"Cascais, Alcabideche",2,1,Apartamento
+375,860 000 €,195,"Mafra, Ericeira",3,5,Moradia
+376,19 900 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0,Terreno
+377,275 000 €,28,"Cascais, Carcavelos e Parede",2,--,Moradia
+378,275 000 €,56,"Cascais, Carcavelos e Parede",2,2,Moradia
+379,230 000 €,102,"Azambuja, Azambuja",3,3,Moradia
+380,277 000 €,75,"Sintra, Algueirão-Mem Martins",2,2,Apartamento
+381,228 000 €,85,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+382,189 000 €,117,"Alenquer, Carregado e Cadafais",3,2,Apartamento
+383,220 000 €,73,"Vila Franca de Xira, Vialonga",2,1,Apartamento
+384,235 000 €,85,"Lisboa, São Domingos de Benfica",3,1,Apartamento
+385,325 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--,Terreno
+386,775 000 €,128,"Lisboa, Campolide",3,3,Apartamento
+387,265 000 €,65,"Amadora, Falagueira - Venda Nova",3,1,Apartamento
+388,2 850 000 €,1193,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",0,4,Outros - Comercial
+389,210 000 €,111,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2,Apartamento
+390,275 000 €,--,"Mafra, Azueira e Sobral da Abelheira",--,--,Terreno
+391,265 000 €,87,"Cascais, São Domingos de Rana",--,2,Loja
+392,153 000 €,98,"Alenquer, Ota",3,2,Apartamento
+393,450 000 €,77,"Lisboa, Campo de Ourique",2,1,Apartamento
+394,145 000 €,75,"Vila Franca de Xira, Vialonga",3,1,Apartamento
+395,105 000 €,--,"Mafra, Santo Isidoro",--,--,Terreno
+396,209 000 €,89,"Odivelas, Odivelas",2,2,Apartamento
+397,375 000 €,80,"Lisboa, Estrela",2,1,Apartamento
+398,285 000 €,113,"Mafra, Milharado",2,2,Apartamento
+399,85 000 €,--,"Sintra, São João das Lampas e Terrugem",--,--,Terreno
+400,599 000 €,210,"Cascais, São Domingos de Rana",3,0,Moradia
+401,26 000 €,760,"Loures, Lousa",--,0,Terreno
+402,499 000 €,285,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,4,Moradia
+403,150 000 €,188,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",4,4,Terreno
+404,350 000 €,90,"Lisboa, Arroios",--,1,Escritório
+405,485 000 €,154,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",5,3,Apartamento
+406,150 000 €,201,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1,Armazém
+407,420 000 €,150,"Azambuja, Aveiras de Baixo",3,2,Moradia
+408,265 000 €,130,"Vila Franca de Xira, Vila Franca de Xira",2,3,Apartamento
+409,120 000 €,36,"Amadora, Mina de Água",1,1,Apartamento
+410,180 000 €,69,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1,Apartamento
+411,95 000 €,77,"Vila Franca de Xira, Vila Franca de Xira",1,1,Apartamento
+412,210 000 €,87,"Sintra, Cacém e São Marcos",2,2,Apartamento
+413,162 000 €,72,"Loures, Bucelas",2,--,Apartamento
+414,162 000 €,73,"Loures, Bucelas",--,--,Escritório
+415,60 000 €,100,"Cascais, Carcavelos e Parede",--,1,Trespasse
+416,225 000 €,75,"Loures, Santo António dos Cavaleiros e Frielas",4,1,Apartamento
+417,179 500 €,77,"Amadora, Águas Livres",2,2,Apartamento
+418,770 000 €,256,"Odivelas, Ramada e Caneças",4,4,Moradia
+419,699 900 €,410,"Sintra, Cacém e São Marcos",--,0,Prédio
+420,170 000 €,272,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",4,4,Moradia
+421,175 000 €,96,"Sobral de Monte Agraço, São Quintino",4,2,Moradia
+422,790 000 €,131,"Lisboa, Alvalade",5,3,Apartamento
+423,26 000 €,--,"Mafra, Enxara do Bispo, Gradil e Vila Franca do Rosário",--,--,Terreno
+424,325 000 €,79,"Sintra, Queluz e Belas",3,2,Moradia
+425,98 000 €,335,"Cascais, São Domingos de Rana",--,--,Trespasse
+426,147 000 €,92,"Sintra, Rio de Mouro",2,1,Apartamento
+427,300 000 €,90,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2,Apartamento
+428,315 000 €,78,"Cascais, Cascais e Estoril",2,2,Apartamento
+429,209 990 €,65,"Loures, Sacavém e Prior Velho",2,1,Apartamento
+430,325 000 €,92,"Cascais, São Domingos de Rana",2,2,Apartamento
+431,399 000 €,82,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,--,Quinta
+432,479 000 €,441,"Loures, Bucelas",8,7,Investimentos
+433,765 000 €,320,"Cascais, São Domingos de Rana",3,3,Moradia
+434,479 000 €,441,"Loures, Bucelas",8,7,Moradia
+435,425 000 €,126,"Oeiras, Porto Salvo",3,2,Apartamento
+436,276 000 €,100,"Sintra, Rio de Mouro",2,1,Apartamento
+437,432 000 €,165,"Cascais, São Domingos de Rana",3,2,Apartamento
+438,175 000 €,65,"Odivelas, Odivelas",3,1,Apartamento
+439,139 900 €,78,"Alenquer, Carregado e Cadafais",2,1,Apartamento
+440,210 000 €,66,"Lisboa, Alcântara",2,1,Apartamento
+441,210 000 €,78,"Odivelas, Odivelas",2,1,Apartamento
+442,425 000 €,158,"Lourinhã, Lourinhã e Atalaia",3,2,Moradia
+443,1 990 000 €,530,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",9,11,Moradia
+444,429 000 €,74,"Lisboa, Campo de Ourique",2,1,Apartamento
+445,875 000 €,217,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3,Apartamento
+446,179 000 €,68,"Lisboa, Marvila",2,1,Apartamento
+447,597 000 €,107,"Cascais, Cascais e Estoril",3,3,Apartamento
+448,398 000 €,120,"Amadora, Mina de Água",3,2,Apartamento
+449,460 000 €,336,"Odivelas, Odivelas",4,2,Moradia
+450,380 000 €,70,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,3,Apartamento
+451,232 600 €,110,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+452,320 000 €,69,"Cascais, Carcavelos e Parede",2,1,Apartamento
+453,35 000 €,79,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1,Apartamento
+454,89 000 €,170,"Cascais, Alcabideche",--,--,Trespasse
+455,20 000 €,109,"Arruda dos Vinhos, Arruda dos Vinhos",--,--,Arrecadação
+456,99 000 €,123,"Arruda dos Vinhos, Arruda dos Vinhos",--,2,Loja
+457,170 000 €,63,"Amadora, Mina de Água",1,1,Apartamento
+458,98 000 €,126,"Arruda dos Vinhos, Arruda dos Vinhos",--,2,Loja
+459,395 000 €,146,"Odivelas, Pontinha e Famões",3,2,Moradia
+460,370 000 €,107,"Cascais, São Domingos de Rana",3,2,Apartamento
+461,350 000 €,157,"Torres Vedras, Ponte do Rol",2,3,Moradia
+462,255 000 €,95,"Lisboa, São Domingos de Benfica",4,1,Apartamento
+463,145 000 €,53,"Arruda dos Vinhos, Arruda dos Vinhos",2,1,Moradia
+464,187 000 €,85,"Cascais, Carcavelos e Parede",--,--,Loja
+465,1 200 000 €,--,"Cascais, Alcabideche",--,0,Terreno
+466,355 000 €,68,"Cascais, Carcavelos e Parede",2,1,Apartamento
+467,349 000 €,134,"Odivelas, Ramada e Caneças",3,2,Apartamento
+468,695 000 €,166150,"Lisboa, Lumiar",3,3,Apartamento
+469,169 000 €,63,"Vila Franca de Xira, Vialonga",1,1,Apartamento
+470,2 950 000 €,1052,"Sintra, São João das Lampas e Terrugem",9,9,Moradia
+471,1 150 000 €,--,"Oeiras, Carnaxide e Queijas",--,--,Terreno
+472,215 000 €,59,"Lisboa, Campo de Ourique",2,1,Apartamento
+473,695 000 €,94,"Lisboa, Alvalade",2,2,Apartamento
+474,292 900 €,76,"Lisboa, Olivais",3,2,Apartamento
+475,265 000 €,81,"Odivelas, Odivelas",3,2,Apartamento
+476,255 000 €,91,"Odivelas, Pontinha e Famões",3,1,Apartamento
+477,130 000 €,200,"Amadora, Falagueira - Venda Nova",--,1,Armazém
+478,140 000 €,25,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",0,1,Apartamento
+479,415 000 €,85,"Lisboa, Avenidas Novas",2,1,Apartamento
+480,1 290 000 €,147,"Lisboa, Campolide",3,3,Apartamento
+481,250 000 €,70,"Cascais, São Domingos de Rana",2,2,Apartamento
+482,184 000 €,81,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+483,199 000 €,79,"Sintra, Algueirão-Mem Martins",3,1,Apartamento
+484,4 800 000 €,562,"Cascais, Cascais e Estoril",5,6,Moradia
+485,1 375 000 €,380,"Loures, Moscavide e Portela",4,5,Duplex
+486,268 000 €,81,"Odivelas, Odivelas",2,1,Apartamento
+487,1 250 000 €,215,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3,Apartamento
+488,265 000 €,65,"Lisboa, Olivais",3,1,Apartamento
+489,44 900 €,15,"Loures, Santo António dos Cavaleiros e Frielas",--,0,Garagem
+490,255 000 €,42,"Lisboa, Campo de Ourique",0,1,Apartamento
+491,1 600 000 €,228,"Cascais, Cascais e Estoril",3,3,Apartamento
+492,120 000 €,56,"Loures, Sacavém e Prior Velho",1,1,Apartamento
+493,230 000 €,88,"Oeiras, Porto Salvo",--,2,Loja
+494,160 000 €,88,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+495,760 000 €,320,"Odivelas, Pontinha e Famões",4,0,Moradia
+496,499 000 €,100,"Lisboa, São Vicente",3,2,Apartamento
+497,259 500 €,105,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2,Apartamento
+498,185 000 €,101,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+499,299 000 €,185,"Lisboa, Lumiar",--,--,Loja
+500,980 000 €,440,"Lisboa, Ajuda",--,0,Terreno
+501,375 000 €,111,"Oeiras, Carnaxide e Queijas",3,2,Apartamento
+502,129 900 €,40,"Sintra, Agualva e Mira-Sintra",1,1,Moradia
+503,1 780 000 €,334,"Mafra, Venda do Pinheiro e Santo Estêvão das Galés",3,5,Moradia
+504,195 000 €,67,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+505,209 500 €,98,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2,Apartamento
+506,140 000 €,80,"Amadora, Venteira",--,2,Loja
+507,160 000 €,82,"Vila Franca de Xira, Vialonga",4,1,Apartamento
+508,699 500 €,160,"Cascais, Cascais e Estoril",3,3,Apartamento
+509,390 000 €,106,"Lisboa, Arroios",3,1,Apartamento
+510,969 000 €,252,"Sintra, Rio de Mouro",8,4,Moradia
+511,58 000 €,69,"Mafra, Igreja Nova e Cheleiros",2,0,Moradia
+512,220 000 €,101,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",3,2,Apartamento
+513,259 000 €,107,"Sintra, Massamá e Monte Abraão",2,2,Apartamento
+514,600 000 €,138,"Lisboa, Lumiar",3,3,Apartamento
+515,255 000 €,100,"Lourinhã, Lourinhã e Atalaia",2,2,Apartamento
+516,255 000 €,45,"Lisboa, Alcântara",1,1,Apartamento
+517,665 000 €,95,"Lisboa, Belém",3,2,Apartamento
+518,210 000 €,74,"Lisboa, Olivais",2,1,Apartamento
+519,160 000 €,55,"Lisboa, Olivais",2,1,Apartamento
+520,360 000 €,240,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",4,3,Moradia
+521,4 750 000 €,600,"Lisboa, Santa Maria Maior",--,11,Prédio
+522,110 000 €,120,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",--,0,Terreno
+523,370 000 €,0,"Cascais, São Domingos de Rana",0,0,Terreno
+524,289 500 €,113,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Moradia
+525,80 000 €,21,"Lisboa, Alvalade",0,1,Trespasse
+526,239 900 €,63,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",2,1,Moradia
+527,305 000 €,87,"Cascais, São Domingos de Rana",2,2,Apartamento
+528,199 000 €,72,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+529,179 000 €,42,"Lisboa, Alcântara",2,1,Apartamento
+530,400 000 €,106,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,1,Moradia
+531,400 000 €,470,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,3,Armazém
+532,180 000 €,90,"Lourinhã, Lourinhã e Atalaia",2,1,Apartamento
+533,95 000 €,434,"Odivelas, Ramada e Caneças",--,0,Terreno
+534,975 000 €,303,"Odivelas, Ramada e Caneças",5,3,Moradia
+535,580 000 €,43,"Cascais, Cascais e Estoril",0,1,Apartamento
+536,220 000 €,90,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+537,260 000 €,88,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,2,Moradia
+538,237 500 €,125,"Amadora, Mina de Água",3,2,Apartamento
+539,310 000 €,59,"Lisboa, Alcântara",5,--,Apartamento
+540,350 000 €,73,"Mafra, Ericeira",2,2,Apartamento
+541,90 000 €,109,"Lisboa, Misericórdia",--,2,Trespasse
+542,365 000 €,48,"Lisboa, Marvila",0,0,Apartamento
+543,375 000 €,4480,"Lourinhã, Miragaia e Marteleira",--,0,Terreno
+544,695 000 €,84,"Lisboa, Marvila",2,0,Apartamento
+545,795 000 €,116,"Lisboa, Marvila",2,0,Apartamento
+546,185 000 €,89,"Loures, Loures",2,1,Moradia
+547,190 000 €,89,"Sintra, Cacém e São Marcos",2,1,Apartamento
+548,155 000 €,62,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+549,1 100 000 €,387,"Lisboa, Arroios",4,2,Apartamento
+550,640 000 €,64,"Lisboa, Misericórdia",2,1,Apartamento
+551,635 000 €,65,"Lisboa, Misericórdia",2,1,Apartamento
+552,630 000 €,63,"Lisboa, Misericórdia",2,1,Apartamento
+553,595 000 €,64,"Lisboa, Misericórdia",1,0,Apartamento
+554,149 000 €,61,"Vila Franca de Xira, Vila Franca de Xira",1,1,Apartamento
+555,1 200 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,--,Terreno
+556,990 000 €,303,"Cascais, Cascais e Estoril",5,5,Moradia
+557,70 000 €,33,"Odivelas, Pontinha e Famões",--,1,Trespasse
+558,598 000 €,65,"Lisboa, Belém",3,1,Apartamento
+559,550 000 €,152,"Lisboa, Arroios",5,3,Apartamento
+560,189 000 €,103,"Vila Franca de Xira, Vialonga",3,1,Apartamento
+561,2 850 000 €,374,"Lisboa, Avenidas Novas",6,6,Apartamento
+562,155 000 €,48,"Sintra, Algueirão-Mem Martins",1,1,Apartamento
+563,995 000 €,197,"Oeiras, Porto Salvo",5,4,Moradia
+564,225 000 €,58,"Loures, Moscavide e Portela",2,1,Apartamento
+565,480 000 €,154,"Sintra, Algueirão-Mem Martins",5,3,Moradia
+566,49 900 €,52,"Alenquer, Carregado e Cadafais",1,--,Moradia
+567,70 000 €,170,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,4,Moradia
+568,290 000 €,60,"Lisboa, Penha de França",3,2,Apartamento
+569,215 000 €,90,"Loures, Santo António dos Cavaleiros e Frielas",4,1,Apartamento
+570,220 000 €,58,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1,Apartamento
+571,125 000 €,641,"Torres Vedras, Ponte do Rol",--,0,Terreno
+572,6 000 000 €,638,"Cascais, Cascais e Estoril",6,9,Moradia
+573,217 000 €,41,"Torres Vedras, Silveira",1,1,Moradia
+574,698 000 €,134,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,3,Apartamento
+575,243 000 €,82,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1,Apartamento
+576,950 000 €,136,"Cascais, Cascais e Estoril",4,3,Moradia
+577,885 000 €,231,"Vila Franca de Xira, Vila Franca de Xira",5,3,Moradia
+578,1 850 000 €,240,"Cascais, Cascais e Estoril",4,5,Moradia
+579,279 000 €,104,"Amadora, Encosta do Sol",4,2,Apartamento
+580,140 000 €,79,"Amadora, Venteira",2,1,Apartamento
+581,450 000 €,259,"Vila Franca de Xira, Vila Franca de Xira",4,4,Prédio
+582,189 000 €,81,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+583,292 500 €,86,"Amadora, Alfragide",4,2,Apartamento
+584,235 000 €,117,"Azambuja, Alcoentre",4,2,Moradia
+585,300 000 €,115,"Sintra, Rio de Mouro",3,2,Apartamento
+586,219 000 €,85,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2,Apartamento
+587,1 200 000 €,240,"Cascais, Alcabideche",3,5,Moradia
+588,190 000 €,124,"Sintra, Agualva e Mira-Sintra",4,2,Apartamento
+589,895 000 €,155,"Lisboa, Avenidas Novas",3,3,Apartamento
+590,185 000 €,81,"Sintra, Cacém e São Marcos",2,2,Apartamento
+591,189 750 €,90,"Sintra, Casal de Cambra",3,2,Apartamento
+592,625 000 €,70,"Cascais, Cascais e Estoril",1,1,Apartamento
+593,890 000 €,200,"Cascais, Alcabideche",4,4,Moradia
+594,89 900 €,--,"Sintra, Cacém e São Marcos",--,--,Terreno
+595,207 000 €,90,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+596,1 200 000 €,100,"Cascais, Cascais e Estoril",--,2,Escritório
+597,175 000 €,59,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+598,999 000 €,145,"Lisboa, Estrela",3,2,Apartamento
+599,1 390 000 €,216,"Cascais, Alcabideche",3,4,Moradia
+600,270 000 €,120,"Vila Franca de Xira, Vila Franca de Xira",3,2,Apartamento
+601,750 000 €,74,"Cascais, Cascais e Estoril",2,1,Apartamento
+602,580 000 €,95,"Lisboa, Estrela",2,2,Apartamento
+603,270 000 €,74,"Cascais, Cascais e Estoril",1,1,Apartamento
+604,5 500 000 €,668,"Lisboa, Santo António",--,0,Prédio
+605,310 000 €,291,"Cadaval, Vilar",--,0,Prédio
+606,120 000 €,84,"Cadaval, Vilar",5,1,Moradia
+607,242 500 €,72,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+608,575 000 €,100,"Lisboa, Parque das Nações",2,1,Apartamento
+609,199 900 €,74,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+610,530 000 €,427,"Sintra, Queluz e Belas",--,0,Terreno
+611,790 000 €,129,"Loures, Moscavide e Portela",3,2,Apartamento
+612,2 850 000 €,200,"Cascais, Cascais e Estoril",4,5,Moradia
+613,238 000 €,85,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+614,319 570 €,109,"Cascais, São Domingos de Rana",3,2,Apartamento
+615,280 000 €,60,"Lisboa, Avenidas Novas",1,1,Apartamento
+616,390 000 €,133,"Sintra, Algueirão-Mem Martins",5,2,Moradia
+617,140 000 €,62,"Vila Franca de Xira, Vialonga",2,0,Apartamento
+618,4 500 000 €,468,"Lisboa, São Domingos de Benfica",--,0,Prédio
+619,290 000 €,124,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+620,199 000 €,67,"Amadora, Venteira",3,1,Apartamento
+621,235 000 €,71,"Odivelas, Odivelas",2,1,Apartamento
+622,195 000 €,94,"Sintra, Cacém e São Marcos",3,1,Apartamento
+623,540 000 €,198,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",--,2,Escritório
+624,755 000 €,223,"Amadora, Mina de Água",4,5,Moradia
+625,310 000 €,122,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2,Apartamento
+626,1 190 000 €,174,"Lisboa, Parque das Nações",4,4,Apartamento
+627,500 000 €,210,"Oeiras, Porto Salvo",6,3,Moradia
+628,280 000 €,70,"Sintra, Algueirão-Mem Martins",2,2,Moradia
+629,110 000 €,35,"Lisboa, Penha de França",1,1,Loja
+630,545 000 €,132,"Lisboa, São Domingos de Benfica",3,2,Apartamento
+631,490 000 €,97,"Lisboa, Parque das Nações",2,2,Apartamento
+632,135 000 €,55,"Sintra, Agualva e Mira-Sintra",1,1,Apartamento
+633,850 000 €,300,"Torres Vedras, Turcifal",7,5,Moradia
+634,1 590 000 €,200,"Cascais, Alcabideche",4,--,Moradia
+635,1 370 000 €,192,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,3,Apartamento
+636,450 000 €,80,"Lisboa, Benfica",3,2,Apartamento
+637,2 000 000 €,148,"Lisboa, Campolide",3,4,Apartamento
+638,205 000 €,79,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+639,170 000 €,62,"Loures, Camarate, Unhos e Apelação",2,1,Apartamento
+640,675 000 €,130,"Cascais, Carcavelos e Parede",3,2,Apartamento
+641,760 000 €,148,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,3,Apartamento
+642,79 000 €,65,"Sintra, Rio de Mouro",--,0,Loja
+643,600 000 €,218,"Odivelas, Pontinha e Famões",4,3,Moradia
+644,499 000 €,119,"Cascais, Cascais e Estoril",2,2,Apartamento
+645,187 000 €,68,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+646,166 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+647,165 000 €,55,"Amadora, Águas Livres",1,1,Apartamento
+648,650 000 €,250,"Lisboa, Estrela",--,0,Prédio
+649,60 000 €,--,"Sintra, Colares",--,0,Terreno
+650,150 000 €,2417,"Torres Vedras, Ventosa",--,0,Terreno
+651,300 000 €,108,"Odivelas, Odivelas",3,2,Apartamento
+652,429 000 €,105,"Cascais, Carcavelos e Parede",2,2,Apartamento
+653,350 000 €,85,"Lisboa, Lumiar",--,0,Loja
+654,155 000 €,90,"Sintra, Queluz e Belas",2,0,Apartamento
+655,125 000 €,43,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1,1,Apartamento
+656,1 200 000 €,2142,"Loures, Sacavém e Prior Velho",--,0,Prédio
+657,450 000 €,117,"Loures, Sacavém e Prior Velho",2,2,Apartamento
+658,320 000 €,193,"Mafra, Milharado",4,0,Moradia
+659,162 500 €,--,"Cascais, São Domingos de Rana",--,0,Terreno
+660,175 000 €,92,"Torres Vedras, A dos Cunhados e Maceira",3,2,Moradia
+661,360 000 €,55,"Lisboa, Santa Maria Maior",1,1,Apartamento
+662,140 000 €,--,"Loures, Loures",--,0,Terreno
+663,370 000 €,204,"Torres Vedras, Silveira",3,3,Moradia
+664,235 000 €,72,"Oeiras, Barcarena",2,1,Apartamento
+665,336 000 €,160,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+666,320 000 €,96,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+667,298 000 €,76,"Lisboa, Carnide",1,1,Apartamento
+668,234 900 €,125,"Odivelas, Pontinha e Famões",3,2,Apartamento
+669,420 000 €,145,"Cascais, Carcavelos e Parede",3,2,Apartamento
+670,179 000 €,118,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,1,Apartamento
+671,425 000 €,179,"Sobral de Monte Agraço, São Quintino",4,3,Moradia
+672,350 000 €,187,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+673,197 000 €,72,"Amadora, Águas Livres",2,1,Apartamento
+674,180 000 €,35,"Sintra, Cacém e São Marcos",--,1,Loja
+675,328 500 €,56,"Lisboa, Alvalade",1,2,Apartamento
+676,540 000 €,129,"Lisboa, Campolide",3,2,Apartamento
+677,157 500 €,68,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+678,152 000 €,93,"Vila Franca de Xira, Vila Franca de Xira",3,2,Apartamento
+679,1 300 000 €,212,"Lisboa, Parque das Nações",4,3,Apartamento
+680,549 000 €,94,"Lisboa, Parque das Nações",2,1,Apartamento
+681,199 500 €,80,"Sintra, Agualva e Mira-Sintra",2,2,Apartamento
+682,150 000 €,800,"Loures, Fanhões",--,--,Terreno
+683,255 000 €,102,"Sintra, Algueirão-Mem Martins",1,1,Apartamento
+684,315 000 €,48,"Lisboa, São Vicente",2,1,Apartamento
+685,180 000 €,29,"Cascais, Cascais e Estoril",0,1,Apartamento
+686,178 000 €,133,"Loures, Bucelas",4,3,Moradia
+687,170 000 €,38,"Lisboa, São Vicente",1,1,Apartamento
+688,143 955 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--,Terreno
+689,2 200 000 €,191,"Cascais, Cascais e Estoril",4,4,Moradia
+690,155 000 €,89,"Sintra, Queluz e Belas",3,2,Apartamento
+691,735 000 €,255,"Loures, Loures",5,4,Moradia
+692,240 000 €,80,"Lourinhã, Lourinhã e Atalaia",2,2,Apartamento
+693,290 000 €,55,"Cascais, Cascais e Estoril",1,1,Apartamento
+694,650 000 €,150,"Lisboa, Estrela",--,0,Prédio
+695,2 290 000 €,535,"Cascais, Cascais e Estoril",5,6,Moradia
+696,220 000 €,105,"Sintra, Cacém e São Marcos",3,2,Apartamento
+697,640 000 €,137,"Lisboa, Lumiar",3,2,Apartamento
+698,499 000 €,176,"Vila Franca de Xira, Vila Franca de Xira",4,4,Moradia
+699,860 000 €,157,"Lisboa, Alvalade",3,3,Apartamento
+700,35 000 €,--,"Loures, Lousa",--,--,Terreno
+701,203 000 €,125,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+702,410 000 €,89,"Lisboa, Alvalade",2,1,Apartamento
+703,244 000 €,103,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+704,175 000 €,52,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1,1,Apartamento
+705,50 000 €,1200,"Sintra, São João das Lampas e Terrugem",--,0,Terreno
+706,360 000 €,156,"Lisboa, Campolide",--,0,Prédio
+707,210 000 €,73,"Amadora, Encosta do Sol",2,1,Apartamento
+708,205 000 €,92,"Lourinhã, Lourinhã e Atalaia",3,2,Apartamento
+709,220 000 €,100,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+710,380 000 €,95,"Cascais, São Domingos de Rana",3,2,Apartamento
+711,325 500 €,192,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+712,175 000 €,79,"Sintra, Queluz e Belas",3,2,Moradia
+713,175 000 €,77,"Amadora, Mina de Água",2,1,Apartamento
+714,170 000 €,78,"Alenquer, Carregado e Cadafais",2,1,Apartamento
+715,295 000 €,92,"Amadora, Águas Livres",1,1,Apartamento
+716,80 000 €,127,"Lisboa, Lumiar",--,2,Trespasse
+717,194 900 €,591,"Odivelas, Pontinha e Famões",--,0,Terreno
+718,330 000 €,70,"Lisboa, Lumiar",1,1,Apartamento
+719,232 500 €,57,"Odivelas, Pontinha e Famões",2,1,Apartamento
+720,500 000 €,290,"Odivelas, Pontinha e Famões",4,3,Moradia
+721,290 000 €,80,"Lisboa, Penha de França",3,1,Apartamento
+722,110 000 €,147,"Amadora, Falagueira - Venda Nova",--,2,Trespasse
+723,350 000 €,--,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",--,--,Terreno
+724,70 000 €,305,"Vila Franca de Xira, Vila Franca de Xira",--,0,Terreno
+725,650 000 €,181,"Sintra, São João das Lampas e Terrugem",3,3,Moradia
+726,500 000 €,112,"Lisboa, Alvalade",4,2,Apartamento
+727,525 000 €,116,"Oeiras, Barcarena",3,2,Apartamento
+728,17 000 €,16,"Sintra, Queluz e Belas",--,0,Garagem
+729,280 000 €,65,"Cascais, Carcavelos e Parede",1,1,Apartamento
+730,149 000 €,190,"Torres Vedras, Ventosa",2,--,Moradia
+731,2 200 000 €,203,"Lisboa, Arroios",4,4,Apartamento
+732,85 000 €,27,"Lisboa, Penha de França",--,--,Loja
+733,790 000 €,7040,"Cascais, Cascais e Estoril",--,0,Terreno
+734,1 280 000 €,121,"Lisboa, Avenidas Novas",3,5,Apartamento
+735,1 250 000 €,200,"Lisboa, Avenidas Novas",--,0,Loja
+736,940 000 €,121,"Lisboa, Avenidas Novas",3,5,Apartamento
+737,199 500 €,119,"Alenquer, Carregado e Cadafais",3,2,Apartamento
+738,955 000 €,121,"Lisboa, Avenidas Novas",3,5,Apartamento
+739,1 000 000 €,121,"Lisboa, Avenidas Novas",3,5,Apartamento
+740,340 000 €,97,"Cascais, Alcabideche",2,2,Apartamento
+741,185 000 €,217,"Amadora, Venteira",--,--,Prédio
+742,140 500 €,5918,"Mafra, Carvoeira",--,0,Terreno
+743,450 000 €,110,"Lisboa, Estrela",2,2,Apartamento
+744,295 000 €,170,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+745,450 000 €,183,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,2,Loja
+746,219 000 €,110,"Arruda dos Vinhos, Arruda dos Vinhos",3,2,Apartamento
+747,79 000 €,--,"Odivelas, Pontinha e Famões",--,0,Terreno
+748,990 000 €,187,"Lisboa, Olivais",6,8,Moradia
+749,470 000 €,80,"Lisboa, Estrela",2,2,Apartamento
+750,315 000 €,100,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+751,150 000 €,124,"Vila Franca de Xira, Vila Franca de Xira",--,1,Prédio
+752,496 545 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--,Terreno
+753,270 000 €,120,"Vila Franca de Xira, Vila Franca de Xira",3,2,Apartamento
+754,379 000 €,72,"Lisboa, Penha de França",2,2,Apartamento
+755,140 000 €,63,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,2,Loja
+756,640 000 €,198,"Mafra, Mafra",5,4,Moradia
+757,430 000 €,151,"Amadora, Águas Livres",3,3,Apartamento
+758,1 150 000 €,690,"Lisboa, São Vicente",--,--,Prédio
+759,6 500 000 €,20000,"Sintra, Rio de Mouro",--,0,Terreno
+760,950 000 €,171,"Lisboa, Estrela",4,3,Apartamento
+761,4 000 000 €,210,"Lisboa, Misericórdia",3,3,Apartamento
+762,250 000 €,103,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+763,220 000 €,96,"Odivelas, Pontinha e Famões",3,1,Apartamento
+764,360 000 €,182,"Oeiras, Barcarena",6,3,Prédio
+765,259 500 €,92,"Arruda dos Vinhos, Arruda dos Vinhos",3,1,Moradia
+766,780 000 €,205,"Cascais, São Domingos de Rana",5,4,Moradia
+767,640 000 €,694,"Azambuja, Alcoentre",7,4,Quinta
+768,250 000 €,--,"Sintra, São João das Lampas e Terrugem",--,0,Terreno
+769,460 000 €,80,"Lisboa, Estrela",2,2,Apartamento
+770,250 000 €,68,"Loures, Bucelas",3,2,Moradia
+771,175 000 €,--,"Cascais, São Domingos de Rana",--,0,Terreno
+772,895 000 €,293,"Sintra, São João das Lampas e Terrugem",4,6,Moradia
+773,150 000 €,244,"Odivelas, Ramada e Caneças",--,--,Terreno
+774,75 000 €,240,"Lisboa, Campolide",--,2,Trespasse
+775,550 000 €,265,"Cascais, São Domingos de Rana",4,4,Moradia
+776,156 750 €,90,"Lourinhã, Miragaia e Marteleira",2,1,Moradia
+777,399 000 €,170,"Amadora, Encosta do Sol",--,0,Prédio
+778,279 000 €,52,"Lisboa, Penha de França",2,2,Apartamento
+779,225 000 €,121,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+780,593 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,4,Terreno
+781,27 000 €,16,"Sintra, Rio de Mouro",--,0,Garagem
+782,292 500 €,80,"Oeiras, Barcarena",2,1,Apartamento
+783,87 500 €,40,"Odivelas, Póvoa de Santo Adrião e Olival Basto",1,2,Moradia
+784,360 000 €,81,"Lisboa, São Vicente",3,2,Apartamento
+785,468 000 €,159,"Sintra, Algueirão-Mem Martins",3,3,Moradia
+786,468 000 €,159,"Sintra, Algueirão-Mem Martins",3,3,Moradia
+787,468 000 €,159,"Sintra, Algueirão-Mem Martins",3,3,Moradia
+788,175 000 €,74,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+789,325 000 €,79,"Lisboa, Penha de França",2,1,Apartamento
+790,350 000 €,86,"Lisboa, Lumiar",2,1,Apartamento
+791,770 000 €,231,"Odivelas, Odivelas",4,3,Apartamento
+792,99 900 €,0,"Alenquer, Alenquer (Santo Estêvão e Triana)",0,0,Industrial
+793,235 000 €,102,"Loures, Loures",0,1,Outros - Comercial
+794,315 000 €,136,"Mafra, Mafra",3,2,Apartamento
+795,310 000 €,110,"Azambuja, Alcoentre",1,1,Moradia
+796,224 500 €,71,"Oeiras, Carnaxide e Queijas",2,1,Apartamento
+797,249 900 €,112,"Sintra, Rio de Mouro",2,1,Apartamento
+798,255 000 €,102,"Loures, Camarate, Unhos e Apelação",2,2,Apartamento
+799,267 000 €,130,"Sintra, Rio de Mouro",3,2,Apartamento
+800,80 000 €,219,"Odivelas, Ramada e Caneças",--,0,Terreno
+801,698 000 €,184,"Torres Vedras, Turcifal",3,2,Moradia
+802,145 000 €,35,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,1,Loja
+803,150 000 €,73,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+804,390 000 €,153,"Sintra, Queluz e Belas",4,3,Apartamento
+805,255 000 €,80,"Odivelas, Odivelas",3,2,Apartamento
+806,295 000 €,48,"Loures, Santo Antão e São Julião do Tojal",2,2,Moradia
+807,350 000 €,112,"Cascais, Alcabideche",3,2,Apartamento
+808,880 000 €,174,"Mafra, Encarnação",3,4,Moradia
+809,770 000 €,231,"Odivelas, Odivelas",4,3,Apartamento
+810,295 000 €,75,"Cascais, São Domingos de Rana",2,2,Apartamento
+811,224 800 €,90,"Sintra, Queluz e Belas",3,2,Apartamento
+812,290 000 €,93,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Moradia
+813,325 000 €,56,"Lisboa, Alvalade",2,1,Apartamento
+814,450 000 €,98,"Lisboa, Avenidas Novas",2,2,Apartamento
+815,350 000 €,78,"Lisboa, Penha de França",2,1,Apartamento
+816,495 000 €,119,"Lisboa, Alcântara",4,2,Apartamento
+817,295 000 €,83,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+818,285 000 €,137,"Loures, Camarate, Unhos e Apelação",3,2,Apartamento
+819,635 000 €,166,"Oeiras, Porto Salvo",4,4,Moradia
+820,525 000 €,258,"Odivelas, Pontinha e Famões",3,3,Moradia
+821,185 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+822,115 000 €,233,"Cascais, São Domingos de Rana",--,0,Terreno
+823,185 000 €,--,"Sintra, Rio de Mouro",--,0,Terreno
+824,324 000 €,100,"Amadora, Mina de Água",3,2,Apartamento
+825,160 000 €,75,"Sintra, Cacém e São Marcos",1,1,Apartamento
+826,198 000 €,87,"Amadora, Águas Livres",3,2,Apartamento
+827,70 000 €,68,"Sintra, Cacém e São Marcos",--,2,Loja
+828,150 000 €,66,"Amadora, Falagueira - Venda Nova",2,1,Apartamento
+829,369 000 €,53,"Lisboa, Areeiro",1,1,Apartamento
+830,450 000 €,611,"Cascais, São Domingos de Rana",--,0,Outros - Habitação
+831,580 000 €,105,"Lisboa, Alvalade",2,2,Apartamento
+832,585 000 €,129,"Loures, Loures",4,3,Moradia
+833,280 000 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",--,0,Terreno
+834,430 000 €,75,"Lisboa, Alvalade",2,1,Apartamento
+835,5 500 000 €,1482,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,0,Terreno
+836,685 000 €,113,"Lisboa, Santo António",2,1,Apartamento
+837,890 000 €,214,"Loures, Santo António dos Cavaleiros e Frielas",4,4,Apartamento
+838,599 000 €,80,"Lisboa, São Vicente",2,2,Apartamento
+839,75 000 €,97,"Vila Franca de Xira, Vila Franca de Xira",--,1,Loja
+840,220 000 €,71,"Odivelas, Odivelas",2,1,Apartamento
+841,275 000 €,102,"Sintra, Cacém e São Marcos",3,2,Apartamento
+842,89 000 €,250,"Lisboa, Benfica",--,1,Loja
+843,815 000 €,201,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,3,Moradia
+844,160 000 €,70,"Sintra, Agualva e Mira-Sintra",3,1,Apartamento
+845,399 000 €,119,"Lisboa, Santa Clara",3,2,Apartamento
+846,92 000 €,460,"Torres Vedras, Silveira",--,0,Terreno
+847,1 900 000 €,431,"Cascais, Alcabideche",5,6,Moradia
+848,485 000 €,179,"Lourinhã, Lourinhã e Atalaia",5,5,Moradia
+849,800 000 €,194,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0,Prédio
+850,109 800 €,64,"Sintra, Queluz e Belas",3,1,Apartamento
+851,100 000 €,29,"Lisboa, Areeiro",--,0,Trespasse
+852,199 000 €,90,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+853,199 000 €,107,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,0,Escritório
+854,775 000 €,154,"Cascais, Carcavelos e Parede",4,3,Moradia
+855,1 490 000 €,450,"Lisboa, Arroios",--,0,Prédio
+856,215 000 €,102,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Apartamento
+857,397 000 €,109,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+858,309 500 €,110,"Amadora, Mina de Água",3,2,Apartamento
+859,200 000 €,5080,"Torres Vedras, Ponte do Rol",--,0,Terreno
+860,430 000 €,187,"Amadora, Mina de Água",3,3,Apartamento
+861,999 000 €,1060,"Cascais, Cascais e Estoril",--,0,Terreno
+862,195 000 €,75,"Amadora, Mina de Água",2,1,Apartamento
+863,270 000 €,85,"Lisboa, Carnide",3,2,Apartamento
+864,196 000 €,115,"Lisboa, Santa Clara",3,1,Apartamento
+865,340 000 €,120,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+866,154 000 €,60,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+867,1 150 000 €,166,"Cascais, Cascais e Estoril",3,3,Apartamento
+868,1 680 000 €,227,"Lisboa, Benfica",4,5,Apartamento
+869,450 000 €,115,"Lisboa, Olivais",4,2,Apartamento
+870,550 000 €,275,"Sintra, Algueirão-Mem Martins",5,3,Moradia
+871,299 000 €,165,"Lourinhã, Lourinhã e Atalaia",3,3,Moradia
+872,580 000 €,140,"Lisboa, Lumiar",3,2,Apartamento
+873,345 000 €,105,"Lisboa, Penha de França",2,1,Apartamento
+874,235 000 €,48,"Lisboa, Santa Maria Maior",1,1,Loja
+875,169 000 €,40,"Lisboa, Marvila",1,1,Apartamento
+876,2 500 000 €,996,"Lisboa, Ajuda",--,0,Terreno
+877,698 000 €,216,"Loures, Santo António dos Cavaleiros e Frielas",3,4,Apartamento
+878,635 000 €,219,"Mafra, Mafra",5,3,Moradia
+879,178 000 €,64,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+880,680 000 €,3233,"Oeiras, Carnaxide e Queijas",4,2,Apartamento
+881,450 000 €,72,"Lisboa, Alvalade",3,2,Apartamento
+882,634 000 €,342,"Lisboa, Arroios",--,--,Escritório
+883,164 000 €,20,"Lisboa, Misericórdia",1,1,Apartamento
+884,359 000 €,62,"Lisboa, Penha de França",2,1,Apartamento
+885,315 000 €,50,"Lisboa, Avenidas Novas",1,1,Apartamento
+886,375 000 €,108,"Cascais, São Domingos de Rana",3,2,Apartamento
+887,1 750 000 €,269,"Lisboa, Alcântara",4,4,Apartamento
+888,335 000 €,188,"Odivelas, Ramada e Caneças",3,2,Moradia
+889,80 000 €,--,"Cadaval, Vermelha",--,--,Terreno
+890,550 000 €,281,"Odivelas, Pontinha e Famões",4,3,Moradia
+891,550 000 €,190,"Odivelas, Pontinha e Famões",4,3,Moradia
+892,2 780 000 €,193,"Lisboa, Ajuda",4,4,Apartamento
+893,1 280 000 €,124,"Lisboa, Ajuda",2,3,Apartamento
+894,246 000 €,117,"Torres Vedras, A dos Cunhados e Maceira",3,2,Moradia
+895,600 000 €,1512,"Oeiras, Barcarena",--,0,Terreno
+896,285 000 €,52,"Lisboa, Alcântara",3,1,Apartamento
+897,175 000 €,62,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+898,141 000 €,62,"Azambuja, Azambuja",2,0,Apartamento
+899,325 000 €,96,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+900,315 000 €,96,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+901,235 000 €,120,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2,Apartamento
+902,285 000 €,50,"Lisboa, Alcântara",2,1,Apartamento
+903,750 000 €,98,"Cascais, Cascais e Estoril",2,1,Apartamento
+904,220 000 €,73,"Lisboa, Beato",2,1,Apartamento
+905,398 000 €,97,"Lisboa, Benfica",3,1,Apartamento
+906,580 000 €,128,"Lisboa, Alvalade",3,4,Apartamento
+907,490 000 €,85,"Lisboa, Avenidas Novas",2,1,Apartamento
+908,549 000 €,151,"Lisboa, Lumiar",2,2,Apartamento
+909,140 000 €,42,"Alenquer, Carnota",2,1,Moradia
+910,750 000 €,115,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,0,Moradia
+911,217 500 €,103,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+912,278 000 €,80,"Mafra, Azueira e Sobral da Abelheira",3,2,Moradia
+913,500 000 €,147,"Odivelas, Odivelas",3,2,Apartamento
+914,750 000 €,162,"Cascais, São Domingos de Rana",3,3,Moradia
+915,367 500 €,52,"Lisboa, Misericórdia",2,1,Apartamento
+916,1 300 000 €,380,"Sintra, Queluz e Belas",3,4,Moradia
+917,1 300 000 €,380,"Sintra, Queluz e Belas",3,4,Moradia
+918,493 500 €,68,"Lisboa, Misericórdia",2,1,Apartamento
+919,375 000 €,110,"Cascais, Alcabideche",2,2,Apartamento
+920,360 000 €,65,"Lisboa, Belém",0,1,Loja
+921,240 000 €,120,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,2,Apartamento
+922,525 000 €,72,"Lisboa, Misericórdia",2,1,Apartamento
+923,750 000 €,162,"Cascais, São Domingos de Rana",3,3,Moradia
+924,525 000 €,66,"Lisboa, Misericórdia",2,1,Apartamento
+925,682 500 €,70,"Lisboa, Misericórdia",--,0,Loja
+926,149 500 €,43,"Amadora, Falagueira - Venda Nova",1,1,Apartamento
+927,348 500 €,113,"Lisboa, Benfica",4,2,Apartamento
+928,65 000 €,220,"Alenquer, Ventosa",1,0,Moradia
+929,159 000 €,67,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1,Apartamento
+930,215 000 €,68,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+931,160 000 €,48,"Cascais, Cascais e Estoril",1,1,Outros - Habitação
+932,280 000 €,73,"Lisboa, Penha de França",2,1,Apartamento
+933,2 488 500 €,329,"Lisboa, Misericórdia",--,0,Prédio
+934,225 000 €,62,"Cascais, Cascais e Estoril",2,1,Apartamento
+935,187 500 €,80,"Sintra, Queluz e Belas",2,1,Apartamento
+936,820 000 €,205,"Lisboa, São Domingos de Benfica",5,3,Apartamento
+937,599 000 €,263,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,--,Loja
+938,285 000 €,52,"Lisboa, Campo de Ourique",1,1,Apartamento
+939,3 700 000 €,349,"Cascais, Cascais e Estoril",6,5,Moradia
+940,1 200 000 €,172,"Mafra, Ericeira",0,3,Outros - Comercial
+941,210 000 €,149,"Sobral de Monte Agraço, Sobral de Monte Agraço",3,2,Apartamento
+942,250 000 €,60,"Cascais, Alcabideche",1,1,Apartamento
+943,230 000 €,100,"Mafra, Santo Isidoro",2,1,Moradia
+944,95 000 €,127,"Vila Franca de Xira, Vila Franca de Xira",0,1,Armazém
+945,699 000 €,104,"Lisboa, Estrela",2,3,Moradia
+946,1 800 000 €,294,"Cascais, Cascais e Estoril",5,4,Moradia
+947,1 300 000 €,265,"Lisboa, Avenidas Novas",5,3,Apartamento
+948,150 000 €,301,"Odivelas, Pontinha e Famões",--,0,Terreno
+949,144 000 €,289,"Odivelas, Pontinha e Famões",--,0,Terreno
+950,345 000 €,84,"Odivelas, Ramada e Caneças",2,1,Apartamento
+951,155 000 €,75,"Loures, Santo António dos Cavaleiros e Frielas",2,1,Apartamento
+952,259 500 €,107,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2,Apartamento
+953,225 000 €,87,"Amadora, Venteira",2,1,Apartamento
+954,695 000 €,154,"Lisboa, Parque das Nações",4,2,Apartamento
+955,2 200 000 €,312,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,5,Moradia
+956,135 000 €,40,"Sintra, Queluz e Belas",1,1,Moradia
+957,550 000 €,96,"Cascais, Carcavelos e Parede",2,2,Apartamento
+958,485 000 €,99,"Lisboa, Areeiro",2,1,Apartamento
+959,423 750 €,107,"Lisboa, São Vicente",5,1,Apartamento
+960,230 000 €,117,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1,Apartamento
+961,229 500 €,109,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+962,65 000 €,29,"Lisboa, Beato",--,0,Escritório
+963,915 000 €,342,"Odivelas, Pontinha e Famões",5,5,Moradia
+964,525 000 €,104,"Lisboa, Estrela",3,2,Apartamento
+965,745 000 €,159,"Lisboa, Estrela",1,2,Apartamento
+966,70 000 €,--,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,--,Terreno
+967,370 000 €,85,"Lisboa, Estrela",3,1,Apartamento
+968,350 000 €,50,"Lisboa, Estrela",1,1,Apartamento
+969,240 000 €,79,"Lisboa, Beato",2,1,Apartamento
+970,400 000 €,104,"Cascais, Cascais e Estoril",3,1,Moradia
+971,176 000 €,75,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,1,Apartamento
+972,350 000 €,3840,"Mafra, Encarnação",--,--,Terreno
+973,120 000 €,34,"Amadora, Águas Livres",1,1,Apartamento
+974,200 000 €,72,"Loures, Santo António dos Cavaleiros e Frielas",2,1,Apartamento
+975,450 000 €,145,"Coimbra, Santa Clara e Castelo Viegas",4,3,Moradia
+976,275 000 €,23,"Lisboa, Arroios",--,0,Loja
+977,399 750 €,145,"Cascais, Carcavelos e Parede",4,3,Apartamento
+978,2 250 000 €,577,"Cascais, Carcavelos e Parede",11,0,Moradia
+979,225 000 €,165,"Torres Vedras, Carvoeira e Carmões",3,3,Moradia
+980,849 000 €,90,"Lisboa, Misericórdia",2,2,Apartamento
+981,220 000 €,253,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",8,4,Prédio
+982,295 000 €,89,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2,Moradia
+983,445 000 €,99,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Apartamento
+984,430 000 €,220,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",5,5,Moradia
+985,259 500 €,100,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",2,2,Moradia
+986,530 000 €,184,"Sintra, Algueirão-Mem Martins",5,3,Moradia
+987,999 000 €,187,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3,Apartamento
+988,285 000 €,118,"Sintra, Casal de Cambra",3,2,Apartamento
+989,759 000 €,177,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,5,Moradia
+990,156 000 €,94,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",3,0,Apartamento
+991,89 000 €,82,"Sintra, Algueirão-Mem Martins",0,2,Loja
+992,495 000 €,67,"Lisboa, São Vicente",2,1,Apartamento
+993,88 000 €,--,"Alenquer, Alenquer (Santo Estêvão e Triana)",--,--,Terreno
+994,165 000 €,78,"Sintra, Agualva e Mira-Sintra",3,1,Apartamento
+995,240 000 €,97,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+996,429 900 €,133,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,--,Apartamento
+997,200 000 €,91,"Sintra, Casal de Cambra",2,--,Apartamento
+998,649 500 €,122,"Lisboa, Parque das Nações",3,2,Apartamento
+999,650 000 €,113,"Lisboa, Alvalade",3,2,Apartamento
+1000,599 000 €,162,"Lisboa, Estrela",4,2,Apartamento
+1001,340 000 €,155,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1002,440 000 €,117,"Cascais, Cascais e Estoril",3,2,Apartamento
+1003,3 125 000 €,215,"Cascais, Cascais e Estoril",6,5,Moradia
+1004,1 350 000 €,--,"Sintra, Colares",--,0,Terreno
+1005,66 000 €,82,"Oeiras, Carnaxide e Queijas",--,1,Trespasse
+1006,58 000 €,56,"Amadora, Águas Livres",--,0,Loja
+1007,225 000 €,45,"Lisboa, Misericórdia",1,1,Apartamento
+1008,155 000 €,99,"Alenquer, Carregado e Cadafais",3,2,Apartamento
+1009,90 000 €,--,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1010,395 000 €,70,"Cascais, Cascais e Estoril",1,1,Apartamento
+1011,299 500 €,37,"Cascais, Cascais e Estoril",1,1,Apartamento
+1012,225 000 €,140,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,1,Apartamento
+1013,149 900 €,421,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",--,--,Terreno
+1014,158 000 €,645,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1015,175 000 €,71,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1016,2 300 000 €,186,"Cascais, Cascais e Estoril",3,3,Apartamento
+1017,450 000 €,129,"Lisboa, Areeiro",3,2,Apartamento
+1018,240 000 €,113,"Amadora, Águas Livres",3,2,Apartamento
+1019,245 000 €,142,"Sintra, Massamá e Monte Abraão",5,4,Moradia
+1020,235 000 €,104,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1021,355 000 €,60,"Lisboa, Alcântara",2,2,Apartamento
+1022,800 000 €,240,"Lisboa, Areeiro",5,4,Apartamento
+1023,325 000 €,151,"Azambuja, Azambuja",4,3,Moradia
+1024,450 000 €,100,"Lisboa, Benfica",2,2,Apartamento
+1025,85 000 €,--,"Sintra, Rio de Mouro",--,0,Terreno
+1026,205 000 €,68,"Sintra, Casal de Cambra",1,1,Apartamento
+1027,399 000 €,82,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,1,Moradia
+1028,500 000 €,95,"Lisboa, Misericórdia",2,1,Apartamento
+1029,382 000 €,166,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1030,130 000 €,56,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+1031,165 000 €,66,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+1032,325 000 €,126,"Azambuja, Azambuja",4,3,Moradia
+1033,180 000 €,80,"Sintra, Agualva e Mira-Sintra",2,0,Apartamento
+1034,450 000 €,327,"Amadora, Venteira",--,6,Prédio
+1035,505 000 €,153,"Lisboa, São Domingos de Benfica",3,2,Apartamento
+1036,147 500 €,187,"Lisboa, São Domingos de Benfica",--,3,Trespasse
+1037,1 299 000 €,146,"Lisboa, Areeiro",3,3,Apartamento
+1038,195 000 €,78,"Odivelas, Odivelas",2,1,Apartamento
+1039,499 525 €,95,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Apartamento
+1040,205 000 €,115,"Alenquer, Alenquer (Santo Estêvão e Triana)",4,2,Apartamento
+1041,255 000 €,91,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1,Apartamento
+1042,1 700 000 €,267,"Lisboa, Santo António",9,3,Apartamento
+1043,990 000 €,185,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3,Apartamento
+1044,289 000 €,89,"Amadora, Encosta do Sol",3,2,Apartamento
+1045,92 500 €,621,"Sintra, Queluz e Belas",--,0,Terreno
+1046,55 000 €,--,"Alenquer, Ventosa",--,--,Terreno
+1047,255 000 €,114,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1048,355 000 €,86,"Odivelas, Odivelas",2,1,Apartamento
+1049,199 900 €,40,"Loures, Sacavém e Prior Velho",1,--,Apartamento
+1050,270 000 €,150,"Mafra, Malveira e São Miguel de Alcainça",3,3,Moradia
+1051,290 000 €,82,"Loures, Moscavide e Portela",4,2,Apartamento
+1052,795 000 €,153,"Lisboa, Arroios",4,2,Apartamento
+1053,84 900 €,566,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",--,0,Trespasse
+1054,950 000 €,112,"Mafra, Santo Isidoro",3,0,Moradia
+1055,820 000 €,112,"Mafra, Santo Isidoro",3,0,Moradia
+1056,109 900 €,--,"Amadora, Mina de Água",--,0,Terreno
+1057,950 000 €,227,"Lisboa, São Domingos de Benfica",4,3,Apartamento
+1058,269 000 €,64,"Lisboa, Misericórdia",1,1,Apartamento
+1059,169 000 €,77,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1060,590 000 €,122,"Sintra, Queluz e Belas",5,3,Moradia
+1061,106 000 €,190,"Odivelas, Pontinha e Famões",--,0,Terreno
+1062,340 000 €,107,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1063,435 000 €,137,"Loures, Loures",3,2,Apartamento
+1064,175 000 €,77,"Amadora, Mina de Água",2,1,Apartamento
+1065,245 000 €,101,"Sintra, Queluz e Belas",2,2,Apartamento
+1066,485 000 €,130,"Cascais, Alcabideche",3,4,Moradia
+1067,450 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,0,Terreno
+1068,999 000 €,381,"Cascais, São Domingos de Rana",5,3,Moradia
+1069,260 000 €,90,"Cascais, Cascais e Estoril",2,1,Apartamento
+1070,150 000 €,58,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1071,299 970 €,61,"Sintra, Queluz e Belas",6,3,Apartamento
+1072,220 000 €,70,"Lisboa, Marvila",2,1,Apartamento
+1073,800 000 €,300,"Mafra, Mafra",4,4,Moradia
+1074,470 000 €,245,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,0,Moradia
+1075,324 000 €,129,"Sintra, Queluz e Belas",2,1,Moradia
+1076,99 000 €,400,"Odivelas, Ramada e Caneças",4,0,Terreno
+1077,1 150 000 €,200,"Cascais, Cascais e Estoril",5,4,Moradia
+1078,375 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--,Terreno
+1079,450 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--,Terreno
+1080,79 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,0,Terreno
+1081,375 000 €,47,"Lisboa, Santo António",1,1,Apartamento
+1082,375 000 €,--,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,--,Terreno
+1083,249 900 €,83,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,2,Moradia
+1084,136 000 €,60,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",1,1,Apartamento
+1085,340 000 €,150,"Torres Vedras, Silveira",4,2,Moradia
+1086,640 000 €,209,"Oeiras, Barcarena",3,3,Moradia
+1087,202 000 €,99,"Cadaval, Lamas e Cercal",3,1,Moradia
+1088,70 000 €,41,"Sintra, Massamá e Monte Abraão",--,2,Loja
+1089,640 000 €,209,"Oeiras, Barcarena",3,3,Moradia
+1090,94 000 €,56,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",2,1,Moradia
+1091,195 000 €,55,"Amadora, Águas Livres",2,1,Apartamento
+1092,323 800 €,120,"Odivelas, Odivelas",4,--,Apartamento
+1093,559 000 €,130,"Lisboa, Areeiro",3,2,Apartamento
+1094,750 000 €,1143,"Oeiras, Barcarena",--,0,Terreno
+1095,105 000 €,--,"Torres Vedras, A dos Cunhados e Maceira",--,0,Terreno
+1096,105 000 €,--,"Torres Vedras, A dos Cunhados e Maceira",--,0,Terreno
+1097,188 000 €,60,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1098,640 000 €,209,"Oeiras, Barcarena",3,3,Moradia
+1099,665 000 €,183,"Oeiras, Porto Salvo",5,4,Moradia
+1100,260 000 €,70,"Lisboa, Penha de França",2,1,Apartamento
+1101,183 000 €,68,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1102,198 000 €,178,"Vila Franca de Xira, Vila Franca de Xira",4,4,Prédio
+1103,260 000 €,95,"Lisboa, Carnide",0,1,Loja
+1104,153 000 €,75,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,1,Apartamento
+1105,125 000 €,37,"Sintra, Queluz e Belas",1,1,Apartamento
+1106,294 000 €,76,"Lisboa, Olivais",3,1,Apartamento
+1107,180 000 €,74,"Loures, Sacavém e Prior Velho",2,1,Apartamento
+1108,760 000 €,177,"Cascais, São Domingos de Rana",5,4,Moradia
+1109,142 500 €,99,"Alenquer, Carregado e Cadafais",2,1,Apartamento
+1110,290 000 €,114,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+1111,218 000 €,79,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1112,530 000 €,178,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,3,Apartamento
+1113,1 175 000 €,162,"Cascais, Cascais e Estoril",4,3,Moradia
+1114,69 000 €,40,"Sintra, Massamá e Monte Abraão",--,0,Loja
+1115,650 000 €,116,"Cascais, Alcabideche",3,3,Moradia
+1116,175 000 €,105,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2,Apartamento
+1117,775 000 €,149,"Lisboa, Olivais",6,4,Moradia
+1118,237 700 €,65,"Loures, Moscavide e Portela",1,1,Apartamento
+1119,225 000 €,84,"Azambuja, Alcoentre",3,2,Moradia
+1120,86 000 €,118,"Sintra, Agualva e Mira-Sintra",--,0,Escritório
+1121,218 000 €,37,"Lisboa, Penha de França",1,1,Apartamento
+1122,200 000 €,81,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,2,Apartamento
+1123,750 000 €,90,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+1124,420 000 €,165,"Cascais, São Domingos de Rana",3,2,Apartamento
+1125,130 000 €,110,"Lisboa, Alvalade",0,0,Armazém
+1126,255 000 €,106,"Sintra, Queluz e Belas",2,2,Apartamento
+1127,490 000 €,260,"Torres Vedras, Ponte do Rol",4,4,Moradia
+1128,300 000 €,71,"Lisboa, São Domingos de Benfica",3,1,Apartamento
+1129,115 000 €,--,"Sintra, Rio de Mouro",--,0,Terreno
+1130,160 000 €,95,"Loures, Loures",--,2,Loja
+1131,375 000 €,61,"Lisboa, São Domingos de Benfica",2,1,Apartamento
+1132,120 000 €,--,"Sintra, Casal de Cambra",--,0,Terreno
+1133,195 000 €,66,"Lisboa, Santa Maria Maior",--,1,Loja
+1134,98 000 €,330,"Odivelas, Póvoa de Santo Adrião e Olival Basto",--,1,Trespasse
+1135,110 000 €,67,"Vila Franca de Xira, Vila Franca de Xira",2,--,Apartamento
+1136,preço sob consulta,883,"Lisboa, Belém",5,4,Moradia
+1137,190 000 €,89,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+1138,1 155 000 €,--,"Cascais, São Domingos de Rana",--,0,Terreno
+1139,265 000 €,79,"Cascais, São Domingos de Rana",2,1,Apartamento
+1140,279 000 €,55,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+1141,345 000 €,118,"Cascais, São Domingos de Rana",3,2,Moradia
+1142,319 000 €,60,"Cascais, Cascais e Estoril",3,1,Apartamento
+1143,51 200 €,68,"Azambuja, Aveiras de Cima",1,1,Moradia
+1144,1 075 000 €,140,"Lisboa, Estrela",3,3,Apartamento
+1145,485 000 €,160,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3,Apartamento
+1146,378 000 €,64,"Lisboa, Lumiar",1,1,Apartamento
+1147,199 000 €,85,"Sintra, Cacém e São Marcos",3,2,Apartamento
+1148,1 190 000 €,540,"Odivelas, Pontinha e Famões",3,5,Moradia
+1149,400 000 €,55,"Lisboa, Belém",2,1,Apartamento
+1150,315 000 €,100,"Sintra, Massamá e Monte Abraão",2,2,Apartamento
+1151,60 000 €,94,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1,Loja
+1152,160 000 €,--,"Lourinhã, Santa Bárbara",--,0,Terreno
+1153,98 000 €,139,"Vila Franca de Xira, Vila Franca de Xira",0,1,Armazém
+1154,415 000 €,65,"Lisboa, Avenidas Novas",1,1,Apartamento
+1155,99 000 €,60,"Mafra, Encarnação",2,0,Moradia
+1156,140 000 €,--,"Vila Franca de Xira, Vialonga",--,--,Terreno
+1157,1 390 000 €,302,"Sintra, Rio de Mouro",5,4,Moradia
+1158,220 000 €,156,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Moradia
+1159,310 000 €,103,"Sintra, Queluz e Belas",2,1,Moradia
+1160,260 000 €,80,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1,Apartamento
+1161,219 500 €,78,"Sintra, Rio de Mouro",2,0,Apartamento
+1162,800 000 €,150,"Lisboa, Parque das Nações",--,0,Trespasse
+1163,376 000 €,115,"Cascais, Cascais e Estoril",2,3,Apartamento
+1164,158 000 €,85,"Azambuja, Azambuja",2,1,Moradia
+1165,1 390 000 €,287,"Lisboa, Belém",4,8,Apartamento
+1166,402 500 €,100,"Lisboa, Lumiar",3,2,Apartamento
+1167,155 000 €,85,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",2,1,Moradia
+1168,130 000 €,62,"Azambuja, Azambuja",2,0,Apartamento
+1169,250 000 €,73,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1,Apartamento
+1170,230 000 €,67,"Cascais, Cascais e Estoril",3,1,Apartamento
+1171,380 000 €,23800,"Sintra, São João das Lampas e Terrugem",--,0,Terreno
+1172,149 750 €,79,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,1,Apartamento
+1173,1 699 000 €,168,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3,Moradia
+1174,3 300 000 €,810,"Lisboa, Estrela",--,--,Prédio
+1175,750 000 €,550,"Lisboa, Ajuda",--,2,Loja
+1176,215 000 €,224,"Odivelas, Pontinha e Famões",--,1,Armazém
+1177,1 400 000 €,182,"Lisboa, Arroios",8,6,Prédio
+1178,1 490 000 €,915,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",--,0,Armazém
+1179,350 000 €,113,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,0,Apartamento
+1180,350 000 €,62,"Lisboa, Lumiar",0,1,Apartamento
+1181,145 000 €,94,"Torres Vedras, Ventosa",2,1,Moradia
+1182,288 000 €,41,"Cascais, Cascais e Estoril",1,1,Apartamento
+1183,250 000 €,79,"Loures, Santo António dos Cavaleiros e Frielas",2,1,Apartamento
+1184,176 000 €,97,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+1185,2 190 000 €,181,"Cascais, Cascais e Estoril",4,0,Apartamento
+1186,329 990 €,100,"Lisboa, Benfica",3,4,Apartamento
+1187,1 300 000 €,166,"Cascais, Cascais e Estoril",3,3,Apartamento
+1188,310 000 €,58,"Lisboa, Ajuda",2,1,Apartamento
+1189,225 000 €,87,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1190,162 000 €,95,"Loures, Sacavém e Prior Velho",--,--,Loja
+1191,1 800 000 €,247,"Cascais, Cascais e Estoril",3,3,Moradia
+1192,47 000 €,1205,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1193,2 190 000 €,244,"Cascais, Cascais e Estoril",4,4,Apartamento
+1194,238 500 €,60,"Lisboa, Arroios",1,1,Apartamento
+1195,140 000 €,33,"Sintra, Queluz e Belas",1,1,Apartamento
+1196,280 000 €,111,"Odivelas, Ramada e Caneças",3,2,Apartamento
+1197,119 900 €,48,"Setúbal, Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",0,1,Apartamento
+1198,380 000 €,59,"Oeiras, Carnaxide e Queijas",1,1,Apartamento
+1199,747 000 €,204,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",5,4,Moradia
+1200,365 000 €,72,"Lisboa, Arroios",2,1,Apartamento
+1201,179 900 €,--,"Sintra, São João das Lampas e Terrugem",--,--,Terreno
+1202,250 000 €,84,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1203,895 000 €,163,"Lisboa, Misericórdia",3,4,Apartamento
+1204,155 000 €,49,"Amadora, Águas Livres",1,1,Apartamento
+1205,200 000 €,108,"Mafra, Enxara do Bispo, Gradil e Vila Franca do Rosário",2,2,Moradia
+1206,350 000 €,110,"Lisboa, Santa Maria Maior",2,1,Apartamento
+1207,1 200 000 €,163,"Cascais, Cascais e Estoril",3,3,Apartamento
+1208,49 500 €,--,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",--,0,Terreno
+1209,80 000 €,69,"Sintra, Agualva e Mira-Sintra",--,0,Garagem
+1210,145 000 €,74,"Torres Vedras, São Pedro da Cadeira",3,1,Moradia
+1211,280 000 €,78,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Apartamento
+1212,980 000 €,163,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,3,Moradia
+1213,360 000 €,125,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+1214,375 000 €,144,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+1215,1 080 000 €,220,"Mafra, Ericeira",4,--,Moradia
+1216,465 000 €,85,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+1217,950 000 €,131,"Lisboa, Lumiar",3,3,Apartamento
+1218,1 475 000 €,2010,"Odivelas, Pontinha e Famões",--,2,Armazém
+1219,220 000 €,90,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1220,1 490 000 €,418,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",9,8,Quinta
+1221,259 000 €,68,"Lisboa, Marvila",2,1,Apartamento
+1222,1 100 000 €,355,"Odivelas, Pontinha e Famões",5,4,Moradia
+1223,168 000 €,40,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+1224,155 000 €,78,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",2,1,Apartamento
+1225,360 000 €,62,"Lisboa, Santo António",1,2,Apartamento
+1226,1 390 000 €,302,"Cascais, Cascais e Estoril",4,6,Moradia
+1227,299 000 €,110,"Sintra, Colares",2,2,Apartamento
+1228,67 000 €,99,"Sintra, Casal de Cambra",--,--,Loja
+1229,170 000 €,88,"Sintra, Agualva e Mira-Sintra",2,--,Apartamento
+1230,470 000 €,206,"Cascais, Cascais e Estoril",--,--,Loja
+1231,699 000 €,112,"Lisboa, Santa Maria Maior",1,1,Apartamento
+1232,450 000 €,84,"Cascais, Cascais e Estoril",3,1,Apartamento
+1233,85 000 €,--,"Amadora, Mina de Água",--,0,Terreno
+1234,520 000 €,197,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",5,6,Moradia
+1235,159 800 €,80,"Sintra, Rio de Mouro",2,1,Apartamento
+1236,25 500 €,8,"Lisboa, Areeiro",--,--,Arrecadação
+1237,403 000 €,82,"Lisboa, Areeiro",2,1,Apartamento
+1238,248 000 €,127,"Alenquer, Alenquer (Santo Estêvão e Triana)",0,--,Moradia
+1239,49 000 €,100,"Odivelas, Odivelas",--,0,Trespasse
+1240,314 500 €,144,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1241,5 260 000 €,1387,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",14,14,Moradia
+1242,1 190 000 €,308,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,4,Moradia
+1243,550 000 €,106,"Cascais, Cascais e Estoril",3,2,Apartamento
+1244,370 000 €,86,"Lisboa, São Vicente",1,1,Apartamento
+1245,249 000 €,254,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",5,2,Moradia
+1246,359 000 €,183,"Torres Vedras, Ramalhal",4,3,Moradia
+1247,315 000 €,46,"Lisboa, Arroios",1,1,Apartamento
+1248,349 000 €,108,"Lisboa, Belém",3,4,Apartamento
+1249,445 000 €,103,"Lisboa, Lumiar",3,2,Apartamento
+1250,378 000 €,129,"Loures, Santo Antão e São Julião do Tojal",2,2,Apartamento
+1251,2 790 000 €,450,"Cascais, Cascais e Estoril",4,6,Moradia
+1252,178 000 €,70,"Lisboa, Penha de França",2,1,Apartamento
+1253,179 000 €,35,"Lisboa, Marvila",1,0,Apartamento
+1254,850 000 €,141,"Oeiras, Porto Salvo",6,4,Moradia
+1255,549 000 €,126,"Lisboa, Arroios",3,2,Apartamento
+1256,185 000 €,86,"Sintra, Rio de Mouro",2,1,Apartamento
+1257,1 080 000 €,290,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3,Moradia
+1258,235 000 €,89,"Sintra, Rio de Mouro",2,1,Apartamento
+1259,1 650 000 €,197,"Cascais, Alcabideche",5,6,Moradia
+1260,650 000 €,77,"Lisboa, Santa Maria Maior",1,2,Apartamento
+1261,125 000 €,136,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,2,Trespasse
+1262,418 000 €,161,"Mafra, Santo Isidoro",3,3,Moradia
+1263,70 000 €,45,"Sintra, Queluz e Belas",--,1,Trespasse
+1264,785 000 €,244,"Lisboa, Santa Maria Maior",--,--,Loja
+1265,429 900 €,100,"Lisboa, São Domingos de Benfica",3,2,Apartamento
+1266,369 900 €,85,"Lisboa, São Domingos de Benfica",2,2,Apartamento
+1267,375 000 €,72,"Lisboa, Alcântara",1,2,Apartamento
+1268,52 000 €,16,"Amadora, Mina de Água",--,1,Loja
+1269,360 000 €,118,"Lisboa, Santa Clara",2,1,Apartamento
+1270,280 000 €,61,"Amadora, Encosta do Sol",2,1,Moradia
+1271,329 000 €,150,"Sintra, Casal de Cambra",3,2,Apartamento
+1272,2 650 000 €,296,"Lisboa, Marvila",4,5,Apartamento
+1273,395 000 €,120,"Lisboa, Alvalade",3,0,Apartamento
+1274,220 000 €,78,"Amadora, Mina de Água",2,1,Apartamento
+1275,199 500 €,62,"Sintra, Queluz e Belas",2,1,Apartamento
+1276,120 000 €,75,"Amadora, Mina de Água",--,0,Terreno
+1277,280 000 €,66,"Cascais, São Domingos de Rana",2,1,Apartamento
+1278,550 000 €,163,"Lisboa, Santa Clara",2,2,Apartamento
+1279,190 000 €,76,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1280,800 000 €,193,"Odivelas, Pontinha e Famões",4,3,Apartamento
+1281,239 500 €,95,"Mafra, Malveira e São Miguel de Alcainça",2,1,Apartamento
+1282,770 000 €,200,"Lisboa, São Domingos de Benfica",4,3,Apartamento
+1283,599 000 €,118,"Oeiras, Carnaxide e Queijas",3,3,Apartamento
+1284,270 000 €,58,"Lisboa, Campo de Ourique",1,1,Apartamento
+1285,580 000 €,130,"Lisboa, Avenidas Novas",3,3,Apartamento
+1286,359 900 €,130,"Cascais, São Domingos de Rana",3,2,Apartamento
+1287,307 000 €,140,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1288,135 000 €,76,"Vila Franca de Xira, Vialonga",3,1,Apartamento
+1289,146 500 €,64,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1290,32 000 €,9000,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1291,870 000 €,227,"Lisboa, Olivais",3,3,Moradia
+1292,198 000 €,60,"Loures, Loures",2,1,Apartamento
+1293,199 000 €,72,"Torres Vedras, A dos Cunhados e Maceira",2,2,Moradia
+1294,290 000 €,110,"Sintra, Agualva e Mira-Sintra",3,0,Apartamento
+1295,225 000 €,282,"Sintra, Queluz e Belas",--,0,Garagem
+1296,950 000 €,103,"Lisboa, Olivais",4,4,Moradia
+1297,25 000 €,6,"Sintra, Massamá e Monte Abraão",--,0,Garagem
+1298,295 000 €,97,"Sintra, Massamá e Monte Abraão",4,2,Apartamento
+1299,590 000 €,186,"Mafra, Mafra",3,3,Moradia
+1300,599 000 €,127,"Lisboa, Avenidas Novas",4,2,Apartamento
+1301,205 000 €,60,"Loures, Loures",2,1,Apartamento
+1302,420 000 €,187,"Cascais, Carcavelos e Parede",4,4,Apartamento
+1303,59 900 €,36,"Lisboa, Alcântara",--,2,Trespasse
+1304,480 000 €,112,"Sintra, Rio de Mouro",3,3,Moradia
+1305,187 000 €,77,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1306,770 000 €,225,"Cascais, Alcabideche",4,5,Moradia
+1307,102 100 €,55,"Odivelas, Pontinha e Famões",1,1,Apartamento
+1308,200 000 €,40,"Cascais, Cascais e Estoril",1,1,Apartamento
+1309,300 000 €,107,"Cascais, Cascais e Estoril",3,1,Apartamento
+1310,1 200 000 €,231,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",6,6,Moradia
+1311,264 000 €,135,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",3,2,Apartamento
+1312,175 000 €,59,"Loures, Santo António dos Cavaleiros e Frielas",3,1,Apartamento
+1313,1 220 000 €,538,"Sintra, Rio de Mouro",4,4,Moradia
+1314,295 000 €,83,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Moradia
+1315,430 000 €,100,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,1,Moradia
+1316,410 000 €,118,"Cascais, Cascais e Estoril",3,2,Apartamento
+1317,300 000 €,102,"Sintra, Cacém e São Marcos",3,2,Apartamento
+1318,875 000 €,161,"Loures, Santo Antão e São Julião do Tojal",3,4,Moradia
+1319,435 000 €,160,"Odivelas, Ramada e Caneças",3,2,Apartamento
+1320,156 000 €,61,"Amadora, Mina de Água",1,1,Apartamento
+1321,296 000 €,32,"Lisboa, Santa Maria Maior",0,1,Apartamento
+1322,327 000 €,37,"Lisboa, Santa Maria Maior",0,1,Apartamento
+1323,260 000 €,101,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1324,168 500 €,68,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1325,730 200 €,77,"Lisboa, Misericórdia",2,1,Apartamento
+1326,700 500 €,72,"Lisboa, Misericórdia",2,1,Apartamento
+1327,530 000 €,136,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,0,Apartamento
+1328,990 000 €,155,"Cascais, Cascais e Estoril",3,3,Apartamento
+1329,170 000 €,76,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1330,288 000 €,110,"Loures, Moscavide e Portela",2,1,Apartamento
+1331,989 000 €,211,"Cascais, Alcabideche",4,3,Apartamento
+1332,365 000 €,85,"Lisboa, São Domingos de Benfica",4,2,Apartamento
+1333,308 000 €,102,"Odivelas, Pontinha e Famões",3,2,Apartamento
+1334,590 000 €,114,"Cascais, Cascais e Estoril",2,2,Apartamento
+1335,130 000 €,76,"Lisboa, Misericórdia",--,2,Trespasse
+1336,35 000 €,80,"Arruda dos Vinhos, Arranhó",--,0,Armazém
+1337,82 000 €,99,"Odivelas, Pontinha e Famões",--,1,Loja
+1338,250 000 €,140,"Lisboa, Marvila",--,1,Escritório
+1339,135 000 €,198,"Amadora, Mina de Água",--,0,Terreno
+1340,450 000 €,123,"Lisboa, Penha de França",5,2,Apartamento
+1341,379 500 €,90,"Sintra, Cacém e São Marcos",3,2,Moradia
+1342,218 000 €,100,"Torres Vedras, São Pedro da Cadeira",2,1,Apartamento
+1343,159 000 €,74,"Sintra, Casal de Cambra",3,2,Apartamento
+1344,695 000 €,138,"Lisboa, Santo António",3,2,Apartamento
+1345,469 000 €,103,"Cascais, Carcavelos e Parede",2,2,Apartamento
+1346,320 000 €,--,"Mafra, Santo Isidoro",--,0,Terreno
+1347,310 000 €,84,"Cascais, São Domingos de Rana",2,1,Apartamento
+1348,57 500 €,163,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",--,0,Terreno
+1349,168 500 €,80,"Sintra, Agualva e Mira-Sintra",3,1,Apartamento
+1350,390 000 €,130,"Sintra, Rio de Mouro",4,2,Moradia
+1351,720 000 €,145,"Lisboa, Belém",2,2,Apartamento
+1352,315 000 €,114,"Loures, Loures",5,3,Moradia
+1353,100 000 €,127,"Mafra, Enxara do Bispo, Gradil e Vila Franca do Rosário",4,1,Moradia
+1354,225 000 €,93,"Sintra, Queluz e Belas",2,2,Apartamento
+1355,590 000 €,121,"Lisboa, Avenidas Novas",--,1,Loja
+1356,249 900 €,60,"Lisboa, Penha de França",1,1,Apartamento
+1357,138 000 €,69,"Azambuja, Azambuja",3,2,Apartamento
+1358,415 000 €,124,"Oeiras, Porto Salvo",3,2,Apartamento
+1359,1 235 000 €,170,"Lisboa, Belém",4,3,Apartamento
+1360,65 000 €,--,"Sobral de Monte Agraço, São Quintino",--,0,Terreno
+1361,95 000 €,60,"Alenquer, Alenquer (Santo Estêvão e Triana)",1,1,Moradia
+1362,310 000 €,107,"Loures, Santo António dos Cavaleiros e Frielas",3,2,Apartamento
+1363,225 000 €,52,"Cascais, Carcavelos e Parede",1,1,Apartamento
+1364,300 000 €,156,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,0,Armazém
+1365,347 000 €,136,"Loures, Santo António dos Cavaleiros e Frielas",5,0,Apartamento
+1366,227 000 €,52,"Lisboa, Arroios",0,1,Loja
+1367,224 000 €,70,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1368,385 000 €,100,"Lisboa, Campolide",3,2,Apartamento
+1369,60 000 €,--,"Sobral de Monte Agraço, São Quintino",--,0,Terreno
+1370,190 000 €,84,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1371,119 000 €,54,"Amadora, Águas Livres",1,1,Apartamento
+1372,80 000 €,--,"Vila Franca de Xira, Vialonga",--,0,Terreno
+1373,190 500 €,87,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1,Apartamento
+1374,205 000 €,84,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1375,185 000 €,70,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1376,399 000 €,191,"Lourinhã, Lourinhã e Atalaia",4,3,Moradia
+1377,1 440 000 €,355,"Lisboa, Arroios",--,0,Prédio
+1378,145 000 €,59,"Amadora, Mina de Água",2,1,Apartamento
+1379,262 500 €,78,"Lisboa, Santo António",2,1,Apartamento
+1380,155 000 €,39,"Lisboa, Santo António",2,1,Escritório
+1381,310 000 €,47,"Lisboa, Avenidas Novas",0,--,Apartamento
+1382,129 000 €,79,"Alenquer, Carregado e Cadafais",2,1,Apartamento
+1383,162 000 €,170,"Alenquer, Alenquer (Santo Estêvão e Triana)",4,--,Moradia
+1384,1 590 000 €,155,"Cascais, Alcabideche",3,5,Moradia
+1385,1 670 000 €,170,"Cascais, Alcabideche",3,5,Moradia
+1386,417 000 €,86,"Lisboa, Lumiar",2,2,Apartamento
+1387,270 000 €,96,"Mafra, Santo Isidoro",2,2,Moradia
+1388,205 000 €,57,"Lisboa, Lumiar",2,0,Apartamento
+1389,120 000 €,40,"Lisboa, Ajuda",--,1,Loja
+1390,1 670 000 €,258,"Lisboa, Marvila",5,3,Duplex
+1391,192 000 €,65,"Odivelas, Ramada e Caneças",2,1,Apartamento
+1392,160 000 €,81,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1393,420 000 €,95,"Lisboa, Lumiar",3,2,Apartamento
+1394,798 500 €,160,"Lisboa, Belém",5,3,Apartamento
+1395,185 000 €,96,"Sintra, Agualva e Mira-Sintra",3,1,Apartamento
+1396,335 000 €,213,"Mafra, Malveira e São Miguel de Alcainça",3,2,Apartamento
+1397,550 000 €,129,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+1398,179 900 €,53,"Odivelas, Pontinha e Famões",2,1,Apartamento
+1399,595 000 €,110,"Lisboa, Campolide",3,2,Apartamento
+1400,142 000 €,134,"Arruda dos Vinhos, Santiago dos Velhos",2,1,Moradia
+1401,349 500 €,188,"Cascais, Alcabideche",--,1,Escritório
+1402,110 000 €,48,"Lisboa, Penha de França",--,1,Loja
+1403,175 000 €,79,"Odivelas, Odivelas",2,1,Apartamento
+1404,45 000 €,--,"Azambuja, Azambuja",--,0,Terreno
+1405,380 000 €,97,"Cascais, São Domingos de Rana",2,2,Apartamento
+1406,279 000 €,135,"Vila Franca de Xira, Vialonga",3,2,Apartamento
+1407,320 000 €,122,"Cascais, São Domingos de Rana",1,1,Apartamento
+1408,1 190 000 €,311,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,4,Moradia
+1409,347 000 €,96,"Loures, Santo António dos Cavaleiros e Frielas",3,2,Apartamento
+1410,995 000 €,227,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,3,Moradia
+1411,471 000 €,174,"Lisboa, Arroios",--,1,Escritório
+1412,435 000 €,90,"Lisboa, Carnide",4,4,Moradia
+1413,110 000 €,93,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",--,1,Loja
+1414,395 000 €,90,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Apartamento
+1415,298 000 €,92,"Cascais, São Domingos de Rana",3,2,Apartamento
+1416,230 000 €,86,"Amadora, Mina de Água",2,1,Apartamento
+1417,1 440 000 €,331,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3,Moradia
+1418,257 000 €,80,"Lisboa, Estrela",--,--,Loja
+1419,1 395 000 €,162,"Lisboa, Parque das Nações",4,3,Apartamento
+1420,730 000 €,276,"Lisboa, São Vicente",0,1,Loja
+1421,1 050 000 €,135,"Lisboa, Avenidas Novas",2,2,Moradia
+1422,100 000 €,515,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1423,529 000 €,181,"Mafra, Venda do Pinheiro e Santo Estêvão das Galés",4,3,Moradia
+1424,250 000 €,60,"Lisboa, Penha de França",1,1,Apartamento
+1425,76 000 €,2400,"Torres Vedras, Carvoeira e Carmões",--,0,Terreno
+1426,900 000 €,34,"Mafra, Encarnação",2,1,Quinta
+1427,270 000 €,80,"Odivelas, Odivelas",3,2,Apartamento
+1428,1 299 000 €,138,"Cascais, Cascais e Estoril",2,3,Apartamento
+1429,395 000 €,110,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",3,2,Moradia
+1430,1 285 000 €,219,"Cascais, Cascais e Estoril",5,4,Moradia
+1431,270 000 €,50,"Lisboa, Campolide",1,1,Apartamento
+1432,170 000 €,56,"Odivelas, Pontinha e Famões",2,1,Apartamento
+1433,1 250 000 €,140,"Lisboa, Campolide",2,3,Apartamento
+1434,125 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0,Terreno
+1435,1 300 000 €,202,"Lisboa, Santa Maria Maior",3,2,Apartamento
+1436,314 500 €,145,"Sintra, Massamá e Monte Abraão",4,2,Apartamento
+1437,199 000 €,59,"Amadora, Venteira",2,1,Apartamento
+1438,233 000 €,64,"Amadora, Águas Livres",2,1,Apartamento
+1439,72 000 €,56,"Alenquer, Olhalvo",2,1,Moradia
+1440,195 000 €,46,"Lisboa, São Domingos de Benfica",1,0,Apartamento
+1441,176 000 €,71,"Loures, Santo António dos Cavaleiros e Frielas",2,1,Apartamento
+1442,52 000 €,--,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",--,0,Terreno
+1443,775 000 €,185,"Lisboa, São Domingos de Benfica",4,3,Apartamento
+1444,615 000 €,164,"Sintra, Queluz e Belas",3,3,Apartamento
+1445,135 000 €,79,"Alenquer, Ota",2,0,Apartamento
+1446,25 000 €,1120,"Sintra, São João das Lampas e Terrugem",--,0,Terreno
+1447,42 500 €,--,"Azambuja, Aveiras de Cima",--,0,Terreno
+1448,186 000 €,100,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+1449,145 000 €,54,"Sintra, Cacém e São Marcos",1,--,Apartamento
+1450,260 000 €,160,"Torres Vedras, Campelos e Outeiro da Cabeça",3,2,Moradia
+1451,90 000 €,360,"Cadaval, Lamas e Cercal",--,0,Armazém
+1452,137 500 €,96,"Mafra, Igreja Nova e Cheleiros",3,4,Moradia
+1453,26 500 €,80,"Sintra, Rio de Mouro",--,0,Trespasse
+1454,239 000 €,88,"Odivelas, Póvoa de Santo Adrião e Olival Basto",3,1,Apartamento
+1455,217 500 €,89,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1456,163 000 €,90,"Azambuja, Alcoentre",2,2,Moradia
+1457,495 000 €,166,"Mafra, Mafra",3,3,Moradia
+1458,165 000 €,65,"Sintra, Queluz e Belas",2,2,Apartamento
+1459,700 000 €,507,"Odivelas, Ramada e Caneças",5,5,Moradia
+1460,495 000 €,166,"Mafra, Mafra",3,3,Moradia
+1461,165 000 €,65,"Sintra, Queluz e Belas",2,2,Apartamento
+1462,700 000 €,507,"Odivelas, Ramada e Caneças",5,5,Moradia
+1463,225 000 €,83,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,1,Apartamento
+1464,1 425 000 €,156,"Lisboa, Santo António",3,3,Apartamento
+1465,60 000 €,86,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,1,Armazém
+1466,210 000 €,73,"Lisboa, Olivais",2,1,Apartamento
+1467,3 380 000 €,1100,"Cascais, Cascais e Estoril",15,20,Moradia
+1468,170 000 €,116,"Alenquer, Carregado e Cadafais",3,2,Apartamento
+1469,230 000 €,90,"Loures, Loures",2,1,Apartamento
+1470,115 000 €,66,"Sintra, Cacém e São Marcos",2,1,Apartamento
+1471,60 000 €,4400,"Sintra, São João das Lampas e Terrugem",--,0,Terreno
+1472,900 000 €,365,"Lisboa, Misericórdia",10,5,Prédio
+1473,480 000 €,790,"Loures, Camarate, Unhos e Apelação",5,0,Prédio
+1474,387 500 €,82,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Apartamento
+1475,339 000 €,119,"Loures, Santo António dos Cavaleiros e Frielas",3,2,Apartamento
+1476,420 000 €,92,"Lisboa, Alcântara",2,2,Apartamento
+1477,998 000 €,88,"Cascais, Cascais e Estoril",2,3,Apartamento
+1478,220 000 €,36883,"Cadaval, Vilar",--,0,Terreno
+1479,1 190 000 €,120,"Lisboa, Avenidas Novas",3,3,Apartamento
+1480,240 000 €,95,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",3,2,Moradia
+1481,445 000 €,89,"Mafra, Ericeira",2,1,Apartamento
+1482,169 000 €,85,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1483,270 000 €,119,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2,Apartamento
+1484,139 900 €,66,"Sintra, Rio de Mouro",1,1,Apartamento
+1485,329 000 €,120,"Loures, Sacavém e Prior Velho",3,2,Apartamento
+1486,340 000 €,113,"Amadora, Águas Livres",3,2,Apartamento
+1487,260 000 €,78,"Amadora, Encosta do Sol",2,1,Apartamento
+1488,260 000 €,72,"Lisboa, Carnide",--,1,Loja
+1489,160 000 €,69,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,1,Apartamento
+1490,590 000 €,136,"Mafra, Ericeira",2,3,Apartamento
+1491,355 000 €,111,"Cascais, São Domingos de Rana",2,2,Apartamento
+1492,269 000 €,92,"Amadora, Encosta do Sol",3,2,Apartamento
+1493,160 000 €,55,"Cascais, São Domingos de Rana",1,1,Apartamento
+1494,250 000 €,79,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,2,Apartamento
+1495,385 000 €,74,"Cascais, Cascais e Estoril",1,2,Apartamento
+1496,920 000 €,278,"Cascais, Carcavelos e Parede",4,4,Moradia
+1497,210 000 €,91,"Sintra, Rio de Mouro",2,1,Apartamento
+1498,59 000 €,30,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",2,1,Moradia
+1499,95 000 €,26,"Lisboa, Carnide",--,0,Loja
+1500,260 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1501,400 000 €,70,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+1502,495 000 €,136,"Lisboa, Parque das Nações",--,1,Escritório
+1503,208 000 €,148,"Sintra, Agualva e Mira-Sintra",4,2,Apartamento
+1504,1 400 000 €,153,"Cascais, Cascais e Estoril",3,4,Apartamento
+1505,686 808 €,117,"Cascais, Carcavelos e Parede",2,3,Apartamento
+1506,686 808 €,117,"Cascais, Carcavelos e Parede",2,3,Apartamento
+1507,686 808 €,117,"Cascais, Carcavelos e Parede",2,3,Apartamento
+1508,738 736 €,121,"Cascais, Carcavelos e Parede",2,3,Apartamento
+1509,464 673 €,76,"Cascais, Carcavelos e Parede",1,2,Apartamento
+1510,551 922 €,89,"Cascais, Carcavelos e Parede",1,2,Apartamento
+1511,495 000 €,150,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,0,Apartamento
+1512,649 000 €,586,"Lisboa, Benfica",--,2,Loja
+1513,449 500 €,--,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",6,8,Terreno
+1514,449 000 €,128,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1515,115 000 €,94,"Alenquer, Ventosa",2,2,Moradia
+1516,459 000 €,77,"Lisboa, Parque das Nações",2,1,Apartamento
+1517,950 000 €,--,"Azambuja, Azambuja",--,0,Terreno
+1518,495 000 €,68,"Cascais, São Domingos de Rana",2,2,Apartamento
+1519,171 000 €,79,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1520,157 500 €,54,"Cascais, Carcavelos e Parede",--,2,Loja
+1521,650 000 €,183,"Cascais, São Domingos de Rana",4,4,Moradia
+1522,115 000 €,--,"Cascais, São Domingos de Rana",--,0,Terreno
+1523,365 000 €,47,"Lisboa, Avenidas Novas",1,1,Apartamento
+1524,450 000 €,--,"Sintra, Cacém e São Marcos",--,0,Terreno
+1525,210 000 €,132,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+1526,595 000 €,150,"Lisboa, Arroios",5,2,Apartamento
+1527,139 000 €,64,"Amadora, Encosta do Sol",2,1,Apartamento
+1528,265 000 €,46,"Lisboa, São Vicente",1,1,Apartamento
+1529,179 500 €,87,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1530,660 000 €,122,"Lisboa, Alvalade",3,2,Apartamento
+1531,245 000 €,91,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1532,395 000 €,73,"Lisboa, São Domingos de Benfica",1,1,Apartamento
+1533,52 500 €,--,"Mafra, Santo Isidoro",--,0,Terreno
+1534,615 000 €,130,"Lisboa, Penha de França",3,2,Apartamento
+1535,172 500 €,42,"Amadora, Águas Livres",1,1,Apartamento
+1536,347 500 €,82,"Oeiras, Barcarena",4,2,Moradia
+1537,155 000 €,59,"Sintra, Cacém e São Marcos",1,1,Apartamento
+1538,85 000 €,121,"Torres Vedras, Carvoeira e Carmões",3,1,Moradia
+1539,160 000 €,76,"Amadora, Falagueira - Venda Nova",2,1,Apartamento
+1540,899 000 €,165,"Cascais, Carcavelos e Parede",4,4,Apartamento
+1541,325 000 €,94,"Cascais, Cascais e Estoril",3,2,Apartamento
+1542,400 000 €,123,"Mafra, Ericeira",2,2,Moradia
+1543,155 000 €,67,"Mafra, Milharado",2,1,Apartamento
+1544,170 000 €,67,"Sintra, Rio de Mouro",2,1,Apartamento
+1545,640 000 €,506,"Oeiras, Carnaxide e Queijas",5,3,Prédio
+1546,398 000 €,237,"Vila Franca de Xira, Vila Franca de Xira",3,3,Moradia
+1547,259 000 €,112,"Mafra, Venda do Pinheiro e Santo Estêvão das Galés",2,2,Apartamento
+1548,790 000 €,147,"Lisboa, Parque das Nações",3,3,Apartamento
+1549,185 000 €,77,"Sintra, Queluz e Belas",2,1,Apartamento
+1550,80 000 €,80,"Cadaval, Vilar",3,2,Moradia
+1551,289 900 €,158,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2,Apartamento
+1552,140 000 €,116,"Azambuja, Azambuja",3,2,Apartamento
+1553,3 980 000 €,465,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",6,5,Solar
+1554,340 000 €,75,"Cascais, São Domingos de Rana",2,1,Apartamento
+1555,350 000 €,155,"Sintra, Queluz e Belas",3,3,Apartamento
+1556,750 000 €,273,"Loures, Loures",4,3,Moradia
+1557,390 000 €,105,"Lisboa, Lumiar",4,2,Apartamento
+1558,815 000 €,136,"Lisboa, Santa Maria Maior",2,2,Apartamento
+1559,80 000 €,--,"Loures, Loures",--,0,Terreno
+1560,285 000 €,142,"Sintra, Rio de Mouro",3,3,Moradia
+1561,450 000 €,329,"Odivelas, Pontinha e Famões",--,0,Prédio
+1562,216 000 €,112,"Vila Franca de Xira, Vila Franca de Xira",3,2,Apartamento
+1563,348 000 €,148,"Cascais, São Domingos de Rana",2,1,Apartamento
+1564,340 000 €,508,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,--,Armazém
+1565,380 000 €,88,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2,Apartamento
+1566,450 000 €,93,"Cascais, Carcavelos e Parede",2,2,Apartamento
+1567,420 000 €,140,"Lisboa, Santa Clara",3,3,Apartamento
+1568,620 000 €,181,"Sintra, Casal de Cambra",4,3,Moradia
+1569,399 000 €,158,"Lisboa, Santa Maria Maior",6,4,Prédio
+1570,229 000 €,133,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",3,2,Apartamento
+1571,225 000 €,106,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+1572,215 000 €,67,"Odivelas, Odivelas",2,2,Apartamento
+1573,1 440 000 €,330,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,3,Moradia
+1574,367 000 €,79,"Lisboa, Campo de Ourique",3,1,Apartamento
+1575,219 500 €,340,"Torres Vedras, Turcifal",6,1,Moradia
+1576,1 750 000 €,260,"Cascais, Cascais e Estoril",4,5,Moradia
+1577,550 000 €,135,"Lisboa, Olivais",4,2,Apartamento
+1578,3 100 000 €,1928,"Lisboa, Beato",--,0,Armazém
+1579,465 000 €,116,"Lisboa, Avenidas Novas",3,2,Apartamento
+1580,650 000 €,217,"Sintra, São João das Lampas e Terrugem",4,4,Moradia
+1581,419 000 €,154,"Oeiras, Carnaxide e Queijas",5,3,Apartamento
+1582,1 700 000 €,332,"Cascais, Cascais e Estoril",6,6,Moradia
+1583,530 000 €,163,"Odivelas, Odivelas",3,2,Apartamento
+1584,595 000 €,185,"Odivelas, Ramada e Caneças",3,3,Moradia
+1585,115 000 €,41,"Amadora, Venteira",1,1,Apartamento
+1586,545 000 €,180,"Lisboa, Alvalade",--,2,Escritório
+1587,300 000 €,--,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1588,60 000 €,297,"Vila Franca de Xira, Vialonga",0,0,Terreno
+1589,1 800 000 €,215,"Lisboa, Santa Maria Maior",3,0,Apartamento
+1590,499 900 €,157,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,2,Moradia
+1591,187 500 €,66,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1,Apartamento
+1592,49 500 €,45,"Sintra, Queluz e Belas",--,1,Garagem
+1593,87 000 €,--,"Mafra, Igreja Nova e Cheleiros",--,0,Terreno
+1594,570 000 €,107,"Cascais, Alcabideche",2,2,Apartamento
+1595,277 000 €,63,"Lisboa, Arroios",2,1,Apartamento
+1596,150 000 €,212,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1,Loja
+1597,150 000 €,202,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",0,1,Loja
+1598,275 000 €,132,"Torres Vedras, Campelos e Outeiro da Cabeça",3,2,Moradia
+1599,850 000 €,295,"Odivelas, Odivelas",--,1,Loja
+1600,270 000 €,99,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",3,4,Apartamento
+1601,795 000 €,173,"Mafra, Mafra",4,4,Apartamento
+1602,2 400 000 €,684,"Lisboa, Arroios",12,10,Prédio
+1603,430 000 €,128,"Cascais, São Domingos de Rana",3,2,Apartamento
+1604,3 200 000 €,2495,"Cascais, Alcabideche",--,--,Armazém
+1605,135 000 €,46,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",1,--,Apartamento
+1606,545 000 €,211,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",5,4,Moradia
+1607,205 000 €,95,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1608,298 000 €,97,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+1609,149 900 €,55,"Odivelas, Póvoa de Santo Adrião e Olival Basto",1,2,Apartamento
+1610,396 000 €,180,"Loures, Camarate, Unhos e Apelação",8,6,Prédio
+1611,229 500 €,77,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+1612,1 390 000 €,298,"Sintra, Queluz e Belas",5,5,Moradia
+1613,232 500 €,76,"Odivelas, Odivelas",2,1,Apartamento
+1614,350 000 €,105,"Lisboa, Olivais",4,1,Apartamento
+1615,2 300 000 €,406,"Cascais, Cascais e Estoril",5,7,Moradia
+1616,850 000 €,200,"Cascais, São Domingos de Rana",4,4,Moradia
+1617,198 000 €,68,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+1618,42 000 €,--,"Sintra, São João das Lampas e Terrugem",--,--,Terreno
+1619,279 000 €,66,"Cascais, Cascais e Estoril",2,1,Apartamento
+1620,289 000 €,94,"Amadora, Encosta do Sol",3,2,Apartamento
+1621,449 500 €,127,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1622,308 000 €,157,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",3,2,Moradia
+1623,693 000 €,143,"Cascais, São Domingos de Rana",3,3,Apartamento
+1624,1 350 000 €,299,"Cascais, Cascais e Estoril",2,3,Apartamento
+1625,305 000 €,65,"Lisboa, Ajuda",1,1,Apartamento
+1626,450 000 €,79,"Lisboa, Santa Maria Maior",--,0,Loja
+1627,1 290 000 €,255,"Lisboa, Avenidas Novas",4,4,Apartamento
+1628,276 000 €,90,"Lisboa, Estrela",--,--,Loja
+1629,260 000 €,72,"Cascais, São Domingos de Rana",2,1,Apartamento
+1630,220 000 €,86,"Odivelas, Odivelas",3,2,Apartamento
+1631,555 000 €,139,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",2,3,Duplex
+1632,58 000 €,64,"Azambuja, Alcoentre",1,1,Moradia
+1633,190 000 €,55,"Amadora, Águas Livres",2,1,Apartamento
+1634,75 000 €,--,"Cascais, Alcabideche",--,0,Terreno
+1635,75 000 €,--,"Cascais, Alcabideche",--,0,Terreno
+1636,60 000 €,36,"Lisboa, Parque das Nações",--,--,Garagem
+1637,185 000 €,85,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",3,1,Moradia
+1638,499 000 €,354,"Alenquer, Alenquer (Santo Estêvão e Triana)",4,4,Moradia
+1639,390 000 €,75,"Lisboa, Alcântara",3,2,Apartamento
+1640,565 000 €,103,"Mafra, Mafra",3,2,Apartamento
+1641,337 000 €,58,"Lisboa, Campo de Ourique",2,1,Apartamento
+1642,250 000 €,111,"Lisboa, Benfica",--,0,Trespasse
+1643,147 200 €,72,"Azambuja, Azambuja",2,1,Apartamento
+1644,277 400 €,65,"Cascais, São Domingos de Rana",2,1,Apartamento
+1645,67 000 €,256,"Sobral de Monte Agraço, Sapataria",0,--,Moradia
+1646,180 000 €,65,"Lisboa, Misericórdia",2,1,Apartamento
+1647,174 900 €,78,"Alenquer, Alenquer (Santo Estêvão e Triana)",2,2,Apartamento
+1648,260 000 €,103,"Arruda dos Vinhos, Santiago dos Velhos",2,--,Moradia
+1649,79 500 €,80,"Alenquer, Olhalvo",0,0,Moradia
+1650,1 390 000 €,254,"Cascais, Cascais e Estoril",3,4,Moradia
+1651,195 000 €,80,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1652,890 000 €,352,"Loures, Moscavide e Portela",6,3,Apartamento
+1653,219 000 €,90,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1654,167 000 €,78,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",2,2,Apartamento
+1655,475 000 €,166,"Loures, Santo António dos Cavaleiros e Frielas",4,2,Apartamento
+1656,210 000 €,95,"Torres Vedras, Dois Portos e Runa",2,1,Moradia
+1657,2 270 000 €,347,"Cascais, Carcavelos e Parede",4,5,Apartamento
+1658,99 900 €,50,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",1,1,Apartamento
+1659,46 000 €,--,"Mafra, Encarnação",--,0,Terreno
+1660,170 000 €,96,"Cadaval, Peral",3,2,Moradia
+1661,79 000 €,--,"Mafra, Encarnação",--,0,Terreno
+1662,340 000 €,157,"Lisboa, Arroios",5,1,Apartamento
+1663,280 000 €,126,"Mafra, Milharado",2,2,Apartamento
+1664,1 350 000 €,127,"Cascais, Carcavelos e Parede",3,4,Moradia
+1665,695 000 €,166,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3,Moradia
+1666,395 000 €,96,"Lisboa, Campo de Ourique",2,2,Prédio
+1667,295 000 €,270,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Moradia
+1668,248 590 €,27,"Lisboa, Santo António",1,1,Apartamento
+1669,54 900 €,18,"Amadora, Falagueira - Venda Nova",--,1,Loja
+1670,179 000 €,69,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1671,159 500 €,198,"Alenquer, Carregado e Cadafais",0,1,Loja
+1672,2 050 000 €,--,"Vila Franca de Xira, Castanheira do Ribatejo e Cachoeiras",--,0,Terreno
+1673,285 000 €,86,"Oeiras, Carnaxide e Queijas",3,1,Apartamento
+1674,750 000 €,82,"Lisboa, Arroios",2,2,Apartamento
+1675,275 000 €,46,"Lisboa, Campo de Ourique",1,1,Apartamento
+1676,349 000 €,125,"Lisboa, São Vicente",3,2,Apartamento
+1677,75 000 €,75,"Alenquer, Meca",2,1,Moradia
+1678,15 000 €,5,"Lisboa, Penha de França",--,--,Outros - Habitação
+1679,190 000 €,92,"Amadora, Venteira",3,1,Apartamento
+1680,40 000 €,100,"Alenquer, Ventosa",3,1,Moradia
+1681,47 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0,Terreno
+1682,170 000 €,51,"Loures, Moscavide e Portela",--,1,Loja
+1683,230 000 €,90,"Sobral de Monte Agraço, Sobral de Monte Agraço",3,2,Apartamento
+1684,437 100 €,142,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",4,2,Apartamento
+1685,215 000 €,43,"Lisboa, Penha de França",1,1,Apartamento
+1686,298 000 €,75,"Lisboa, Olivais",2,2,Apartamento
+1687,151 000 €,101,"Alenquer, Ribafria e Pereiro de Palhacana",1,2,Moradia
+1688,265 000 €,47,"Lisboa, São Domingos de Benfica",1,1,Apartamento
+1689,249 999 €,103,"Amadora, Mina de Água",3,2,Apartamento
+1690,395 000 €,113,"Lisboa, Penha de França",5,2,Apartamento
+1691,165 000 €,74,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,1,Apartamento
+1692,250 000 €,133,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1693,1 090 000 €,150,"Cascais, Cascais e Estoril",5,4,Moradia
+1694,224 900 €,86,"Vila Franca de Xira, Vialonga",2,1,Apartamento
+1695,39 000 €,40,"Lisboa, Penha de França",--,1,Loja
+1696,250 000 €,57,"Lisboa, Santa Maria Maior",1,1,Apartamento
+1697,75 000 €,20,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,1,Loja
+1698,800 000 €,78,"Lisboa, Santa Maria Maior",1,1,Apartamento
+1699,159 000 €,75,"Sintra, Rio de Mouro",2,1,Apartamento
+1700,3 200 000 €,483,"Cascais, Cascais e Estoril",7,8,Moradia
+1701,159 000 €,51,"Loures, Santo António dos Cavaleiros e Frielas",2,1,Apartamento
+1702,37 000 €,43,"Sintra, Queluz e Belas",--,0,Garagem
+1703,133 000 €,48,"Alenquer, Ribafria e Pereiro de Palhacana",2,2,Moradia
+1704,390 000 €,111,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1705,1 240 000 €,259,"Sintra, Colares",4,3,Moradia
+1706,448 000 €,100,"Lisboa, Ajuda",3,2,Apartamento
+1707,472 500 €,59,"Lisboa, Parque das Nações",1,1,Apartamento
+1708,1 149 000 €,310,"Oeiras, Barcarena",4,4,Moradia
+1709,360 000 €,122,"Odivelas, Odivelas",4,0,Apartamento
+1710,1 890 000 €,315,"Cascais, Cascais e Estoril",4,5,Moradia
+1711,199 000 €,130,"Torres Vedras, Freiria",3,3,Moradia
+1712,450 000 €,103,"Cascais, São Domingos de Rana",3,2,Apartamento
+1713,1 190 000 €,144,"Lisboa, Santo António",3,3,Apartamento
+1714,649 000 €,231,"Mafra, Santo Isidoro",4,3,Moradia
+1715,195 000 €,110,"Torres Vedras, A dos Cunhados e Maceira",3,2,Apartamento
+1716,289 000 €,126,"Odivelas, Odivelas",3,2,Apartamento
+1717,230 000 €,68,"Oeiras, Porto Salvo",2,1,Apartamento
+1718,810 000 €,180,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",5,4,Apartamento
+1719,730 000 €,145,"Oeiras, Carnaxide e Queijas",3,3,Apartamento
+1720,649 000 €,118,"Lisboa, São Domingos de Benfica",2,2,Apartamento
+1721,615 000 €,134,"Oeiras, Carnaxide e Queijas",2,3,Apartamento
+1722,149 200 €,58,"Sintra, Queluz e Belas",1,1,Apartamento
+1723,710 000 €,170,"Oeiras, Carnaxide e Queijas",3,3,Apartamento
+1724,148 000 €,52,"Amadora, Mina de Água",2,1,Apartamento
+1725,405 000 €,126,"Sintra, Massamá e Monte Abraão",3,2,Apartamento
+1726,287 000 €,150,"Torres Vedras, Silveira",2,4,Moradia
+1727,166 000 €,198,"Alenquer, Carregado e Cadafais",3,2,Apartamento
+1728,185 000 €,78,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+1729,577 000 €,173,"Sintra, Queluz e Belas",3,2,Apartamento
+1730,585 000 €,141,"Oeiras, Carnaxide e Queijas",2,2,Apartamento
+1731,690 000 €,319,"Cascais, São Domingos de Rana",3,3,Moradia
+1732,174 700 €,69,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,1,Apartamento
+1733,427 000 €,630,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",1,1,Prédio
+1734,825 000 €,314,"Sintra, São João das Lampas e Terrugem",4,5,Moradia
+1735,825 000 €,298,"Sintra, São João das Lampas e Terrugem",4,3,Moradia
+1736,690 000 €,170,"Oeiras, Carnaxide e Queijas",3,3,Apartamento
+1737,750 000 €,366,"Cascais, Alcabideche",5,3,Moradia
+1738,565 000 €,99,"Lisboa, Alvalade",4,1,Apartamento
+1739,575 000 €,141,"Oeiras, Carnaxide e Queijas",2,2,Apartamento
+1740,550 000 €,141,"Oeiras, Carnaxide e Queijas",2,2,Apartamento
+1741,137 500 €,57,"Sintra, Cacém e São Marcos",1,1,Apartamento
+1742,455 000 €,--,"Arruda dos Vinhos, Arruda dos Vinhos",--,0,Terreno
+1743,575 000 €,125,"Oeiras, Carnaxide e Queijas",2,2,Apartamento
+1744,260 000 €,87,"Odivelas, Odivelas",3,2,Apartamento
+1745,365 000 €,129,"Amadora, Venteira",3,2,Apartamento
+1746,880 000 €,734,"Amadora, Falagueira - Venda Nova",--,0,Loja
+1747,28 000 €,300,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",--,0,Terreno
+1748,420 000 €,120,"Lisboa, Santo António",5,1,Apartamento
+1749,399 000 €,110,"Lisboa, Arroios",3,2,Apartamento
+1750,355 000 €,307,"Loures, Moscavide e Portela",--,0,Escritório
+1751,56 000 €,--,"Azambuja, Alcoentre",--,0,Terreno
+1752,139 000 €,75,"Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães",2,1,Moradia
+1753,175 000 €,104,"Vila Franca de Xira, Vila Franca de Xira",3,2,Apartamento
+1754,450 000 €,83,"Cascais, Carcavelos e Parede",2,2,Apartamento
+1755,200 000 €,80,"Sintra, Agualva e Mira-Sintra",3,2,Apartamento
+1756,498 000 €,100,"Cascais, Cascais e Estoril",2,2,Apartamento
+1757,2 650 000 €,265,"Lisboa, Santo António",4,4,Apartamento
+1758,4 900 000 €,420,"Cascais, Cascais e Estoril",6,7,Moradia
+1759,849 000 €,185,"Lisboa, Santo António",3,2,Apartamento
+1760,1 100 000 €,161,"Loures, Santo Antão e São Julião do Tojal",4,4,Moradia
+1761,435 000 €,142,"Sintra, Cacém e São Marcos",4,3,Moradia
+1762,416 000 €,106,"Cascais, Cascais e Estoril",3,2,Apartamento
+1763,180 000 €,726,"Lisboa, Estrela",--,0,Trespasse
+1764,350 000 €,91,"Lisboa, Misericórdia",1,1,Loja
+1765,465 000 €,118,"Oeiras, Carnaxide e Queijas",2,2,Apartamento
+1766,449 000 €,66,"Lisboa, Campolide",1,1,Apartamento
+1767,595 000 €,108,"Cascais, São Domingos de Rana",3,3,Apartamento
+1768,229 000 €,90,"Loures, Loures",2,1,Apartamento
+1769,477 000 €,357,"Cascais, Alcabideche",--,3,Terreno
+1770,270 000 €,68,"Odivelas, Póvoa de Santo Adrião e Olival Basto",3,2,Apartamento
+1771,850 000 €,141,"Lisboa, Lumiar",3,3,Apartamento
+1772,278 000 €,94,"Sintra, Massamá e Monte Abraão",2,2,Apartamento
+1773,145 000 €,76,"Vila Franca de Xira, Vila Franca de Xira",2,1,Apartamento
+1774,595 000 €,98,"Lisboa, Misericórdia",1,2,Apartamento
+1775,55 000 €,300,"Amadora, Mina de Água",--,0,Terreno
+1776,280 000 €,123,"Amadora, Águas Livres",3,2,Apartamento
+1777,2 960 000 €,--,"Cascais, Alcabideche",--,0,Terreno
+1778,198 000 €,114,"Cadaval, Vilar",2,2,Moradia
+1779,895 000 €,145,"Lisboa, Misericórdia",3,2,Apartamento
+1780,650 000 €,118,"Lisboa, Lumiar",3,2,Apartamento
+1781,249 500 €,109,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+1782,680 000 €,144,"Lisboa, Alvalade",5,2,Apartamento
+1783,980 000 €,190,"Cascais, Carcavelos e Parede",3,3,Moradia
+1784,799 000 €,195,"Oeiras, Porto Salvo",5,4,Moradia
+1785,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1786,194 900 €,71,"Odivelas, Odivelas",2,1,Apartamento
+1787,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1788,6 000 000 €,0,"Cascais, Cascais e Estoril",0,0,Terreno
+1789,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1790,450 000 €,87,"Cascais, Cascais e Estoril",2,1,Apartamento
+1791,380 000 €,99,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1792,635 000 €,153,"Lisboa, Benfica",3,3,Apartamento
+1793,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1794,480 000 €,88,"Lisboa, Olivais",2,2,Apartamento
+1795,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1796,549 000 €,103,"Lisboa, Campolide",3,2,Apartamento
+1797,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1798,1 695 000 €,149,"Cascais, Cascais e Estoril",3,3,Apartamento
+1799,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1800,598 000 €,305,"Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz",6,3,Moradia
+1801,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1802,155 000 €,71,"Amadora, Águas Livres",1,1,Apartamento
+1803,235 000 €,94,"Lisboa, Santa Clara",2,1,Apartamento
+1804,444 013 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1805,680 000 €,146,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,3,Apartamento
+1806,390 450 €,126,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1807,380 000 €,93,"Lisboa, São Vicente",3,1,Apartamento
+1808,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1809,1 990 000 €,213,"Cascais, Cascais e Estoril",3,4,Apartamento
+1810,395 000 €,54,"Lisboa, Avenidas Novas",1,1,Apartamento
+1811,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1812,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1813,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1814,740 000 €,182,"Lisboa, Lumiar",3,3,Apartamento
+1815,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1816,2 350 000 €,191,"Cascais, Cascais e Estoril",4,4,Moradia
+1817,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1818,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1819,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1820,390 450 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1821,430 000 €,253,"Lourinhã, Santa Bárbara",3,2,Moradia
+1822,275 000 €,66,"Lisboa, Santa Maria Maior",2,1,Apartamento
+1823,1 100 000 €,320,"Cascais, Cascais e Estoril",4,3,Moradia
+1824,305 000 €,116,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,0,Apartamento
+1825,540 000 €,180,"Sintra, Queluz e Belas",4,3,Moradia
+1826,210 000 €,95,"Sintra, Cacém e São Marcos",3,2,Apartamento
+1827,975 000 €,560,"Cascais, São Domingos de Rana",--,0,Prédio
+1828,915 000 €,112,"Cascais, Cascais e Estoril",3,3,Moradia
+1829,45 000 €,400,"Lourinhã, São Bartolomeu dos Galegos e Moledo",--,0,Terreno
+1830,650 000 €,238,"Cascais, Alcabideche",4,3,Moradia
+1831,260 000 €,320,"Cadaval, Cadaval e Pêro Moniz",7,5,Moradia
+1832,390 450 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1833,360 000 €,65,"Lisboa, São Domingos de Benfica",2,1,Apartamento
+1834,684 000 €,130,"Lisboa, Campolide",2,3,Apartamento
+1835,212 000 €,50,"Lisboa, Olivais",2,1,Apartamento
+1836,197 000 €,65,"Amadora, Águas Livres",2,1,Apartamento
+1837,1 050 000 €,215,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",6,4,Moradia
+1838,320 000 €,80,"Lisboa, Olivais",3,1,Apartamento
+1839,169 900 €,65,"Sintra, Queluz e Belas",2,1,Apartamento
+1840,179 900 €,98,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,1,Apartamento
+1841,165 000 €,71,"Sintra, Massamá e Monte Abraão",2,1,Apartamento
+1842,122 500 €,43,"Torres Vedras, A dos Cunhados e Maceira",1,1,Apartamento
+1843,300 000 €,182,"Amadora, Águas Livres",5,2,Apartamento
+1844,99 800 €,100,"Amadora, Mina de Água",--,1,Loja
+1845,255 000 €,64,"Cascais, Cascais e Estoril",1,1,Apartamento
+1846,300 000 €,41,"Lisboa, Arroios",1,1,Apartamento
+1847,1 020 000 €,286,"Lisboa, Parque das Nações",4,3,Apartamento
+1848,375 000 €,275,"Mafra, Santo Isidoro",3,2,Moradia
+1849,235 000 €,--,"Alenquer, Aldeia Galega da Merceana e Aldeia Gavinha",--,0,Terreno
+1850,225 000 €,66,"Lisboa, Lumiar",2,1,Apartamento
+1851,120 000 €,35,"Amadora, Venteira",0,1,Apartamento
+1852,380 000 €,76,"Lisboa, Lumiar",1,1,Apartamento
+1853,380 000 €,76,"Lisboa, Lumiar",1,1,Apartamento
+1854,580 000 €,116,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",--,2,Loja
+1855,79 950 €,80,"Santarém, Santarém (Marvila), Santa Iria da Ribeira de Santarém, Santarém (São Salvador) e Santarém (São Nicolau)",--,2,Loja
+1856,450 000 €,192,"Sintra, Rio de Mouro",4,4,Moradia
+1857,1 547 000 €,336,"Mafra, Ericeira",6,7,Moradia
+1858,1 498 000 €,299,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",5,4,Moradia
+1859,1 570 000 €,336,"Mafra, Ericeira",5,6,Moradia
+1860,135 000 €,50,"Sintra, Queluz e Belas",1,1,Apartamento
+1861,697 000 €,162,"Loures, Santa Iria de Azoia, São João da Talha e Bobadela",4,5,Moradia
+1862,150 000 €,--,"Cascais, São Domingos de Rana",--,0,Terreno
+1863,589 500 €,136,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",4,3,Apartamento
+1864,170 000 €,81,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1865,11 000 €,--,"Azambuja, Manique do Intendente, Vila Nova de São Pedro e Maçussa",--,--,Terreno
+1866,99 000 €,210,"Lisboa, Avenidas Novas",--,3,Trespasse
+1867,390 000 €,140,"Sintra, Queluz e Belas",3,2,Apartamento
+1868,190 000 €,82,"Sobral de Monte Agraço, Sobral de Monte Agraço",2,1,Moradia
+1869,295 000 €,--,"Mafra, Santo Isidoro",--,0,Terreno
+1870,99 000 €,210,"Lisboa, Avenidas Novas",--,3,Escritório
+1871,110 000 €,80,"Odivelas, Pontinha e Famões",--,2,Loja
+1872,450 000 €,79,"Cascais, Alcabideche",2,2,Apartamento
+1873,70 000 €,81,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",--,1,Escritório
+1874,659 000 €,192,"Odivelas, Pontinha e Famões",4,0,Moradia
+1875,164 900 €,65,"Sintra, Cacém e São Marcos",1,1,Apartamento
+1876,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1877,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1878,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1879,199 000 €,55,"Alenquer, Alenquer (Santo Estêvão e Triana)",3,2,Moradia
+1880,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1881,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1882,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1883,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1884,285 000 €,--,"Sintra, Rio de Mouro",--,0,Terreno
+1885,248 000 €,71,"Lisboa, Marvila",2,1,Apartamento
+1886,169 000 €,48,"Oeiras, Carnaxide e Queijas",1,1,Apartamento
+1887,190 000 €,69,"Odivelas, Odivelas",2,1,Apartamento
+1888,440 000 €,147,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",3,2,Apartamento
+1889,390 450 €,122,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1890,414 640 €,126,"Vila Franca de Xira, Alverca do Ribatejo e Sobralinho",2,2,Apartamento
+1891,240 000 €,84,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,2,Apartamento
+1892,252 000 €,89,"Cascais, Alcabideche",2,3,Apartamento
+1893,195 000 €,182,"Oeiras, Barcarena",--,2,Escritório
+1894,920 000 €,146,"Lisboa, Avenidas Novas",2,2,Apartamento
+1895,150 000 €,65,"Sintra, Rio de Mouro",2,1,Apartamento
+1896,380 000 €,79,"Oeiras, Porto Salvo",3,2,Moradia
+1897,65 000 €,310,"Torres Vedras, Campelos e Outeiro da Cabeça",--,0,Terreno
+1898,380 000 €,80,"Odivelas, Odivelas",2,1,Apartamento
+1899,620 000 €,122,"Lisboa, Arroios",3,2,Apartamento
+1900,495 000 €,128,"Oeiras, Carnaxide e Queijas",3,2,Apartamento
+1901,6 900 000 €,690,"Lisboa, Belém",6,5,Moradia
+1902,1 075 000 €,189,"Mafra, Ericeira",4,3,Apartamento
+1903,490 000 €,90,"Cascais, Cascais e Estoril",2,1,Apartamento
+1904,178 000 €,79,"Amadora, Falagueira - Venda Nova",2,1,Apartamento
+1905,647 000 €,115,"Lisboa, Areeiro",4,2,Apartamento
+1906,225 000 €,110,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,2,Apartamento
+1907,1 850 000 €,362,"Lisboa, Belém",6,7,Moradia
+1908,575 000 €,143,"Sintra, Algueirão-Mem Martins",5,2,Moradia
+1909,275 000 €,183,"Lourinhã, Lourinhã e Atalaia",3,3,Moradia
+1910,189 000 €,320,"Cadaval, Cadaval e Pêro Moniz",3,2,Moradia
+1911,160 000 €,58,"Amadora, Encosta do Sol",2,1,Apartamento
+1912,199 500 €,83,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,1,Moradia
+1913,2 500 000 €,492,"Lisboa, São Vicente",--,2,Escritório
+1914,2 100 000 €,366,"Cascais, Cascais e Estoril",5,6,Moradia
+1915,189 900 €,75,"Lisboa, Campolide",2,--,Apartamento
+1916,120 000 €,--,"Mafra, Milharado",--,0,Terreno
+1917,1 800 000 €,894,"Lisboa, Avenidas Novas",--,2,Loja
+1918,396 000 €,124,"Odivelas, Odivelas",3,2,Apartamento
+1919,1 250 000 €,1480,"Loures, Lousa",--,2,Armazém
+1920,355 000 €,182,"Sintra, Massamá e Monte Abraão",4,2,Apartamento
+1921,243 000 €,107,"Odivelas, Pontinha e Famões",3,2,Apartamento
+1922,375 000 €,97,"Odivelas, Póvoa de Santo Adrião e Olival Basto",2,2,Apartamento
+1923,173 000 €,100,"Sintra, Agualva e Mira-Sintra",2,1,Apartamento
+1924,775 000 €,123,"Cascais, Cascais e Estoril",3,3,Apartamento
+1925,250 000 €,60,"Lisboa, Benfica",2,1,Apartamento
+1926,228 000 €,29,"Lisboa, Parque das Nações",--,0,Escritório
+1927,585 000 €,161,"Odivelas, Odivelas",4,2,Apartamento
+1928,280 000 €,75,"Lisboa, Beato",2,1,Apartamento
+1929,229 000 €,110,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",3,2,Apartamento
+1930,19 900 €,40,"Odivelas, Odivelas",--,1,Trespasse
+1931,153 000 €,85,"Sintra, Massamá e Monte Abraão",3,1,Apartamento
+1932,195 000 €,64,"Odivelas, Odivelas",3,1,Apartamento
+1933,199 000 €,75,"Sintra, Algueirão-Mem Martins",3,2,Apartamento
+1934,750 000 €,118,"Cascais, Cascais e Estoril",3,2,Apartamento
+1935,500 000 €,120,"Cascais, Cascais e Estoril",3,2,Moradia
+1936,29 000 €,20,"Sintra, Queluz e Belas",--,0,Garagem
+1937,1 200 000 €,247,"Mafra, Santo Isidoro",4,4,Moradia
+1938,728 000 €,99,"Lisboa, Avenidas Novas",2,2,Apartamento
+1939,269 000 €,69,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+1940,728 000 €,99,"Lisboa, Avenidas Novas",2,2,Apartamento
+1941,187 000 €,50,"Lisboa, Areeiro",2,1,Apartamento
+1942,479 500 €,128,"Lisboa, Parque das Nações",3,2,Apartamento
+1943,89 000 €,187,"Cadaval, Cadaval e Pêro Moniz",4,3,Moradia
+1944,185 000 €,40,"Lisboa, Santo António",1,1,Apartamento
+1945,330 000 €,90,"Torres Vedras, Silveira",3,1,Moradia
+1946,120 000 €,358,"Cadaval, Painho e Figueiros",2,1,Moradia
+1947,158 000 €,72,"Vila Franca de Xira, Vialonga",3,1,Apartamento
+1948,520 000 €,250,"Lisboa, Lumiar",3,2,Apartamento
+1949,375 000 €,90,"Lisboa, Carnide",3,1,Apartamento
+1950,135 000 €,71,"Vila Franca de Xira, Vialonga",3,1,Apartamento
+1951,310 000 €,101,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",3,2,Apartamento
+1952,195 000 €,38,"Lisboa, Estrela",1,1,Apartamento
+1953,630 000 €,168,"Sintra, Queluz e Belas",3,2,Apartamento
+1954,1 600 000 €,153,"Lisboa, Belém",5,4,Moradia
+1955,275 000 €,74,"Sintra, Queluz e Belas",2,1,Apartamento
+1956,295 000 €,210,"Arruda dos Vinhos, Arruda dos Vinhos",4,1,Moradia
+1957,630 000 €,145,"Lisboa, Arroios",5,2,Apartamento
+1958,580 000 €,181,"Lisboa, Santa Maria Maior",--,--,Prédio
+1959,35 000 €,53,"Arruda dos Vinhos, Arranhó",2,1,Moradia
+1960,540 000 €,85,"Lisboa, Santo António",2,2,Apartamento
+1961,320 000 €,50,"Lisboa, Santo António",1,1,Apartamento
+1962,410 000 €,114,"Loures, Santo Antão e São Julião do Tojal",3,3,Apartamento
+1963,135 000 €,39,"Loures, Loures",1,1,Apartamento
+1964,550 000 €,178,"Mafra, Ericeira",3,3,Moradia
+1965,309 000 €,144,"Sobral de Monte Agraço, São Quintino",3,3,Moradia
+1966,720 000 €,209,"Loures, Camarate, Unhos e Apelação",4,5,Moradia
+1967,175 000 €,88,"Sintra, Agualva e Mira-Sintra",3,1,Apartamento
+1968,575 000 €,104,"Lisboa, Misericórdia",3,2,Apartamento
+1969,12 000 000 €,1080,"Cascais, Cascais e Estoril",5,6,Moradia
+1970,400 000 €,90,"Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias",2,1,Apartamento
+1971,300 000 €,400,"Lisboa, Estrela",--,2,Trespasse
+1972,299 999 €,125,"Arruda dos Vinhos, Arruda dos Vinhos",3,2,Apartamento
+1973,260 000 €,106,"Lisboa, Santa Clara",2,1,Apartamento
+1974,650 000 €,140,"Cascais, Cascais e Estoril",2,2,Apartamento
+1975,250 000 €,45,"Cascais, Carcavelos e Parede",1,1,Apartamento
+1976,850 000 €,147,"Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",4,3,Moradia
+1977,279 000 €,76,"Lisboa, Benfica",1,1,Apartamento
+1978,2 300 000 €,283,"Cascais, Cascais e Estoril",5,6,Moradia
+1979,350 000 €,65,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",2,1,Apartamento
+1980,179 000 €,64,"Amadora, Mina de Água",2,1,Apartamento
+1981,205 000 €,81,"Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa",2,--,Apartamento
+1982,442 000 €,72,"Lisboa, Alvalade",3,1,Apartamento
+1983,172 500 €,69,"Amadora, Águas Livres",2,1,Apartamento
+1984,925 000 €,180,"Lisboa, Arroios",5,4,Apartamento
+1985,9 500 €,5,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",--,--,Loja
+1986,300 000 €,926,"Alenquer, Alenquer (Santo Estêvão e Triana)",--,--,Prédio
+1987,180 000 €,52,"Sintra, Massamá e Monte Abraão",1,1,Apartamento
+1988,410 000 €,120,"Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",3,2,Apartamento
+1989,175 000 €,50,"Lisboa, Penha de França",1,1,Apartamento
+1990,465 000 €,77,"Lisboa, Misericórdia",1,1,Apartamento
+1991,179 900 €,90,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1992,255 000 €,95,"Amadora, Águas Livres",3,2,Apartamento
+1993,650 000 €,227,"Sintra, Rio de Mouro",4,4,Apartamento
+1994,1 500 000 €,264,"Lisboa, Santo António",--,0,Prédio
+1995,85 000 €,254,"Odivelas, Odivelas",--,0,Terreno
+1996,85 000 €,300,"Odivelas, Odivelas",--,0,Terreno
+1997,130 000 €,59,"Azambuja, Azambuja",1,1,Apartamento
+1998,155 000 €,82,"Sintra, Algueirão-Mem Martins",2,1,Apartamento
+1999,116 000 €,72,"Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar",1,0,Moradia
