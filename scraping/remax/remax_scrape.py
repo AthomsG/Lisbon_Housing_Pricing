@@ -40,27 +40,25 @@ class RemaxScraper:
             }
         }
         self.headers = {
-            "accept": "application/json, text/plain, */*",
-            "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
-            "content-type": "application/json",
-            "cookie": "<Your Cookie Here>",
-            "languageid": "9",
-            "origin": "https://remax.pt",
-            "priority": "u=1, i",
-            "referer": f"https://remax.pt/comprar?searchQueryState=%7B%22regionName%22:%22{self.city}%22,%22businessType%22:1,%22page%22:1,%22regionID%22:%22%22,%22regionType%22:%22%22,%22sort%22:%7B%22fieldToSort%22:%22PublishDate%22,%22order%22:1%7D,%22mapIsOpen%22:false%7D",
-            "sec-ch-ua": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not A Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0",
-            "sec-ch-ua-platform": "macOS",
-            "sec-fetch-dest": "empty",
-            "sec-fetch-mode": "cors",
-            "sec-fetch-site": "same-origin",
-            "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+            "priority": "u=1, i"
         }
         self.df = None
 
     def fetch_general_data(self):
         response = requests.request("POST", self.url, json=self.payload, headers=self.headers, params=self.querystring)
-        data = json.loads(response.text)
+        
+        # Check the response status code and content before processing
+        print(f"HTTP Status Code: {response.status_code}")
+        if response.status_code != 200:
+            print("Failed to fetch data:", response.text)
+            return  # Exit or handle the failure accordingly
+
+        try:
+            data = json.loads(response.text)
+        except ValueError as e:
+            print("Failed to decode JSON:", e)
+            return  # Exit or handle the decoding failure accordingly
+
         results = data['results']
         keys = ['listingTitle', 'coordinates', 'listingPrice', 'listingTypeID', 'regionName1', 'regionName2', 'regionName3']
         data_extracted = [{key: entry[key] for key in keys} for entry in results]
@@ -144,8 +142,11 @@ class RemaxScraper:
         print("Updated data saved to '" + filename + "'")
 
     def run(self):
+        print('Fetching listings...')
         self.fetch_general_data()
+        print('\nFetching listing types...')
         self.fetch_listing_type()
+        print('\nFetching detailed information on all listings...')
         self.fetch_detailed_info()
         self.save_to_csv()
 
