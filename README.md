@@ -7,8 +7,8 @@ Welcome to the Lisbon Housing Pricing Model project. Below you'll find our curre
 ## Todo 🚀
 
 - [X] **Develop a Proof of Concept (PoC):** Lay the foundation of our project with a robust PoC.
-- [ ] **Compile a List of Data Sources:** Identify and list all potential websites for data scraping.
-- [ ] **Optimize the Data Scraping Process:** Streamline our approach to gathering data efficiently.
+- [X] **Pull Market Data from INE:** Efficiently gather and organize relevant market data from [INE Database](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_base_dados).
+- [X] **Optimize the Data Scraping Process:** Streamline our approach to gathering data efficiently.
 - [ ] **Improve Regression Model:** Develop a better model (less error and more robust) than the current Random Forest solution.
 - [ ] **Develop an API for Our Model:** Follow the tutorial [here](https://dorian599.medium.com/ml-deploy-machine-learning-models-using-fastapi-6ab6aef7e777) to create a scalable API.
 - [ ] **Create a Prototype App:** Utilize Gradio or a similar solution to bring our model to life with a user-friendly interface.
