@@ -40,25 +40,14 @@ class RemaxScraper:
             }
         }
         self.headers = {
-            "priority": "u=1, i"
+            "origin": "https://remax.pt",
+            "referer": f"https://remax.pt/comprar?searchQueryState=%7B%22regionName%22:%22{self.city}%22,%22businessType%22:1,%22page%22:1,%22regionID%22:%22%22,%22regionType%22:%22%22,%22sort%22:%7B%22fieldToSort%22:%22PublishDate%22,%22order%22:1%7D,%22mapIsOpen%22:false%7D",
         }
         self.df = None
 
     def fetch_general_data(self):
         response = requests.request("POST", self.url, json=self.payload, headers=self.headers, params=self.querystring)
-        
-        # Check the response status code and content before processing
-        print(f"HTTP Status Code: {response.status_code}")
-        if response.status_code != 200:
-            print("Failed to fetch data:", response.text)
-            return  # Exit or handle the failure accordingly
-
-        try:
-            data = json.loads(response.text)
-        except ValueError as e:
-            print("Failed to decode JSON:", e)
-            return  # Exit or handle the decoding failure accordingly
-
+        data = json.loads(response.text)
         results = data['results']
         keys = ['listingTitle', 'coordinates', 'listingPrice', 'listingTypeID', 'regionName1', 'regionName2', 'regionName3']
         data_extracted = [{key: entry[key] for key in keys} for entry in results]
@@ -137,23 +126,12 @@ class RemaxScraper:
     def save_to_csv(self):
         now = datetime.now()
         date_str = now.strftime("%d_%m_%Y")
-        filename = f"../../housing_data/remax_{self.city}_{date_str}_{int(self.num_houses/1e3)}k_general.csv"
+        filename = f"remax_{self.city}_{date_str}_{int(self.num_houses/1e3)}k_general.csv"
         self.df.to_csv(filename, index=False)
         print("Updated data saved to '" + filename + "'")
 
     def run(self):
-        print('Fetching listings...')
         self.fetch_general_data()
-        print('\nFetching listing types...')
         self.fetch_listing_type()
-        print('\nFetching detailed information on all listings...')
         self.fetch_detailed_info()
         self.save_to_csv()
-
-if __name__ == "__main__":
-    start_time = time.time()
-    scraper = RemaxScraper(num_houses=1000,
-                           city='lisboa')
-    scraper.run()
-    end_time = time.time()
-    print(f"It took {round((end_time - start_time)/60, 0)} minutes to execute data scraping pipeline.")
