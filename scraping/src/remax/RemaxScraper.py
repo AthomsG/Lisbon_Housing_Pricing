@@ -130,8 +130,9 @@ class RemaxScraper:
         self.df.to_csv(filename, index=False)
         print("Updated data saved to '" + filename + "'")
 
-    def run(self):
+    def run(self, save=True):
         self.fetch_general_data()
         self.fetch_listing_type()
         self.fetch_detailed_info()
-        self.save_to_csv()
+        if save: self.save_to_csv()
+        return self.df.copy()
