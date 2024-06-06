@@ -13,7 +13,23 @@ date_str = now.strftime("%d_%m_%Y")
 start_time = time.time()
 
 # REMAX
-concelhos = ['Vila Real']
+concelhos = ['Aveiro',
+             'Beja',
+             'Braga',
+             'Braganca',
+             'Castelo Branco',
+             'Coimbra',
+             'Evora',
+             'Faro',
+             'Guarda',
+             'Leiria',
+             'Lisboa',
+             'Portalegre',
+             'Porto',
+             'Santarem',
+             'Setubal',
+             'Viana do Castelo',
+             'Vila Real']
 
 remax_listings = []
 
