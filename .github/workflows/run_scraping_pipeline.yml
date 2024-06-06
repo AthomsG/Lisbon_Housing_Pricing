@@ -7,7 +7,6 @@ on:
 
 jobs:
   run-scraping-pipeline:
-    if: github.ref == 'refs/heads/opt_scrape' # Ensure this runs only on the opt_scrape branch
     runs-on: ubuntu-latest
 
     steps:
