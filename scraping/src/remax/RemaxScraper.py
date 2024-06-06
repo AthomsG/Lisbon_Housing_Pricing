@@ -1,11 +1,3 @@
-# remax's URL is basically a query, so we can use it directly to fetch data.
-# based on this video: https://www.youtube.com/watch?app=desktop&v=DqtlR0y0suo
-
-"""
-It seems that there's a first query to an API that get's as a listing ID and some information.
-We then have to get the information from another API, by using the listing ID.
-"""
-
 import time
 import requests
 import pandas as pd
@@ -46,26 +38,36 @@ class RemaxScraper:
         self.df = None
 
     def fetch_general_data(self):
-        response = requests.request("POST", self.url, json=self.payload, headers=self.headers, params=self.querystring)
-        data = json.loads(response.text)
-        results = data['results']
-        keys = ['listingTitle', 'coordinates', 'listingPrice', 'listingTypeID', 'regionName1', 'regionName2', 'regionName3']
-        data_extracted = [{key: entry[key] for key in keys} for entry in results]
-        self.df = pd.DataFrame(data_extracted)
-        self.df['latitude'] = self.df['coordinates'].apply(lambda x: x['latitude'] if x is not None else None)
-        self.df['longitude'] = self.df['coordinates'].apply(lambda x: x['longitude'] if x is not None else None)
-        self.df = self.df.drop(columns=['coordinates'])
+        try:
+            response = requests.request("POST", self.url, json=self.payload, headers=self.headers, params=self.querystring)
+            response.raise_for_status()
+            data = response.json()
+            results = data['results']
+            keys = ['listingTitle', 'coordinates', 'listingPrice', 'listingTypeID', 'regionName1', 'regionName2', 'regionName3']
+            data_extracted = [{key: entry[key] for key in keys} for entry in results]
+            self.df = pd.DataFrame(data_extracted)
+            self.df['latitude'] = self.df['coordinates'].apply(lambda x: x['latitude'] if x is not None else None)
+            self.df['longitude'] = self.df['coordinates'].apply(lambda x: x['longitude'] if x is not None else None)
+            self.df = self.df.drop(columns=['coordinates'])
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching general data: {e}")
 
-    def fetch_listing_type(self):
+    def fetch_listing_type(self, verbose=True):
         listing_titles = self.df['listingTitle'].unique()
-        pbar = tqdm(total=len(listing_titles))
+        pbar = tqdm(total=len(listing_titles), disable=~verbose)
 
         def fetch_info(listing_title, payload=""):
-            url = f"https://s.maxwork.pt/site/static/9/listings/searchdetails_V2/{listing_title}.html"
-            response = requests.request("GET", url, data=payload, headers=self.headers)
-            soup = BeautifulSoup(response.text, 'html.parser')
-            listing_type_elem = soup.find('li', class_='listing-type')
-            listing_type = listing_type_elem.text if listing_type_elem else None
+            try:
+                url = f"https://s.maxwork.pt/site/static/9/listings/searchdetails_V2/{listing_title}.html"
+                response = requests.request("GET", url, data=payload, headers=self.headers)
+                response.raise_for_status()
+                soup = BeautifulSoup(response.text, 'html.parser')
+                listing_type_elem = soup.find('li', class_='listing-type')
+                listing_type = listing_type_elem.text if listing_type_elem else None
+            except requests.exceptions.RequestException as e:
+                print(f"Request failed for {listing_title}: {e}")
+                listing_type = None
+
             pbar.update()
             return {
                 'listing_title': listing_title,
@@ -79,9 +81,9 @@ class RemaxScraper:
         df_new = pd.DataFrame(results)
         self.df = pd.merge(self.df, df_new, how='left', left_on='listingTitle', right_on='listing_title')
 
-    def fetch_detailed_info(self):
+    def fetch_detailed_info(self, verbose=True):
         listing_titles = self.df['listingTitle'].unique()
-        pbar = tqdm(total=len(listing_titles))
+        pbar = tqdm(total=len(listing_titles), disable=~verbose)
         key_whitelist = {'Área Bruta Privativa m2', 'Área Bruta m2', 'Área Total do Lote m2', 'Área Útil m2', 'Quartos',
                          'Ano de construção', 'Piso', 'WCs', 'Elevador', 'Estacionamento'}
 
@@ -89,6 +91,7 @@ class RemaxScraper:
             try:
                 url = f"https://s.maxwork.pt/site/static/9/listings/details-mobile_V2/{listing_title}.html"
                 response = requests.get(url, headers=self.headers, timeout=10)
+                response.raise_for_status()
                 soup = BeautifulSoup(response.text, 'html.parser')
                 description = soup.find('div', class_='listing-description').text.strip() if soup.find('div', class_='listing-description') else "No description"
                 details = {}
@@ -130,9 +133,9 @@ class RemaxScraper:
         self.df.to_csv(filename, index=False)
         print("Updated data saved to '" + filename + "'")
 
-    def run(self, save=True):
+    def run(self, save=True, verbose=True):
         self.fetch_general_data()
-        self.fetch_listing_type()
-        self.fetch_detailed_info()
+        self.fetch_listing_type(verbose)
+        self.fetch_detailed_info(verbose)
         if save: self.save_to_csv()
         return self.df.copy()

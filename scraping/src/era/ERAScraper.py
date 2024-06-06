@@ -46,25 +46,32 @@ class ERAScraper:
     def fetch_references_for_page(self, page):
         payload_copy = self.payload.copy()
         payload_copy['page'] = page
-        response = requests.post(self.url, json=payload_copy, headers=self.headers)
-        if response.status_code == 200:
-            output = response.json()
-            return output.get('PropertyList', [])
+        try:
+            response = requests.post(self.url, json=payload_copy, headers=self.headers)
+            if response.status_code == 200:
+                output = response.json()
+                return output.get('PropertyList', [])
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching page {page}: {e}")
         return []
 
-    def get_property_references(self):
+    def get_property_references(self, verbose=True):
         references = []
-        first_request = requests.post(self.url, json=self.payload, headers=self.headers)
-        if first_request.status_code != 200:
-            return references
+        try:
+            first_request = requests.post(self.url, json=self.payload, headers=self.headers)
+            if first_request.status_code != 200:
+                return references
 
-        first_output = first_request.json()
-        total_pages = first_output.get('TotalPages', 1)
+            first_output = first_request.json()
+            total_pages = first_output.get('TotalPages', 1)
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching initial page: {e}")
+            return references
 
         with ThreadPoolExecutor(max_workers=10) as executor:
             futures = [executor.submit(self.fetch_references_for_page, page) for page in range(1, total_pages + 1)]
 
-            for future in tqdm(as_completed(futures), total=total_pages, desc="Fetching property references", unit="page"):
+            for future in tqdm(as_completed(futures), total=total_pages, desc="Fetching property references", unit="page", disable=~verbose):
                 property_list = future.result()
                 if property_list:
                     references.extend([property['Reference'] for property in property_list])
@@ -73,9 +80,12 @@ class ERAScraper:
 
     def get_property_details(self, reference):
         detail_url = f"https://www.era.pt/API/ServicesModule/Property/PropertyDetailByReference?reference={reference}"
-        response = requests.get(detail_url, headers=self.headers)
-        if response.status_code == 200:
-            return response.json()
+        try:
+            response = requests.get(detail_url, headers=self.headers)
+            if response.status_code == 200:
+                return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching details for reference {reference}: {e}")
         return None
 
     def fetch_property_detail(self, reference):
@@ -96,11 +106,11 @@ class ERAScraper:
             }
         return None
 
-    def fetch_property_details(self, references):
+    def fetch_property_details(self, references, verbose=True):
         property_data = []
         with ThreadPoolExecutor(max_workers=10) as executor:
             futures = [executor.submit(self.fetch_property_detail, reference) for reference in references]
-            for future in tqdm(as_completed(futures), total=len(references), desc="Fetching property details", unit="property"):
+            for future in tqdm(as_completed(futures), total=len(references), desc="Fetching property details", unit="property", disable=~verbose):
                 result = future.result()
                 if result:
                     property_data.append(result)
@@ -113,9 +123,9 @@ class ERAScraper:
         self.df.to_csv(filename, index=False)
         print(f"Updated data saved to '{filename}'")
 
-    def run(self, save=True):
-        references = self.get_property_references()
-        property_data = self.fetch_property_details(references)
+    def run(self, save=True, verbose=True):
+        references = self.get_property_references(verbose)
+        property_data = self.fetch_property_details(references, verbose)
         self.df = pd.DataFrame(property_data)
         if save:
             self.save_to_csv()
