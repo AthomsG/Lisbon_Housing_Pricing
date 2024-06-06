@@ -3,11 +3,11 @@ name: Run Scraping Pipeline
 on:
   schedule:
     - cron: '0 0 * * 0' # This runs at 00:00 on Sunday (UTC)
-
   workflow_dispatch:
 
 jobs:
   run-scraping-pipeline:
+    if: github.ref == 'refs/heads/opt_scrape' # Ensure this runs only on the opt_scrape branch
     runs-on: ubuntu-latest
 
     steps:
