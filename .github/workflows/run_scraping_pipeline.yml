@@ -3,20 +3,18 @@ name: Run Scraping Pipeline
 on:
   schedule:
     - cron: '0 0 * * 0' # This runs at 00:00 on Sunday (UTC)
-  push:
-    branches:
-      - opt_scraper
   workflow_dispatch:
 
 jobs:
   run-scraping-pipeline:
+    if: github.ref == 'refs/heads/opt_scrape' # Ensure this runs only on the opt_scrape branch
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
       with:
-        ref: opt_scraper
+        ref: opt_scrape
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -40,6 +38,6 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add .
         git commit -m "Update scraping results [skip ci]"
-        git push origin opt_scraper
+        git push origin opt_scrape
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
