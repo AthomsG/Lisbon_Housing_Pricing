@@ -28,6 +28,12 @@ activate the virtual environment with:
 source [environment name]/bin/activate
 ```
 
+install virtual environment dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
 you can add the virtual environemnt as a jupyter kernel as follows:
 
 ```bash
