@@ -3,9 +3,13 @@ from src.era.ERAScraper import ERAScraper
 from datetime import datetime
 import pandas as pd
 import time
+import os
 
 OUTPUT_DIR = 'gathered_data'
 ERA_COOKIE = 'src/era/cookies.json'
+
+if not os.path.exists(OUTPUT_DIR):
+    os.makedirs(OUTPUT_DIR)
 
 now = datetime.now()
 date_str = now.strftime("%d_%m_%Y")
