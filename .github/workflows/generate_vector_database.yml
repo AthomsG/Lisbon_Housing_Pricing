@@ -29,16 +29,19 @@ jobs:
         pip install -r vectorbase_requirements.txt
 
     - name: Find latest data file
+      working-directory: scraping
       id: latestfile
       run: |
         echo "::set-output name=file::$(ls -t gathered_data/remax_portugal_*.csv | head -n1)"
 
     - name: Run Database Generation
+      working-directory: scraping
       run: |
         export OPEN_API_KEY=${{ secrets.OPENAI_API_KEY }}
         python generate_vector_database.py --path_to_data ${{ steps.latestfile.outputs.file }} --output_dir vector_database_output
 
     - name: Commit and Push changes
+      working-directory: scraping
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
