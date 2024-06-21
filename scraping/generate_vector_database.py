@@ -17,9 +17,6 @@ def main(path_to_data: str, output_dir: str):
     # Load the dataset
     df = pd.read_csv(path_to_data)
 
-    # THIS IS A TEST
-    df = df.iloc[:10]
-
     # Load OpenAI API key
     api_key = os.getenv('OPEN_API_KEY')
 
