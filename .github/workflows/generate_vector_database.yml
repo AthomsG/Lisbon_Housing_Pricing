@@ -13,12 +13,12 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         ref: opt_scrape
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: '3.11.6'
 
@@ -32,13 +32,13 @@ jobs:
       working-directory: scraping
       id: latestfile
       run: |
-        echo "::set-output name=file::$(ls -t gathered_data/remax_portugal_*.csv | head -n1)"
+        echo "file=$(ls -t gathered_data/remax_portugal_*.csv | head -n1)" >> $GITHUB_ENV
 
     - name: Run Database Generation
       working-directory: scraping
       run: |
         export OPEN_API_KEY=${{ secrets.OPENAI_API_KEY }}
-        python generate_vector_database.py --path_to_data ${{ steps.latestfile.outputs.file }} --output_dir vector_database_output
+        python generate_vector_database.py --path_to_data ${{ env.file }} --output_dir vector_database_output
 
     - name: Commit and Push changes
       working-directory: scraping
