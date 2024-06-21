@@ -5,6 +5,7 @@ on:
     workflows: ["Run Scraping Pipeline"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   generate-database:
