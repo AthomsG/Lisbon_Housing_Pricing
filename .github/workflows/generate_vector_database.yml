@@ -1,0 +1,47 @@
+name: Generate Vector Database
+
+on:
+  workflow_run:
+    workflows: ["Run Scraping Pipeline"]
+    types:
+      - completed
+
+jobs:
+  generate-database:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      with:
+        ref: opt_scrape
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11.6'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Find latest data file
+      id: latestfile
+      run: |
+        echo "::set-output name=file::$(ls -t gathered_data/remax_portugal_*.csv | head -n1)"
+
+    - name: Run Database Generation
+      run: |
+        export OPEN_API_KEY=${{ secrets.OPENAI_API_KEY }}
+        python generate_vector_database.py --path_to_data ${{ steps.latestfile.outputs.file }} --output_dir vector_database_output
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "Update vector database [skip ci]"
+        git push origin opt_scrape
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
