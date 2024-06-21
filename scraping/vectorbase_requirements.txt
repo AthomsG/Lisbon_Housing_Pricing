@@ -1,0 +1,4 @@
+pandas
+faiss-cpu
+langchain_community
+langchain_openai
