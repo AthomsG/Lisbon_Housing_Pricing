@@ -23,10 +23,16 @@ def get_bert_multilingual_embeddings(texts):
     model = BertModel.from_pretrained('bert-base-multilingual-cased')
 
     embeddings = []
-    for text in texts:
-        inputs = tokenizer(text, return_tensors='pt', max_length=512, truncation=True, padding='max_length')
-        outputs = model(**inputs)
-        embeddings.append(outputs.last_hidden_state.mean(dim=1).detach().numpy()[0])
+    batch_size = 32  # Adjust the batch size based on your memory constraints
+
+    for i in range(0, len(texts), batch_size):
+        batch_texts = texts[i:i+batch_size]
+        inputs = tokenizer(batch_texts, return_tensors='pt', max_length=512, truncation=True, padding=True)
+        with torch.no_grad():
+            outputs = model(**inputs)
+        batch_embeddings = outputs.last_hidden_state.mean(dim=1).detach().numpy()
+        embeddings.extend(batch_embeddings)
+
     return embeddings
 
 def main(path_to_data: str, output_dir: str, embedding_type: str):
