@@ -38,7 +38,7 @@ jobs:
       working-directory: scraping
       run: |
         export OPEN_API_KEY=${{ secrets.OPENAI_API_KEY }}
-        python generate_vector_database.py --path_to_data ${{ env.file }} --output_dir vector_database_output
+        python generate_vector_database.py --path_to_data ${{ env.file }} --output_dir vector_database_output --embedding_type bert_multilingual
 
     - name: Commit and Push changes
       working-directory: scraping
