@@ -7,6 +7,7 @@ import faiss
 import os
 import argparse
 import torch
+from torch.multiprocessing import Pool, set_start_method
 
 def get_openai_embeddings(texts, api_key):
     """
@@ -15,35 +16,42 @@ def get_openai_embeddings(texts, api_key):
     embeddings = OpenAIEmbeddings(api_key=api_key)
     return embeddings.embed_texts(texts)
 
-def get_bert_multilingual_embeddings(texts):
+def initialize_bert_model():
     """
-    Generate BERT multilingual embeddings for a list of texts.
+    Initialize BERT tokenizer and model.
     """
     tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
     model = BertModel.from_pretrained('bert-base-multilingual-cased')
+    return tokenizer, model
 
-    embeddings = []
+def compute_bert_embeddings(batch_texts, tokenizer, model):
+    """
+    Compute BERT embeddings for a batch of texts.
+    """
+    inputs = tokenizer(batch_texts, return_tensors='pt', max_length=512, truncation=True, padding=True)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    batch_embeddings = outputs.last_hidden_state.mean(dim=1).detach().numpy()
+    return batch_embeddings
+
+def get_bert_multilingual_embeddings(texts):
+    """
+    Generate BERT multilingual embeddings for a list of texts using parallel processing.
+    """
+    tokenizer, model = initialize_bert_model()
     batch_size = 32
 
-    for i in range(0, len(texts), batch_size):
-        batch_texts = texts[i:i+batch_size]
-        print(f"Processing batch {i//batch_size + 1}/{(len(texts) + batch_size - 1) // batch_size}")
-        inputs = tokenizer(batch_texts, return_tensors='pt', max_length=512, truncation=True, padding=True)
-        with torch.no_grad():
-            outputs = model(**inputs)
-        batch_embeddings = outputs.last_hidden_state.mean(dim=1).detach().numpy()
-        embeddings.extend(batch_embeddings)
+    with Pool() as pool:
+        batches = [texts[i:i + batch_size] for i in range(0, len(texts), batch_size)]
+        results = pool.starmap(compute_bert_embeddings, [(batch, tokenizer, model) for batch in batches])
 
+    embeddings = [embedding for batch_embeddings in results for embedding in batch_embeddings]
     return embeddings
 
 def main(path_to_data: str, output_dir: str, embedding_type: str):
     """
-    This code automatically generates a vector database from the newly scraped data from the listings websites. 
-    It reads the data from a CSV file, extracts the descriptions, and uses the specified embedding model to convert 
-    these descriptions into vectors. These vectors are then stored in a FAISS database for efficient similarity search. 
-    Additionally, it creates metadata for each description (containing its index and the description itself) and saves it to a pickle file.
+    Main function to generate a vector database from the newly scraped data.
     """
-
     # Load the dataset
     df = pd.read_csv(path_to_data)
 
@@ -60,17 +68,19 @@ def main(path_to_data: str, output_dir: str, embedding_type: str):
         raise ValueError(f"Unsupported embedding type: {embedding_type}")
 
     # Create the FAISS database from descriptions
-    db = FAISS.from_embeddings(vectors)
+    dimension = vectors[0].shape[0]
+    index = faiss.IndexFlatL2(dimension)
+    index.add(np.array(vectors))
 
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
     # Save the index
     index_path = os.path.join(output_dir, 'house_descriptions_faiss_index')
-    faiss.write_index(db.index, index_path)
+    faiss.write_index(index, index_path)
 
     # Create metadata
-    metadata = [{'id': idx, 'description': desc} for idx, desc in enumerate(descriptions)] # idx is the 'database' key
+    metadata = [{'id': idx, 'description': desc} for idx, desc in enumerate(descriptions)]
 
     # Save the metadata
     metadata_path = os.path.join(output_dir, 'metadata.pkl')
@@ -85,4 +95,5 @@ if __name__ == "__main__":
     parser.add_argument('--output_dir', type=str, required=True, help='Directory where the output files will be saved.')
     parser.add_argument('--embedding_type', type=str, required=True, choices=['openai', 'bert_multilingual'], help='Type of embeddings to use (openai or bert_multilingual).')
     args = parser.parse_args()
+    set_start_method('spawn')
     main(args.path_to_data, args.output_dir, args.embedding_type)
